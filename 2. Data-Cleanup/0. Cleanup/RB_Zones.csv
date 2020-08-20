@@ -1,0 +1,3197 @@
+,play_maker,player_team,Week,Zone,Yards,Long,rush_attempts,rush_touchdown,Rec_Yards,pass_touchdown,Rec,Tgt
+0,A.Abdullah,MIN,1,Other,8,6,2,0.0,,,,
+1,A.Abdullah,MIN,2,Other,2,2,1,0.0,,,,
+2,A.Abdullah,MIN,5,Other,25,15,2,0.0,,,,
+3,A.Abdullah,MIN,5,Red Zone,-1,-1,1,0.0,,,,
+4,A.Abdullah,MIN,9,Other,2,2,1,0.0,,,,
+5,A.Abdullah,MIN,11,Other,5,5,1,0.0,22.0,0.0,4.0,4.0
+6,A.Abdullah,MIN,15,Other,25,11,5,0.0,0.0,0.0,0.0,4.0
+7,A.Abdullah,MIN,16,Other,27,14,4,0.0,62.0,0.0,12.0,14.0
+8,A.Abdullah,MIN,17,Other,8,3,4,0.0,28.0,0.0,6.0,6.0
+9,A.Abdullah,MIN,17,Red Zone,14,11,2,0.0,0.0,0.0,0.0,2.0
+10,A.Armah,CAR,1,Inside the 5,1,1,1,1.0,,,,
+11,A.Armah,CAR,3,Other,4,4,1,0.0,4.0,0.0,2.0,2.0
+12,A.Armah,CAR,6,Other,4,3,2,0.0,,,,
+13,A.Armah,CAR,12,Inside the 5,0,0,1,0.0,,,,
+14,A.Armah,CAR,13,Other,2,2,1,0.0,,,,
+15,A.Beck,DEN,16,Other,3,3,1,0.0,,,,
+16,A.Brown,NE,2,Other,5,5,1,0.0,56.0,0.0,4.0,6.0
+17,A.Brown,TEN,7,Other,-2,-2,1,0.0,106.0,0.0,10.0,14.0
+18,A.Brown,TEN,14,Other,13,13,1,0.0,274.0,2.0,8.0,12.0
+19,A.Brown,TEN,16,Other,49,49,1,1.0,68.0,0.0,2.0,4.0
+20,A.Cooper,DAL,17,Other,6,6,1,0.0,184.0,0.0,8.0,10.0
+21,A.Dalton,CIN,2,Other,2,2,2,0.0,,,,
+22,A.Dalton,CIN,3,Inside the 5,1,1,1,1.0,,,,
+23,A.Dalton,CIN,4,Other,8,4,3,0.0,,,,
+24,A.Dalton,CIN,5,Other,0,0,1,0.0,,,,
+25,A.Dalton,CIN,5,Red Zone,5,5,1,0.0,,,,
+26,A.Dalton,CIN,6,Inside the 5,2,2,1,1.0,,,,
+27,A.Dalton,CIN,7,Inside the 5,1,1,1,1.0,,,,
+28,A.Dalton,CIN,7,Other,32,17,3,0.0,,,,
+29,A.Dalton,CIN,8,Other,4,4,1,0.0,-8.0,0.0,2.0,2.0
+30,A.Dalton,CIN,13,Other,2,2,1,0.0,,,,
+31,A.Dalton,CIN,14,Inside the 5,2,2,1,0.0,,,,
+32,A.Dalton,CIN,14,Other,6,6,1,0.0,,,,
+33,A.Dalton,CIN,14,Red Zone,3,3,1,0.0,,,,
+34,A.Dalton,CIN,15,Other,2,2,1,0.0,,,,
+35,A.Dalton,CIN,16,Inside the 5,2,2,1,0.0,,,,
+36,A.Dalton,CIN,17,Inside the 5,5,5,1,1.0,,,,
+37,A.Dalton,CIN,17,Other,10,7,4,0.0,,,,
+38,A.Ekeler,LAC,1,Other,52,19,10,0.0,190.0,2.0,10.0,12.0
+39,A.Ekeler,LAC,1,Red Zone,6,7,2,1.0,,,,
+40,A.Ekeler,LAC,2,Inside the 5,1,2,3,1.0,,,,
+41,A.Ekeler,LAC,2,Other,65,12,14,0.0,134.0,0.0,12.0,12.0
+42,A.Ekeler,LAC,3,Other,32,11,8,0.0,82.0,0.0,12.0,12.0
+43,A.Ekeler,LAC,3,Red Zone,4,4,1,0.0,8.0,0.0,2.0,2.0
+44,A.Ekeler,LAC,4,Inside the 5,2,1,2,1.0,,,,
+45,A.Ekeler,LAC,4,Other,58,9,16,0.0,88.0,0.0,8.0,8.0
+46,A.Ekeler,LAC,5,Other,7,4,3,0.0,162.0,0.0,24.0,26.0
+47,A.Ekeler,LAC,6,Other,14,11,5,0.0,28.0,0.0,6.0,8.0
+48,A.Ekeler,LAC,7,Other,7,3,4,0.0,206.0,2.0,12.0,14.0
+49,A.Ekeler,LAC,7,Red Zone,0,0,1,0.0,30.0,0.0,2.0,2.0
+50,A.Ekeler,LAC,8,Inside the 5,0,0,1,0.0,0.0,0.0,0.0,2.0
+51,A.Ekeler,LAC,8,Other,0,0,1,0.0,16.0,0.0,2.0,2.0
+52,A.Ekeler,LAC,8,Red Zone,3,3,1,0.0,22.0,2.0,2.0,2.0
+53,A.Ekeler,LAC,9,Inside the 5,4,3,2,0.0,,,,
+54,A.Ekeler,LAC,9,Other,66,16,9,0.0,46.0,0.0,8.0,8.0
+55,A.Ekeler,LAC,9,Red Zone,0,0,1,0.0,,,,
+56,A.Ekeler,LAC,10,Inside the 5,-1,-1,1,0.0,,,,
+57,A.Ekeler,LAC,10,Other,20,10,5,0.0,46.0,0.0,2.0,2.0
+58,A.Ekeler,LAC,11,Other,23,18,4,0.0,216.0,0.0,16.0,20.0
+59,A.Ekeler,LAC,11,Red Zone,1,1,1,0.0,0.0,0.0,0.0,4.0
+60,A.Ekeler,LAC,13,Other,16,8,9,0.0,102.0,2.0,8.0,10.0
+61,A.Ekeler,LAC,14,Other,101,35,8,0.0,224.0,2.0,8.0,10.0
+62,A.Ekeler,LAC,15,Other,19,11,7,0.0,124.0,0.0,10.0,14.0
+63,A.Ekeler,LAC,16,Other,11,5,4,0.0,116.0,0.0,10.0,12.0
+64,A.Ekeler,LAC,17,Other,44,22,8,0.0,68.0,0.0,16.0,20.0
+65,A.Ekeler,LAC,17,Red Zone,2,2,1,0.0,18.0,0.0,2.0,2.0
+66,A.Erickson,CIN,6,Other,17,17,1,0.0,94.0,0.0,8.0,10.0
+67,A.Erickson,CIN,7,Other,-2,9,2,0.0,274.0,0.0,16.0,24.0
+68,A.Erickson,CIN,10,Other,13,13,1,0.0,0.0,0.0,0.0,2.0
+69,A.Erickson,CIN,17,Other,5,5,1,0.0,32.0,0.0,2.0,6.0
+70,A.Humphries,TEN,2,Other,1,1,1,0.0,-2.0,0.0,4.0,4.0
+71,A.Ingold,OAK,4,Other,1,1,1,0.0,,,,
+72,A.Ingold,OAK,5,Other,3,3,1,0.0,,,,
+73,A.Ingold,OAK,8,Other,2,2,1,0.0,,,,
+74,A.Ingold,OAK,9,Other,2,2,1,0.0,,,,
+75,A.Ingold,OAK,10,Other,3,3,1,0.0,,,,
+76,A.Ingold,OAK,11,Inside the 5,3,3,1,0.0,,,,
+77,A.Ingold,OAK,12,Other,0,0,1,0.0,,,,
+78,A.Ingold,OAK,13,Other,4,4,1,0.0,28.0,0.0,2.0,2.0
+79,A.Ingold,OAK,14,Inside the 5,-1,-1,1,0.0,,,,
+80,A.Ingold,OAK,17,Inside the 5,0,0,1,0.0,,,,
+81,A.Isabella,ARI,4,Other,5,5,1,0.0,,,,
+82,A.Isabella,ARI,5,Other,5,5,1,0.0,,,,
+83,A.Isabella,ARI,5,Red Zone,6,6,1,0.0,,,,
+84,A.Isabella,ARI,15,Other,-1,-1,1,0.0,8.0,0.0,2.0,2.0
+85,A.Janovich,DEN,11,Inside the 5,1,1,1,1.0,,,,
+86,A.Jeffery,PHI,1,Inside the 5,2,2,1,1.0,10.0,2.0,2.0,2.0
+87,A.Jones,GB,1,Other,39,9,13,0.0,0.0,0.0,2.0,2.0
+88,A.Jones,GB,2,Inside the 5,2,2,1,1.0,,,,
+89,A.Jones,GB,2,Other,105,15,20,0.0,42.0,0.0,4.0,8.0
+90,A.Jones,GB,2,Red Zone,9,9,2,0.0,26.0,0.0,4.0,4.0
+91,A.Jones,GB,3,Inside the 5,-1,1,2,1.0,,,,
+92,A.Jones,GB,3,Other,13,4,7,0.0,8.0,0.0,2.0,2.0
+93,A.Jones,GB,3,Red Zone,7,7,1,1.0,,,,
+94,A.Jones,GB,4,Inside the 5,3,3,1,1.0,,,,
+95,A.Jones,GB,4,Other,10,7,10,0.0,74.0,0.0,12.0,14.0
+96,A.Jones,GB,4,Red Zone,8,4,2,0.0,,,,
+97,A.Jones,GB,5,Inside the 5,12,5,5,3.0,,,,
+98,A.Jones,GB,5,Other,70,16,12,0.0,150.0,0.0,14.0,14.0
+99,A.Jones,GB,5,Red Zone,25,18,2,1.0,0.0,0.0,0.0,2.0
+100,A.Jones,GB,6,Other,44,9,10,0.0,30.0,0.0,6.0,12.0
+101,A.Jones,GB,6,Red Zone,3,3,1,0.0,-4.0,0.0,0.0,2.0
+102,A.Jones,GB,7,Other,50,15,12,0.0,56.0,2.0,4.0,4.0
+103,A.Jones,GB,8,Other,63,9,12,0.0,288.0,2.0,10.0,12.0
+104,A.Jones,GB,8,Red Zone,4,4,1,0.0,22.0,0.0,2.0,2.0
+105,A.Jones,GB,9,Other,30,7,8,0.0,-2.0,0.0,2.0,6.0
+106,A.Jones,GB,10,Inside the 5,6,5,3,2.0,,,,
+107,A.Jones,GB,10,Other,74,28,9,0.0,,,,
+108,A.Jones,GB,10,Red Zone,13,13,1,1.0,,,,
+109,A.Jones,GB,12,Inside the 5,0,0,1,0.0,,,,
+110,A.Jones,GB,12,Other,36,11,11,0.0,0.0,0.0,0.0,2.0
+111,A.Jones,GB,12,Red Zone,2,2,1,0.0,,,,
+112,A.Jones,GB,13,Inside the 5,-2,1,2,0.0,,,,
+113,A.Jones,GB,13,Other,16,9,7,0.0,22.0,0.0,4.0,8.0
+114,A.Jones,GB,13,Red Zone,4,3,2,0.0,4.0,0.0,4.0,4.0
+115,A.Jones,GB,14,Inside the 5,4,4,1,1.0,,,,
+116,A.Jones,GB,14,Other,130,42,14,0.0,98.0,0.0,10.0,12.0
+117,A.Jones,GB,14,Red Zone,0,0,1,0.0,18.0,0.0,2.0,2.0
+118,A.Jones,GB,15,Inside the 5,2,2,1,1.0,,,,
+119,A.Jones,GB,15,Other,49,21,12,1.0,,,,
+120,A.Jones,GB,16,Other,142,56,22,1.0,12.0,0.0,4.0,6.0
+121,A.Jones,GB,16,Red Zone,12,12,1,1.0,,,,
+122,A.Jones,GB,17,Other,94,14,23,0.0,86.0,0.0,4.0,10.0
+123,A.Jones,GB,17,Red Zone,6,3,2,0.0,0.0,0.0,0.0,2.0
+124,A.Kamara,NO,1,Other,96,28,12,0.0,134.0,0.0,12.0,12.0
+125,A.Kamara,NO,1,Red Zone,1,1,1,0.0,10.0,0.0,2.0,4.0
+126,A.Kamara,NO,2,Other,41,12,12,0.0,30.0,0.0,2.0,4.0
+127,A.Kamara,NO,2,Red Zone,4,4,1,0.0,0.0,0.0,0.0,2.0
+128,A.Kamara,NO,3,Inside the 5,1,1,3,1.0,,,,
+129,A.Kamara,NO,3,Other,55,16,11,0.0,168.0,2.0,16.0,18.0
+130,A.Kamara,NO,3,Red Zone,13,7,2,0.0,16.0,0.0,2.0,2.0
+131,A.Kamara,NO,4,Other,67,13,16,0.0,24.0,0.0,4.0,4.0
+132,A.Kamara,NO,4,Red Zone,2,2,1,0.0,16.0,0.0,2.0,2.0
+133,A.Kamara,NO,5,Other,57,16,13,0.0,84.0,0.0,12.0,14.0
+134,A.Kamara,NO,5,Red Zone,5,2,3,0.0,,,,
+135,A.Kamara,NO,6,Other,31,7,11,0.0,70.0,0.0,14.0,16.0
+136,A.Kamara,NO,10,Other,24,8,4,0.0,100.0,0.0,16.0,16.0
+137,A.Kamara,NO,11,Other,52,14,9,0.0,82.0,0.0,16.0,16.0
+138,A.Kamara,NO,11,Red Zone,23,12,4,0.0,12.0,0.0,4.0,4.0
+139,A.Kamara,NO,12,Other,53,30,10,0.0,96.0,0.0,18.0,18.0
+140,A.Kamara,NO,12,Red Zone,1,1,1,0.0,,,,
+141,A.Kamara,NO,13,Other,42,24,9,0.0,46.0,0.0,8.0,16.0
+142,A.Kamara,NO,13,Red Zone,19,13,2,0.0,,,,
+143,A.Kamara,NO,14,Inside the 5,2,1,2,0.0,,,,
+144,A.Kamara,NO,14,Other,23,17,11,0.0,34.0,0.0,4.0,8.0
+145,A.Kamara,NO,15,Other,65,15,13,0.0,32.0,0.0,8.0,8.0
+146,A.Kamara,NO,15,Red Zone,1,1,1,0.0,14.0,0.0,2.0,2.0
+147,A.Kamara,NO,16,Inside the 5,4,3,2,1.0,,,,
+148,A.Kamara,NO,16,Other,70,40,7,1.0,50.0,0.0,10.0,12.0
+149,A.Kamara,NO,16,Red Zone,6,5,2,0.0,10.0,0.0,2.0,2.0
+150,A.Kamara,NO,17,Inside the 5,1,1,1,1.0,,,,
+151,A.Kamara,NO,17,Other,23,9,6,0.0,36.0,0.0,4.0,6.0
+152,A.Kamara,NO,17,Red Zone,15,15,1,1.0,,,,
+153,A.Lazard,GB,12,Other,21,21,1,0.0,14.0,0.0,2.0,4.0
+154,A.Levine,BAL,1,Other,60,60,1,0.0,,,,
+155,A.Levine Sr.,BAL,17,Other,2,2,1,0.0,,,,
+156,A.Mattison,MIN,1,Other,32,23,8,0.0,,,,
+157,A.Mattison,MIN,1,Red Zone,17,17,1,0.0,,,,
+158,A.Mattison,MIN,2,Other,25,14,4,0.0,,,,
+159,A.Mattison,MIN,3,Other,38,21,8,0.0,,,,
+160,A.Mattison,MIN,3,Red Zone,20,10,4,1.0,,,,
+161,A.Mattison,MIN,4,Other,5,3,2,0.0,16.0,0.0,2.0,2.0
+162,A.Mattison,MIN,5,Other,53,19,6,0.0,,,,
+163,A.Mattison,MIN,5,Red Zone,-1,-1,1,0.0,,,,
+164,A.Mattison,MIN,6,Inside the 5,2,2,1,0.0,,,,
+165,A.Mattison,MIN,6,Other,58,35,10,0.0,,,,
+166,A.Mattison,MIN,6,Red Zone,3,5,3,0.0,,,,
+167,A.Mattison,MIN,7,Other,7,4,5,0.0,,,,
+168,A.Mattison,MIN,7,Red Zone,11,9,2,0.0,,,,
+169,A.Mattison,MIN,8,Other,48,28,7,0.0,6.0,0.0,4.0,4.0
+170,A.Mattison,MIN,8,Red Zone,13,3,6,0.0,,,,
+171,A.Mattison,MIN,9,Other,3,3,2,0.0,0.0,0.0,0.0,2.0
+172,A.Mattison,MIN,9,Red Zone,3,3,1,0.0,,,,
+173,A.Mattison,MIN,10,Other,22,12,4,0.0,4.0,0.0,2.0,2.0
+174,A.Mattison,MIN,10,Red Zone,30,16,4,0.0,,,,
+175,A.Mattison,MIN,11,Other,5,6,3,0.0,,,,
+176,A.Mattison,MIN,13,Inside the 5,-1,-1,1,0.0,,,,
+177,A.Mattison,MIN,13,Other,15,15,2,0.0,102.0,0.0,8.0,10.0
+178,A.Mattison,MIN,13,Red Zone,8,8,1,0.0,,,,
+179,A.Mattison,MIN,14,Inside the 5,1,1,1,0.0,,,,
+180,A.Mattison,MIN,14,Other,37,9,12,0.0,36.0,0.0,4.0,4.0
+181,A.Mattison,MIN,14,Red Zone,8,8,1,0.0,,,,
+182,A.McCarron,HOU,17,Inside the 5,1,1,1,1.0,,,,
+183,A.McCarron,HOU,17,Other,38,18,4,0.0,,,,
+184,A.Miller,CHI,7,Other,-1,-1,1,0.0,128.0,0.0,10.0,16.0
+185,A.Morris,ARI,9,Other,4,4,1,0.0,,,,
+186,A.Peterson,WAS,2,Inside the 5,1,1,2,1.0,,,,
+187,A.Peterson,WAS,2,Other,20,10,7,0.0,0.0,0.0,2.0,2.0
+188,A.Peterson,WAS,2,Red Zone,4,4,1,0.0,14.0,0.0,2.0,2.0
+189,A.Peterson,WAS,3,Other,33,7,10,0.0,-6.0,0.0,2.0,6.0
+190,A.Peterson,WAS,3,Red Zone,4,4,2,0.0,,,,
+191,A.Peterson,WAS,4,Inside the 5,-2,-2,1,0.0,,,,
+192,A.Peterson,WAS,4,Other,29,9,9,0.0,,,,
+193,A.Peterson,WAS,4,Red Zone,1,1,1,0.0,,,,
+194,A.Peterson,WAS,5,Other,18,7,7,0.0,,,,
+195,A.Peterson,WAS,6,Inside the 5,2,2,1,0.0,,,,
+196,A.Peterson,WAS,6,Other,112,25,21,0.0,10.0,0.0,2.0,2.0
+197,A.Peterson,WAS,6,Red Zone,4,4,1,0.0,26.0,0.0,2.0,2.0
+198,A.Peterson,WAS,7,Other,81,15,20,0.0,,,,
+199,A.Peterson,WAS,8,Inside the 5,-1,-1,1,0.0,,,,
+200,A.Peterson,WAS,8,Other,77,29,13,0.0,54.0,0.0,4.0,4.0
+201,A.Peterson,WAS,9,Other,106,28,16,0.0,44.0,0.0,2.0,2.0
+202,A.Peterson,WAS,9,Red Zone,2,2,2,0.0,,,,
+203,A.Peterson,WAS,11,Other,20,8,8,0.0,10.0,0.0,4.0,4.0
+204,A.Peterson,WAS,11,Red Zone,5,5,1,0.0,,,,
+205,A.Peterson,WAS,12,Other,27,7,10,0.0,44.0,0.0,2.0,2.0
+206,A.Peterson,WAS,13,Other,83,22,11,0.0,0.0,0.0,0.0,2.0
+207,A.Peterson,WAS,13,Red Zone,16,12,2,1.0,,,,
+208,A.Peterson,WAS,14,Inside the 5,2,2,1,1.0,,,,
+209,A.Peterson,WAS,14,Other,74,13,19,0.0,,,,
+210,A.Peterson,WAS,15,Other,49,14,13,0.0,50.0,0.0,6.0,6.0
+211,A.Peterson,WAS,15,Red Zone,17,10,3,1.0,,,,
+212,A.Peterson,WAS,16,Inside the 5,1,1,1,1.0,,,,
+213,A.Peterson,WAS,16,Other,27,17,11,0.0,38.0,0.0,4.0,4.0
+214,A.Peterson,WAS,16,Red Zone,8,5,3,0.0,,,,
+215,A.Peterson,WAS,17,Other,75,32,12,0.0,0.0,0.0,2.0,8.0
+216,A.Peterson,WAS,17,Red Zone,3,3,1,0.0,,,,
+217,A.Roberts,BUF,5,Red Zone,7,7,1,0.0,,,,
+218,A.Robinson,CHI,17,Other,2,2,1,0.0,120.0,0.0,12.0,18.0
+219,A.Rodgers,GB,1,Other,10,10,1,0.0,,,,
+220,A.Rodgers,GB,2,Other,0,0,1,0.0,,,,
+221,A.Rodgers,GB,4,Other,46,14,5,0.0,,,,
+222,A.Rodgers,GB,5,Other,3,3,1,0.0,,,,
+223,A.Rodgers,GB,6,Other,12,12,1,0.0,,,,
+224,A.Rodgers,GB,7,Inside the 5,3,3,1,1.0,,,,
+225,A.Rodgers,GB,7,Other,3,3,1,0.0,,,,
+226,A.Rodgers,GB,8,Other,23,15,2,0.0,,,,
+227,A.Rodgers,GB,8,Red Zone,9,9,1,0.0,,,,
+228,A.Rodgers,GB,9,Inside the 5,2,2,1,0.0,,,,
+229,A.Rodgers,GB,9,Other,5,5,1,0.0,,,,
+230,A.Rodgers,GB,10,Red Zone,7,7,1,0.0,,,,
+231,A.Rodgers,GB,12,Other,8,4,2,0.0,,,,
+232,A.Rodgers,GB,12,Red Zone,5,5,1,0.0,,,,
+233,A.Rodgers,GB,13,Other,19,15,2,0.0,,,,
+234,A.Rodgers,GB,13,Red Zone,5,5,1,0.0,,,,
+235,A.Rodgers,GB,14,Other,19,13,2,0.0,,,,
+236,A.Rodgers,GB,15,Other,23,17,3,0.0,,,,
+237,A.Rodgers,GB,17,Other,2,2,1,0.0,,,,
+238,A.Sherman,KC,5,Other,2,2,1,0.0,,,,
+239,A.Sherman,KC,7,Other,2,2,1,0.0,,,,
+240,A.Sherman,KC,7,Red Zone,5,5,1,0.0,,,,
+241,A.Sherman,KC,13,Other,0,0,1,0.0,14.0,0.0,2.0,2.0
+242,A.Thielen,MIN,3,Inside the 5,1,1,1,1.0,,,,
+243,A.Thielen,MIN,6,Other,0,0,1,0.0,76.0,0.0,6.0,10.0
+244,A.Thielen,MIN,15,Other,3,3,1,0.0,54.0,0.0,6.0,6.0
+245,A.Thielen,MIN,16,Other,2,2,1,0.0,0.0,0.0,0.0,8.0
+246,A.Wilson,MIA,1,Other,1,1,1,0.0,26.0,0.0,4.0,8.0
+247,A.Wilson,MIA,12,Other,4,4,1,0.0,66.0,0.0,10.0,14.0
+248,A.Wilson,MIA,13,Other,28,28,1,0.0,58.0,0.0,6.0,6.0
+249,A.Wilson,MIA,13,Red Zone,3,3,1,0.0,18.0,0.0,2.0,2.0
+250,A.Wilson,MIA,16,Red Zone,9,9,1,0.0,14.0,0.0,2.0,2.0
+251,B.Allen,DEN,9,Other,16,11,2,0.0,,,,
+252,B.Allen,DEN,11,Other,7,5,2,0.0,,,,
+253,B.Allen,DEN,11,Red Zone,11,11,1,0.0,,,,
+254,B.Allen,DEN,12,Other,8,7,2,0.0,,,,
+255,B.Anger,HOU,7,Other,-5,-5,1,0.0,,,,
+256,B.Bolden,NE,1,Other,7,7,1,0.0,,,,
+257,B.Bolden,NE,3,Other,-2,3,2,0.0,42.0,0.0,4.0,6.0
+258,B.Bolden,NE,4,Inside the 5,4,4,1,1.0,,,,
+259,B.Bolden,NE,5,Other,13,5,5,0.0,58.0,2.0,2.0,2.0
+260,B.Bolden,NE,6,Inside the 5,2,1,2,1.0,,,,
+261,B.Bolden,NE,6,Other,21,21,1,0.0,44.0,0.0,4.0,4.0
+262,B.Bolden,NE,7,Inside the 5,2,2,1,0.0,,,,
+263,B.Bolden,NE,12,Other,11,11,1,0.0,,,,
+264,B.Bolden,NE,14,Red Zone,10,10,1,1.0,,,,
+265,B.Bortles,LA,10,Other,1,1,1,0.0,,,,
+266,B.Bortles,LA,13,Other,-10,-10,1,0.0,,,,
+267,B.Cooks,LA,2,Other,2,2,1,0.0,144.0,0.0,4.0,6.0
+268,B.Cooks,LA,3,Other,8,8,1,0.0,224.0,0.0,16.0,24.0
+269,B.Cooks,LA,5,Other,27,27,1,0.0,58.0,0.0,2.0,6.0
+270,B.Cooks,LA,6,Other,14,9,2,0.0,36.0,0.0,6.0,6.0
+271,B.Cooks,LA,12,Other,1,1,1,0.0,64.0,0.0,4.0,8.0
+272,B.Fowler,NYG,2,Other,20,20,1,0.0,102.0,0.0,10.0,20.0
+273,B.Hill,ATL,7,Other,11,5,5,0.0,28.0,0.0,4.0,4.0
+274,B.Hill,ATL,8,Other,29,23,3,1.0,,,,
+275,B.Hill,ATL,10,Other,54,15,16,0.0,,,,
+276,B.Hill,ATL,10,Red Zone,7,3,4,0.0,20.0,2.0,2.0,4.0
+277,B.Hill,ATL,11,Inside the 5,4,4,1,0.0,,,,
+278,B.Hill,ATL,11,Other,9,4,11,0.0,16.0,0.0,2.0,4.0
+279,B.Hill,ATL,11,Red Zone,17,11,3,0.0,0.0,0.0,0.0,2.0
+280,B.Hill,ATL,12,Other,14,5,9,0.0,26.0,0.0,6.0,8.0
+281,B.Hill,ATL,13,Other,13,8,4,0.0,48.0,0.0,6.0,6.0
+282,B.Hill,ATL,14,Inside the 5,3,3,1,1.0,,,,
+283,B.Hill,ATL,14,Other,59,27,8,0.0,,,,
+284,B.Hill,ATL,15,Other,16,16,1,0.0,,,,
+285,B.Hill,ATL,16,Other,60,18,6,0.0,,,,
+286,B.Hill,ATL,16,Red Zone,6,6,1,0.0,,,,
+287,B.Hill,ATL,17,Other,21,9,5,0.0,,,,
+288,B.Hoyer,IND,9,Red Zone,6,6,1,0.0,,,,
+289,B.Hoyer,IND,10,Other,1,1,1,0.0,,,,
+290,B.Hundley,ARI,16,Other,26,14,3,0.0,,,,
+291,B.Hundley,ARI,16,Red Zone,12,12,1,0.0,,,,
+292,B.Hundley,ARI,17,Red Zone,6,6,1,0.0,,,,
+293,B.Kern,TEN,8,Other,0,0,1,0.0,,,,
+294,B.Mayfield,CLE,3,Other,-1,-1,1,0.0,,,,
+295,B.Mayfield,CLE,4,Red Zone,2,1,2,0.0,,,,
+296,B.Mayfield,CLE,6,Other,25,15,3,0.0,,,,
+297,B.Mayfield,CLE,6,Red Zone,10,10,1,1.0,,,,
+298,B.Mayfield,CLE,8,Other,18,18,1,0.0,,,,
+299,B.Mayfield,CLE,9,Inside the 5,0,0,1,0.0,,,,
+300,B.Mayfield,CLE,9,Other,22,16,2,0.0,,,,
+301,B.Mayfield,CLE,10,Other,2,2,1,0.0,,,,
+302,B.Mayfield,CLE,11,Inside the 5,1,1,1,1.0,,,,
+303,B.Mayfield,CLE,12,Other,5,5,2,0.0,,,,
+304,B.Mayfield,CLE,13,Other,2,2,1,0.0,,,,
+305,B.Mayfield,CLE,14,Other,6,6,1,0.0,,,,
+306,B.Mayfield,CLE,14,Red Zone,7,7,1,1.0,,,,
+307,B.Mayfield,CLE,15,Other,11,7,2,0.0,,,,
+308,B.Mayfield,CLE,16,Other,5,5,1,0.0,,,,
+309,B.Mayfield,CLE,17,Other,18,9,3,0.0,,,,
+310,B.Mayfield,CLE,17,Red Zone,11,11,1,0.0,,,,
+311,B.Perriman,TB,3,Other,13,13,1,0.0,12.0,0.0,2.0,4.0
+312,B.Perriman,TB,15,Other,3,3,1,0.0,226.0,6.0,10.0,12.0
+313,B.Powell,NYJ,5,Other,4,4,1,0.0,,,,
+314,B.Powell,NYJ,6,Other,5,5,1,0.0,0.0,0.0,0.0,2.0
+315,B.Powell,NYJ,7,Other,3,3,1,0.0,,,,
+316,B.Powell,NYJ,8,Other,11,5,4,0.0,,,,
+317,B.Powell,NYJ,9,Other,16,10,2,0.0,,,,
+318,B.Powell,NYJ,10,Other,15,13,7,0.0,,,,
+319,B.Powell,NYJ,11,Other,42,17,6,0.0,10.0,0.0,2.0,2.0
+320,B.Powell,NYJ,11,Red Zone,0,0,1,0.0,0.0,0.0,0.0,2.0
+321,B.Powell,NYJ,12,Other,13,7,3,0.0,0.0,0.0,0.0,2.0
+322,B.Powell,NYJ,12,Red Zone,2,5,2,0.0,10.0,0.0,2.0,2.0
+323,B.Powell,NYJ,13,Other,14,6,4,0.0,8.0,0.0,4.0,4.0
+324,B.Powell,NYJ,14,Other,72,11,17,0.0,28.0,0.0,4.0,6.0
+325,B.Powell,NYJ,14,Red Zone,2,2,2,0.0,,,,
+326,B.Powell,NYJ,16,Other,3,3,1,0.0,10.0,0.0,2.0,4.0
+327,B.Powell,NYJ,17,Other,27,14,7,0.0,,,,
+328,B.Roethlisberger,PIT,1,Red Zone,7,7,1,0.0,,,,
+329,B.Scarbrough,DET,11,Inside the 5,5,5,1,1.0,,,,
+330,B.Scarbrough,DET,11,Other,45,23,12,0.0,,,,
+331,B.Scarbrough,DET,11,Red Zone,5,5,1,0.0,,,,
+332,B.Scarbrough,DET,12,Other,93,30,17,0.0,0.0,0.0,0.0,2.0
+333,B.Scarbrough,DET,12,Red Zone,5,5,1,0.0,,,,
+334,B.Scarbrough,DET,13,Other,78,15,19,0.0,,,,
+335,B.Scarbrough,DET,13,Red Zone,5,3,2,0.0,,,,
+336,B.Scarbrough,DET,14,Other,65,7,19,0.0,10.0,0.0,2.0,6.0
+337,B.Scarbrough,DET,16,Other,31,18,7,0.0,,,,
+338,B.Scarbrough,DET,16,Red Zone,3,3,1,0.0,,,,
+339,B.Scarbrough,DET,17,Other,42,15,9,0.0,,,,
+340,B.Scott,PHI,6,Other,30,15,4,0.0,,,,
+341,B.Scott,PHI,7,Other,32,14,7,0.0,10.0,0.0,2.0,2.0
+342,B.Scott,PHI,8,Inside the 5,4,4,1,1.0,,,,
+343,B.Scott,PHI,8,Other,2,5,4,0.0,,,,
+344,B.Scott,PHI,11,Other,26,12,7,0.0,,,,
+345,B.Scott,PHI,14,Inside the 5,2,2,1,1.0,,,,
+346,B.Scott,PHI,14,Other,42,25,6,0.0,138.0,0.0,12.0,12.0
+347,B.Scott,PHI,14,Red Zone,15,6,3,0.0,,,,
+348,B.Scott,PHI,15,Other,16,6,4,0.0,78.0,0.0,14.0,14.0
+349,B.Scott,PHI,15,Red Zone,10,6,2,0.0,,,,
+350,B.Scott,PHI,16,Other,8,5,2,0.0,14.0,0.0,12.0,12.0
+351,B.Scott,PHI,16,Red Zone,4,4,1,0.0,,,,
+352,B.Scott,PHI,17,Inside the 5,4,2,2,2.0,,,,
+353,B.Scott,PHI,17,Other,42,15,15,0.0,168.0,0.0,8.0,12.0
+354,B.Scott,PHI,17,Red Zone,8,7,2,1.0,,,,
+355,B.Snell,PIT,2,Other,23,23,1,0.0,,,,
+356,B.Snell,PIT,3,Other,6,4,3,0.0,,,,
+357,B.Snell,PIT,4,Other,1,1,2,0.0,0.0,0.0,0.0,2.0
+358,B.Snell,PIT,6,Other,65,20,15,0.0,28.0,0.0,2.0,2.0
+359,B.Snell,PIT,6,Red Zone,10,6,2,0.0,,,,
+360,B.Snell,PIT,8,Other,13,5,5,0.0,,,,
+361,B.Snell Jr.,PIT,12,Other,71,21,15,0.0,10.0,0.0,2.0,2.0
+362,B.Snell Jr.,PIT,12,Red Zone,27,13,6,0.0,,,,
+363,B.Snell Jr.,PIT,13,Inside the 5,1,1,1,1.0,,,,
+364,B.Snell Jr.,PIT,13,Other,53,14,11,0.0,8.0,0.0,2.0,2.0
+365,B.Snell Jr.,PIT,13,Red Zone,9,9,4,0.0,,,,
+366,B.Snell Jr.,PIT,14,Inside the 5,-1,-1,1,0.0,,,,
+367,B.Snell Jr.,PIT,14,Other,46,9,13,0.0,,,,
+368,B.Snell Jr.,PIT,14,Red Zone,-4,-1,2,0.0,,,,
+369,B.Snell Jr.,PIT,15,Other,2,2,1,0.0,,,,
+370,B.Snell Jr.,PIT,15,Red Zone,-1,-1,1,0.0,,,,
+371,B.Snell Jr.,PIT,16,Other,14,6,7,0.0,,,,
+372,B.Snell Jr.,PIT,17,Inside the 5,4,4,1,1.0,,,,
+373,B.Snell Jr.,PIT,17,Other,81,19,13,0.0,,,,
+374,B.Snell Jr.,PIT,17,Red Zone,6,4,4,0.0,,,,
+375,C.Anderson,DET,1,Other,34,9,9,0.0,,,,
+376,C.Anderson,DET,1,Red Zone,1,1,2,0.0,,,,
+377,C.Anderson,DET,2,Other,8,7,5,0.0,,,,
+378,C.Carson,SEA,1,Inside the 5,1,1,1,1.0,,,,
+379,C.Carson,SEA,1,Other,30,21,11,0.0,48.0,0.0,10.0,10.0
+380,C.Carson,SEA,1,Red Zone,15,11,3,0.0,20.0,2.0,2.0,2.0
+381,C.Carson,SEA,2,Other,60,21,15,0.0,54.0,0.0,6.0,6.0
+382,C.Carson,SEA,3,Other,44,22,12,0.0,-4.0,0.0,2.0,2.0
+383,C.Carson,SEA,3,Red Zone,8,4,3,0.0,,,,
+384,C.Carson,SEA,4,Other,97,12,19,0.0,82.0,0.0,8.0,8.0
+385,C.Carson,SEA,4,Red Zone,7,11,3,0.0,,,,
+386,C.Carson,SEA,5,Other,110,14,24,0.0,0.0,0.0,0.0,2.0
+387,C.Carson,SEA,5,Red Zone,8,6,3,0.0,,,,
+388,C.Carson,SEA,6,Inside the 5,-2,1,2,1.0,,,,
+389,C.Carson,SEA,6,Other,109,25,17,0.0,70.0,0.0,8.0,8.0
+390,C.Carson,SEA,6,Red Zone,17,6,5,0.0,,,,
+391,C.Carson,SEA,7,Other,60,9,20,0.0,18.0,0.0,6.0,10.0
+392,C.Carson,SEA,7,Red Zone,5,5,1,0.0,,,,
+393,C.Carson,SEA,8,Inside the 5,1,1,1,1.0,,,,
+394,C.Carson,SEA,8,Other,65,19,15,0.0,0.0,0.0,0.0,2.0
+395,C.Carson,SEA,8,Red Zone,24,12,4,0.0,,,,
+396,C.Carson,SEA,9,Inside the 5,-1,0,2,0.0,,,,
+397,C.Carson,SEA,9,Other,110,59,13,0.0,56.0,0.0,4.0,6.0
+398,C.Carson,SEA,9,Red Zone,-4,-4,1,0.0,,,,
+399,C.Carson,SEA,10,Inside the 5,1,1,1,1.0,,,,
+400,C.Carson,SEA,10,Other,75,9,21,0.0,24.0,0.0,6.0,8.0
+401,C.Carson,SEA,10,Red Zone,13,9,3,0.0,,,,
+402,C.Carson,SEA,12,Other,25,6,7,0.0,62.0,0.0,6.0,8.0
+403,C.Carson,SEA,12,Red Zone,1,1,1,0.0,,,,
+404,C.Carson,SEA,13,Inside the 5,1,1,2,1.0,,,,
+405,C.Carson,SEA,13,Other,102,25,19,0.0,14.0,0.0,2.0,4.0
+406,C.Carson,SEA,13,Red Zone,-1,1,2,0.0,,,,
+407,C.Carson,SEA,14,Other,76,13,15,0.0,30.0,0.0,4.0,8.0
+408,C.Carson,SEA,15,Other,116,23,21,0.0,8.0,0.0,2.0,4.0
+409,C.Carson,SEA,15,Red Zone,17,16,3,2.0,,,,
+410,C.Carson,SEA,16,Other,40,16,8,0.0,40.0,0.0,2.0,2.0
+411,C.Daniel,CHI,4,Other,2,4,4,0.0,,,,
+412,C.Daniel,CHI,4,Red Zone,2,2,1,0.0,,,,
+413,C.Daniel,CHI,5,Other,2,2,1,0.0,,,,
+414,C.Edmonds,ARI,1,Other,5,5,1,0.0,0.0,0.0,0.0,2.0
+415,C.Edmonds,ARI,2,Red Zone,2,2,1,0.0,20.0,0.0,2.0,2.0
+416,C.Edmonds,ARI,3,Other,15,8,3,0.0,20.0,0.0,2.0,4.0
+417,C.Edmonds,ARI,4,Other,37,10,6,0.0,,,,
+418,C.Edmonds,ARI,5,Other,68,37,8,1.0,20.0,0.0,4.0,6.0
+419,C.Edmonds,ARI,6,Other,34,15,5,0.0,62.0,0.0,2.0,2.0
+420,C.Edmonds,ARI,7,Other,86,22,23,1.0,48.0,0.0,4.0,8.0
+421,C.Edmonds,ARI,7,Red Zone,40,20,4,2.0,,,,
+422,C.Edmonds,ARI,8,Other,5,3,5,0.0,14.0,0.0,2.0,4.0
+423,C.Edmonds,ARI,8,Red Zone,3,3,2,0.0,-4.0,0.0,2.0,4.0
+424,C.Edmonds,ARI,14,Other,9,9,1,0.0,0.0,0.0,0.0,2.0
+425,C.Edmonds,ARI,17,Other,-1,-1,1,0.0,,,,
+426,C.Godwin,TB,9,Other,8,8,1,0.0,122.0,0.0,14.0,18.0
+427,C.Ham,MIN,7,Other,9,9,1,0.0,,,,
+428,C.Ham,MIN,10,Inside the 5,-1,-1,1,0.0,,,,
+429,C.Ham,MIN,11,Other,0,0,1,0.0,12.0,0.0,2.0,2.0
+430,C.Ham,MIN,14,Inside the 5,0,0,1,0.0,,,,
+431,C.Ham,MIN,15,Other,5,5,1,0.0,22.0,0.0,4.0,4.0
+432,C.Ham,MIN,17,Other,3,3,1,0.0,0.0,0.0,0.0,2.0
+433,C.Ham,MIN,17,Red Zone,1,1,1,0.0,,,,
+434,C.Hyde,HOU,1,Other,78,20,9,0.0,4.0,0.0,2.0,2.0
+435,C.Hyde,HOU,1,Red Zone,5,5,1,0.0,,,,
+436,C.Hyde,HOU,2,Inside the 5,1,1,1,0.0,,,,
+437,C.Hyde,HOU,2,Other,81,14,18,0.0,,,,
+438,C.Hyde,HOU,2,Red Zone,8,8,1,0.0,,,,
+439,C.Hyde,HOU,3,Inside the 5,3,3,1,1.0,,,,
+440,C.Hyde,HOU,3,Other,18,10,8,0.0,,,,
+441,C.Hyde,HOU,3,Red Zone,-2,-2,1,0.0,,,,
+442,C.Hyde,HOU,4,Inside the 5,1,1,1,0.0,,,,
+443,C.Hyde,HOU,4,Other,47,25,10,0.0,0.0,0.0,6.0,6.0
+444,C.Hyde,HOU,4,Red Zone,10,10,1,0.0,12.0,0.0,2.0,4.0
+445,C.Hyde,HOU,5,Inside the 5,1,1,1,1.0,,,,
+446,C.Hyde,HOU,5,Other,52,14,18,0.0,,,,
+447,C.Hyde,HOU,5,Red Zone,7,5,2,0.0,0.0,0.0,0.0,2.0
+448,C.Hyde,HOU,6,Inside the 5,2,2,2,1.0,,,,
+449,C.Hyde,HOU,6,Other,108,26,21,0.0,28.0,0.0,2.0,2.0
+450,C.Hyde,HOU,6,Red Zone,6,3,3,0.0,,,,
+451,C.Hyde,HOU,7,Inside the 5,0,0,1,0.0,,,,
+452,C.Hyde,HOU,7,Other,35,10,10,0.0,0.0,0.0,0.0,2.0
+453,C.Hyde,HOU,7,Red Zone,0,0,1,0.0,,,,
+454,C.Hyde,HOU,8,Other,83,20,15,0.0,0.0,0.0,0.0,2.0
+455,C.Hyde,HOU,8,Red Zone,0,6,4,0.0,,,,
+456,C.Hyde,HOU,9,Other,159,58,18,0.0,,,,
+457,C.Hyde,HOU,9,Red Zone,1,1,1,0.0,,,,
+458,C.Hyde,HOU,11,Other,65,41,9,1.0,0.0,0.0,0.0,2.0
+459,C.Hyde,HOU,12,Other,67,33,15,0.0,,,,
+460,C.Hyde,HOU,12,Red Zone,0,0,1,0.0,,,,
+461,C.Hyde,HOU,13,Other,17,4,10,0.0,,,,
+462,C.Hyde,HOU,14,Other,71,13,13,0.0,10.0,0.0,4.0,6.0
+463,C.Hyde,HOU,14,Red Zone,2,2,1,0.0,,,,
+464,C.Hyde,HOU,15,Inside the 5,1,1,1,0.0,,,,
+465,C.Hyde,HOU,15,Other,71,9,20,0.0,,,,
+466,C.Hyde,HOU,15,Red Zone,32,11,5,1.0,,,,
+467,C.Hyde,HOU,16,Inside the 5,1,1,1,1.0,,,,
+468,C.Hyde,HOU,16,Other,13,5,12,0.0,20.0,0.0,2.0,2.0
+469,C.Hyde,HOU,16,Red Zone,13,6,4,0.0,,,,
+470,C.Hyde,HOU,17,Other,13,7,4,0.0,,,,
+471,C.Jones,CAR,9,Other,5,5,1,0.0,,,,
+472,C.Keenum,WAS,3,Red Zone,3,5,2,0.0,,,,
+473,C.Keenum,WAS,6,Inside the 5,0,0,1,0.0,,,,
+474,C.Keenum,WAS,6,Other,11,9,2,0.0,,,,
+475,C.Keenum,WAS,16,Inside the 5,1,1,1,1.0,,,,
+476,C.Kirk,ARI,1,Other,12,12,1,0.0,64.0,0.0,8.0,22.0
+477,C.Kirk,ARI,4,Red Zone,6,6,1,0.0,12.0,0.0,2.0,2.0
+478,C.Kirk,ARI,8,Other,19,19,1,0.0,158.0,0.0,16.0,22.0
+479,C.Kirk,ARI,9,Other,8,8,1,0.0,10.0,0.0,2.0,8.0
+480,C.Kirk,ARI,11,Other,1,1,1,0.0,74.0,0.0,10.0,16.0
+481,C.Kirk,ARI,14,Other,4,4,1,0.0,144.0,0.0,10.0,12.0
+482,C.Kirk,ARI,15,Other,28,28,1,0.0,64.0,0.0,6.0,8.0
+483,C.Kirk,ARI,16,Other,9,8,2,0.0,0.0,0.0,0.0,10.0
+484,C.Kirk,ARI,17,Other,6,6,1,0.0,120.0,0.0,10.0,18.0
+485,C.Kupp,LA,2,Other,6,6,1,0.0,240.0,0.0,10.0,16.0
+486,C.Kupp,LA,4,Other,-2,-2,1,0.0,242.0,2.0,18.0,28.0
+487,C.McCaffrey,CAR,1,Inside the 5,5,3,2,1.0,,,,
+488,C.McCaffrey,CAR,1,Other,97,23,15,0.0,162.0,0.0,20.0,22.0
+489,C.McCaffrey,CAR,1,Red Zone,26,18,2,1.0,,,,
+490,C.McCaffrey,CAR,2,Inside the 5,0,0,1,0.0,,,,
+491,C.McCaffrey,CAR,2,Other,35,10,14,0.0,32.0,0.0,4.0,10.0
+492,C.McCaffrey,CAR,2,Red Zone,2,2,1,0.0,0.0,0.0,0.0,2.0
+493,C.McCaffrey,CAR,3,Inside the 5,-3,-3,1,0.0,,,,
+494,C.McCaffrey,CAR,3,Other,145,76,18,1.0,70.0,0.0,6.0,8.0
+495,C.McCaffrey,CAR,3,Red Zone,11,5,5,0.0,,,,
+496,C.McCaffrey,CAR,4,Inside the 5,3,3,1,1.0,,,,
+497,C.McCaffrey,CAR,4,Other,86,13,23,0.0,172.0,0.0,20.0,20.0
+498,C.McCaffrey,CAR,4,Red Zone,4,3,3,0.0,,,,
+499,C.McCaffrey,CAR,5,Inside the 5,3,5,2,1.0,,,,
+500,C.McCaffrey,CAR,5,Other,173,84,17,1.0,66.0,0.0,8.0,12.0
+501,C.McCaffrey,CAR,6,Inside the 5,4,3,2,1.0,,,,
+502,C.McCaffrey,CAR,6,Other,27,10,16,0.0,52.0,2.0,8.0,10.0
+503,C.McCaffrey,CAR,6,Red Zone,0,6,4,0.0,,,,
+504,C.McCaffrey,CAR,8,Inside the 5,2,2,1,0.0,,,,
+505,C.McCaffrey,CAR,8,Other,117,40,14,1.0,76.0,0.0,8.0,10.0
+506,C.McCaffrey,CAR,9,Inside the 5,1,1,1,1.0,,,,
+507,C.McCaffrey,CAR,9,Other,132,58,20,1.0,26.0,0.0,4.0,4.0
+508,C.McCaffrey,CAR,9,Red Zone,13,5,3,0.0,14.0,2.0,2.0,2.0
+509,C.McCaffrey,CAR,10,Inside the 5,6,3,3,1.0,0.0,0.0,0.0,2.0
+510,C.McCaffrey,CAR,10,Other,91,18,15,0.0,48.0,0.0,10.0,10.0
+511,C.McCaffrey,CAR,10,Red Zone,11,9,2,0.0,18.0,0.0,2.0,2.0
+512,C.McCaffrey,CAR,11,Other,67,18,13,0.0,242.0,0.0,22.0,28.0
+513,C.McCaffrey,CAR,11,Red Zone,3,3,1,0.0,0.0,0.0,0.0,2.0
+514,C.McCaffrey,CAR,12,Inside the 5,2,4,3,1.0,2.0,2.0,2.0,2.0
+515,C.McCaffrey,CAR,12,Other,48,9,14,0.0,110.0,0.0,12.0,12.0
+516,C.McCaffrey,CAR,12,Red Zone,14,8,5,0.0,26.0,0.0,4.0,4.0
+517,C.McCaffrey,CAR,13,Inside the 5,-2,-1,2,0.0,,,,
+518,C.McCaffrey,CAR,13,Other,39,12,9,0.0,116.0,0.0,14.0,24.0
+519,C.McCaffrey,CAR,13,Red Zone,7,5,3,0.0,,,,
+520,C.McCaffrey,CAR,14,Other,37,11,9,0.0,156.0,0.0,18.0,20.0
+521,C.McCaffrey,CAR,14,Red Zone,16,8,2,0.0,8.0,0.0,4.0,4.0
+522,C.McCaffrey,CAR,15,Inside the 5,1,1,1,1.0,,,,
+523,C.McCaffrey,CAR,15,Other,68,13,16,0.0,168.0,0.0,14.0,18.0
+524,C.McCaffrey,CAR,15,Red Zone,18,15,2,1.0,8.0,0.0,2.0,2.0
+525,C.McCaffrey,CAR,16,Other,44,14,10,0.0,238.0,0.0,30.0,30.0
+526,C.McCaffrey,CAR,16,Red Zone,10,4,3,0.0,,,,
+527,C.McCaffrey,CAR,17,Inside the 5,1,1,1,1.0,0.0,0.0,0.0,2.0
+528,C.McCaffrey,CAR,17,Other,25,10,8,0.0,144.0,0.0,14.0,18.0
+529,C.McCoy,WAS,5,Other,14,9,2,0.0,,,,
+530,C.Moore,BAL,17,Inside the 5,0,0,1,0.0,,,,
+531,C.Newton,CAR,1,Other,-2,3,3,0.0,,,,
+532,C.Newton,CAR,2,Other,0,0,2,0.0,,,,
+533,C.Patterson,CHI,1,Other,-2,-2,1,0.0,6.0,0.0,2.0,6.0
+534,C.Patterson,CHI,2,Other,50,46,2,0.0,,,,
+535,C.Patterson,CHI,3,Other,9,7,3,0.0,12.0,0.0,2.0,2.0
+536,C.Patterson,CHI,3,Red Zone,5,5,1,0.0,,,,
+537,C.Patterson,CHI,4,Other,4,3,2,0.0,6.0,0.0,2.0,2.0
+538,C.Patterson,CHI,5,Red Zone,5,5,1,0.0,,,,
+539,C.Patterson,CHI,7,Other,2,2,1,0.0,42.0,0.0,4.0,4.0
+540,C.Patterson,CHI,8,Other,5,5,1,0.0,,,,
+541,C.Patterson,CHI,14,Red Zone,-5,-5,1,0.0,,,,
+542,C.Patterson,CHI,15,Other,0,0,1,0.0,12.0,0.0,2.0,6.0
+543,C.Patterson,CHI,16,Other,16,16,1,0.0,10.0,0.0,2.0,2.0
+544,C.Patterson,CHI,17,Other,11,11,1,0.0,,,,
+545,C.Patterson,CHI,17,Red Zone,3,3,1,0.0,,,,
+546,C.Prosise,SEA,2,Other,7,5,2,0.0,26.0,0.0,6.0,6.0
+547,C.Prosise,SEA,3,Inside the 5,1,1,1,0.0,,,,
+548,C.Prosise,SEA,3,Other,4,2,3,0.0,76.0,0.0,10.0,10.0
+549,C.Prosise,SEA,4,Inside the 5,-1,-1,1,0.0,,,,
+550,C.Prosise,SEA,4,Other,-4,-4,1,0.0,,,,
+551,C.Prosise,SEA,4,Red Zone,9,9,1,1.0,,,,
+552,C.Prosise,SEA,6,Inside the 5,0,0,1,0.0,,,,
+553,C.Prosise,SEA,6,Other,8,5,3,0.0,30.0,0.0,2.0,6.0
+554,C.Prosise,SEA,7,Other,17,17,1,0.0,,,,
+555,C.Prosise,SEA,14,Other,2,2,1,0.0,,,,
+556,C.Prosise,SEA,15,Other,10,7,4,0.0,20.0,0.0,2.0,2.0
+557,C.Prosise,SEA,15,Red Zone,5,5,1,0.0,,,,
+558,C.Prosise,SEA,16,Other,14,9,4,0.0,,,,
+559,C.Ridley,ATL,10,Other,19,19,1,0.0,56.0,0.0,6.0,10.0
+560,C.Ridley,ATL,12,Other,15,15,1,0.0,170.0,2.0,12.0,24.0
+561,C.Rogers,IND,11,Other,18,18,1,0.0,22.0,0.0,2.0,4.0
+562,C.Samuel,CAR,2,Other,2,2,1,0.0,182.0,0.0,10.0,26.0
+563,C.Samuel,CAR,4,Other,1,1,1,0.0,64.0,0.0,6.0,14.0
+564,C.Samuel,CAR,5,Other,16,16,1,0.0,38.0,0.0,6.0,10.0
+565,C.Samuel,CAR,5,Red Zone,9,9,1,0.0,0.0,0.0,0.0,2.0
+566,C.Samuel,CAR,6,Red Zone,8,8,1,1.0,26.0,2.0,2.0,2.0
+567,C.Samuel,CAR,9,Other,10,10,1,0.0,104.0,0.0,4.0,8.0
+568,C.Samuel,CAR,12,Other,40,13,4,0.0,18.0,0.0,2.0,8.0
+569,C.Samuel,CAR,14,Other,17,13,3,0.0,50.0,0.0,4.0,8.0
+570,C.Samuel,CAR,15,Inside the 5,4,4,1,0.0,10.0,2.0,2.0,4.0
+571,C.Samuel,CAR,15,Other,12,7,2,0.0,52.0,0.0,8.0,10.0
+572,C.Samuel,CAR,15,Red Zone,7,7,1,0.0,,,,
+573,C.Samuel,CAR,16,Other,4,3,2,0.0,34.0,0.0,4.0,10.0
+574,C.Sutton,DEN,9,Other,7,7,1,0.0,112.0,2.0,10.0,16.0
+575,C.Sutton,DEN,11,Other,9,9,1,0.0,226.0,0.0,10.0,14.0
+576,C.Sutton,DEN,11,Red Zone,1,1,1,0.0,0.0,0.0,0.0,2.0
+577,C.Thompson,WAS,1,Other,10,7,3,0.0,114.0,0.0,12.0,18.0
+578,C.Thompson,WAS,2,Other,2,2,1,0.0,96.0,0.0,10.0,14.0
+579,C.Thompson,WAS,2,Red Zone,1,1,1,0.0,0.0,0.0,0.0,2.0
+580,C.Thompson,WAS,3,Inside the 5,2,2,2,0.0,0.0,0.0,0.0,2.0
+581,C.Thompson,WAS,3,Other,26,11,4,0.0,158.0,0.0,8.0,10.0
+582,C.Thompson,WAS,3,Red Zone,1,1,1,0.0,,,,
+583,C.Thompson,WAS,4,Other,4,3,4,0.0,112.0,0.0,6.0,10.0
+584,C.Thompson,WAS,5,Other,21,12,4,0.0,34.0,0.0,10.0,14.0
+585,C.Thompson,WAS,6,Other,12,8,3,0.0,16.0,0.0,4.0,4.0
+586,C.Thompson,WAS,13,Other,14,9,3,0.0,30.0,0.0,2.0,4.0
+587,C.Thompson,WAS,16,Other,25,11,6,0.0,14.0,0.0,6.0,6.0
+588,C.Thompson,WAS,16,Red Zone,9,7,2,0.0,22.0,0.0,2.0,2.0
+589,C.Thompson,WAS,17,Other,11,16,3,0.0,0.0,0.0,2.0,4.0
+590,C.Wentz,PHI,1,Other,4,2,2,0.0,,,,
+591,C.Wentz,PHI,1,Red Zone,2,2,1,0.0,,,,
+592,C.Wentz,PHI,2,Inside the 5,3,2,3,1.0,,,,
+593,C.Wentz,PHI,2,Other,0,0,1,0.0,,,,
+594,C.Wentz,PHI,3,Other,14,6,3,0.0,,,,
+595,C.Wentz,PHI,3,Red Zone,19,19,1,0.0,,,,
+596,C.Wentz,PHI,4,Inside the 5,2,2,1,0.0,,,,
+597,C.Wentz,PHI,4,Other,8,6,2,0.0,,,,
+598,C.Wentz,PHI,4,Red Zone,5,5,1,0.0,,,,
+599,C.Wentz,PHI,5,Other,5,5,2,0.0,,,,
+600,C.Wentz,PHI,6,Other,23,16,2,0.0,,,,
+601,C.Wentz,PHI,7,Other,12,6,4,0.0,,,,
+602,C.Wentz,PHI,8,Other,29,13,3,0.0,,,,
+603,C.Wentz,PHI,8,Red Zone,10,8,2,0.0,,,,
+604,C.Wentz,PHI,9,Other,16,8,3,0.0,,,,
+605,C.Wentz,PHI,11,Other,17,8,3,0.0,,,,
+606,C.Wentz,PHI,12,Inside the 5,0,0,1,0.0,,,,
+607,C.Wentz,PHI,12,Other,27,11,5,0.0,,,,
+608,C.Wentz,PHI,14,Other,9,4,5,0.0,,,,
+609,C.Wentz,PHI,15,Inside the 5,3,3,1,0.0,,,,
+610,C.Wentz,PHI,15,Red Zone,6,4,2,0.0,,,,
+611,C.Wentz,PHI,16,Other,16,7,4,0.0,,,,
+612,C.Wentz,PHI,16,Red Zone,7,7,1,0.0,,,,
+613,C.Wentz,PHI,17,Other,15,10,3,0.0,,,,
+614,D.Blough,DET,13,Other,1,1,1,0.0,,,,
+615,D.Blough,DET,15,Other,20,9,4,0.0,,,,
+616,D.Blough,DET,17,Other,6,6,1,0.0,,,,
+617,D.Blough,DET,17,Red Zone,5,5,1,0.0,38.0,2.0,2.0,2.0
+618,D.Booker,DEN,11,Other,4,4,1,0.0,0.0,0.0,0.0,4.0
+619,D.Booker,DEN,15,Other,5,5,1,0.0,,,,
+620,D.Brees,NO,11,Other,2,2,1,0.0,,,,
+621,D.Brees,NO,14,Inside the 5,1,1,1,1.0,,,,
+622,D.Carr,OAK,1,Red Zone,3,3,1,0.0,,,,
+623,D.Carr,OAK,2,Other,18,10,2,0.0,,,,
+624,D.Carr,OAK,3,Other,0,0,1,0.0,,,,
+625,D.Carr,OAK,4,Other,0,0,1,0.0,,,,
+626,D.Carr,OAK,5,Other,9,9,2,0.0,,,,
+627,D.Carr,OAK,7,Inside the 5,1,1,1,0.0,,,,
+628,D.Carr,OAK,10,Other,4,4,1,0.0,,,,
+629,D.Carr,OAK,11,Inside the 5,3,3,1,1.0,,,,
+630,D.Carr,OAK,11,Other,1,1,1,0.0,,,,
+631,D.Carr,OAK,12,Other,11,11,1,0.0,,,,
+632,D.Carr,OAK,13,Other,7,6,3,0.0,,,,
+633,D.Carr,OAK,14,Other,17,15,2,0.0,,,,
+634,D.Carr,OAK,15,Other,12,12,1,0.0,,,,
+635,D.Carr,OAK,16,Inside the 5,3,3,1,1.0,,,,
+636,D.Carr,OAK,17,Other,0,0,1,0.0,,,,
+637,D.Carrier,OAK,9,Other,27,27,1,0.0,,,,
+638,D.Chark Jr.,JAX,7,Other,20,20,1,0.0,82.0,0.0,4.0,8.0
+639,D.Chark Jr.,JAX,8,Other,0,0,1,0.0,142.0,0.0,10.0,18.0
+640,D.Cook,MIN,1,Inside the 5,0,0,1,0.0,,,,
+641,D.Cook,MIN,1,Other,85,22,18,0.0,18.0,0.0,4.0,4.0
+642,D.Cook,MIN,1,Red Zone,26,19,2,2.0,,,,
+643,D.Cook,MIN,2,Other,154,75,19,1.0,74.0,0.0,6.0,6.0
+644,D.Cook,MIN,2,Red Zone,0,0,1,0.0,,,,
+645,D.Cook,MIN,3,Inside the 5,2,1,2,1.0,,,,
+646,D.Cook,MIN,3,Other,102,25,12,0.0,66.0,0.0,8.0,10.0
+647,D.Cook,MIN,3,Red Zone,6,5,2,0.0,,,,
+648,D.Cook,MIN,4,Inside the 5,2,2,1,1.0,,,,
+649,D.Cook,MIN,4,Other,24,4,12,0.0,70.0,0.0,10.0,14.0
+650,D.Cook,MIN,4,Red Zone,9,9,1,0.0,,,,
+651,D.Cook,MIN,5,Inside the 5,-1,-1,1,0.0,,,,
+652,D.Cook,MIN,5,Other,128,41,19,0.0,172.0,0.0,12.0,12.0
+653,D.Cook,MIN,5,Red Zone,5,5,1,0.0,,,,
+654,D.Cook,MIN,6,Inside the 5,-1,1,3,1.0,,,,
+655,D.Cook,MIN,6,Other,37,14,11,0.0,26.0,0.0,4.0,4.0
+656,D.Cook,MIN,6,Red Zone,5,3,2,0.0,,,,
+657,D.Cook,MIN,7,Inside the 5,4,4,4,1.0,,,,
+658,D.Cook,MIN,7,Other,128,23,19,0.0,14.0,0.0,2.0,4.0
+659,D.Cook,MIN,7,Red Zone,10,8,2,1.0,,,,
+660,D.Cook,MIN,8,Inside the 5,4,4,1,1.0,,,,
+661,D.Cook,MIN,8,Other,77,10,19,0.0,146.0,0.0,10.0,12.0
+662,D.Cook,MIN,8,Red Zone,17,11,3,0.0,,,,
+663,D.Cook,MIN,9,Inside the 5,1,1,1,0.0,,,,
+664,D.Cook,MIN,9,Other,67,12,17,0.0,90.0,0.0,8.0,14.0
+665,D.Cook,MIN,9,Red Zone,3,3,3,0.0,,,,
+666,D.Cook,MIN,10,Inside the 5,10,4,4,1.0,,,,
+667,D.Cook,MIN,10,Other,85,23,20,0.0,168.0,0.0,12.0,12.0
+668,D.Cook,MIN,10,Red Zone,2,1,2,0.0,4.0,0.0,2.0,2.0
+669,D.Cook,MIN,11,Inside the 5,3,3,1,1.0,0.0,0.0,0.0,2.0
+670,D.Cook,MIN,11,Other,18,5,8,0.0,44.0,0.0,8.0,10.0
+671,D.Cook,MIN,11,Red Zone,5,5,2,0.0,18.0,0.0,2.0,2.0
+672,D.Cook,MIN,13,Inside the 5,2,2,1,1.0,,,,
+673,D.Cook,MIN,13,Other,27,9,8,0.0,70.0,0.0,6.0,8.0
+674,D.Cook,MIN,14,Inside the 5,3,3,1,1.0,,,,
+675,D.Cook,MIN,14,Other,56,9,16,0.0,26.0,0.0,4.0,4.0
+676,D.Cook,MIN,14,Red Zone,3,3,1,0.0,,,,
+677,D.Cook,MIN,15,Other,23,8,5,0.0,30.0,0.0,4.0,4.0
+678,D.Cook,MIN,15,Red Zone,4,3,4,0.0,2.0,0.0,2.0,2.0
+679,D.Dawkins,TEN,6,Other,2,1,2,0.0,,,,
+680,D.Dawkins,TEN,16,Other,21,14,7,0.0,0.0,0.0,0.0,2.0
+681,D.Dawkins,TEN,16,Red Zone,3,4,2,0.0,,,,
+682,D.Freeman,ATL,1,Other,19,5,8,0.0,24.0,0.0,6.0,8.0
+683,D.Freeman,ATL,2,Other,18,9,10,0.0,84.0,0.0,6.0,8.0
+684,D.Freeman,ATL,2,Red Zone,4,4,1,0.0,,,,
+685,D.Freeman,ATL,3,Other,74,28,13,0.0,14.0,0.0,6.0,8.0
+686,D.Freeman,ATL,3,Red Zone,14,12,3,0.0,,,,
+687,D.Freeman,ATL,4,Other,28,8,12,0.0,144.0,0.0,16.0,18.0
+688,D.Freeman,ATL,5,Inside the 5,0,0,1,0.0,,,,
+689,D.Freeman,ATL,5,Other,26,21,8,0.0,62.0,0.0,8.0,8.0
+690,D.Freeman,ATL,5,Red Zone,4,3,2,0.0,18.0,2.0,2.0,2.0
+691,D.Freeman,ATL,6,Other,74,15,16,0.0,22.0,0.0,2.0,2.0
+692,D.Freeman,ATL,6,Red Zone,14,7,3,0.0,38.0,4.0,4.0,4.0
+693,D.Freeman,ATL,7,Other,19,9,7,0.0,12.0,0.0,4.0,6.0
+694,D.Freeman,ATL,8,Other,39,12,13,0.0,112.0,0.0,14.0,14.0
+695,D.Freeman,ATL,10,Other,33,12,8,0.0,16.0,0.0,4.0,6.0
+696,D.Freeman,ATL,10,Red Zone,5,3,2,0.0,4.0,0.0,2.0,2.0
+697,D.Freeman,ATL,13,Other,51,6,16,0.0,26.0,0.0,8.0,8.0
+698,D.Freeman,ATL,13,Red Zone,0,0,1,0.0,,,,
+699,D.Freeman,ATL,14,Other,63,10,13,0.0,20.0,0.0,8.0,8.0
+700,D.Freeman,ATL,14,Red Zone,21,13,4,1.0,,,,
+701,D.Freeman,ATL,15,Other,38,11,11,0.0,32.0,0.0,4.0,4.0
+702,D.Freeman,ATL,15,Red Zone,1,1,1,0.0,,,,
+703,D.Freeman,ATL,16,Other,36,14,11,0.0,132.0,0.0,16.0,18.0
+704,D.Freeman,ATL,16,Red Zone,17,17,2,1.0,16.0,2.0,2.0,2.0
+705,D.Freeman,ATL,17,Other,57,12,16,0.0,22.0,0.0,2.0,2.0
+706,D.Freeman,ATL,17,Red Zone,1,1,2,0.0,8.0,0.0,2.0,6.0
+707,D.Guice,WAS,1,Other,18,5,10,0.0,40.0,0.0,6.0,6.0
+708,D.Guice,WAS,11,Inside the 5,0,0,1,0.0,,,,
+709,D.Guice,WAS,11,Other,17,9,3,0.0,90.0,2.0,2.0,4.0
+710,D.Guice,WAS,11,Red Zone,7,5,3,0.0,,,,
+711,D.Guice,WAS,12,Other,30,11,9,0.0,12.0,0.0,2.0,4.0
+712,D.Guice,WAS,12,Red Zone,2,2,1,0.0,,,,
+713,D.Guice,WAS,13,Inside the 5,2,1,2,2.0,,,,
+714,D.Guice,WAS,13,Other,127,60,8,0.0,8.0,0.0,2.0,2.0
+715,D.Guice,WAS,14,Other,42,23,5,0.0,,,,
+716,D.Harris,NE,7,Other,12,13,4,0.0,,,,
+717,D.Harris,NO,4,Other,10,10,1,0.0,,,,
+718,D.Harris,NO,14,Other,8,8,1,0.0,26.0,0.0,2.0,2.0
+719,D.Harris,NO,17,Other,13,7,2,0.0,,,,
+720,D.Haskins,WAS,4,Other,9,9,1,0.0,,,,
+721,D.Haskins,WAS,4,Red Zone,14,14,1,0.0,,,,
+722,D.Haskins,WAS,9,Other,14,9,3,0.0,,,,
+723,D.Haskins,WAS,11,Inside the 5,4,4,1,0.0,,,,
+724,D.Haskins,WAS,11,Other,1,1,3,0.0,,,,
+725,D.Haskins,WAS,12,Other,29,18,2,0.0,,,,
+726,D.Haskins,WAS,13,Other,7,5,3,0.0,,,,
+727,D.Haskins,WAS,14,Inside the 5,0,0,1,0.0,,,,
+728,D.Haskins,WAS,14,Other,-1,-1,1,0.0,,,,
+729,D.Haskins,WAS,15,Other,26,23,3,0.0,,,,
+730,D.Henderson,LA,1,Inside the 5,0,0,1,0.0,,,,
+731,D.Henderson,LA,6,Inside the 5,4,4,1,0.0,,,,
+732,D.Henderson,LA,6,Other,35,22,5,0.0,18.0,0.0,2.0,4.0
+733,D.Henderson,LA,7,Other,31,9,11,0.0,16.0,0.0,2.0,2.0
+734,D.Henderson,LA,8,Other,49,15,11,0.0,40.0,0.0,4.0,6.0
+735,D.Henderson,LA,10,Other,4,3,4,0.0,,,,
+736,D.Henderson,LA,13,Other,17,13,4,0.0,,,,
+737,D.Henderson,LA,16,Other,7,7,2,0.0,,,,
+738,D.Henry,TEN,1,Inside the 5,1,1,1,1.0,,,,
+739,D.Henry,TEN,1,Other,73,18,15,0.0,150.0,2.0,2.0,4.0
+740,D.Henry,TEN,1,Red Zone,10,6,3,0.0,,,,
+741,D.Henry,TEN,2,Inside the 5,1,1,1,1.0,,,,
+742,D.Henry,TEN,2,Other,80,18,13,0.0,24.0,0.0,4.0,6.0
+743,D.Henry,TEN,2,Red Zone,1,1,1,0.0,,,,
+744,D.Henry,TEN,3,Inside the 5,1,1,1,1.0,,,,
+745,D.Henry,TEN,3,Other,43,11,16,0.0,4.0,0.0,2.0,4.0
+746,D.Henry,TEN,4,Other,100,16,24,0.0,16.0,0.0,2.0,2.0
+747,D.Henry,TEN,4,Red Zone,0,2,3,0.0,,,,
+748,D.Henry,TEN,5,Inside the 5,0,1,2,1.0,,,,
+749,D.Henry,TEN,5,Other,77,24,15,0.0,,,,
+750,D.Henry,TEN,5,Red Zone,1,3,3,0.0,,,,
+751,D.Henry,TEN,6,Other,30,6,14,0.0,10.0,0.0,2.0,6.0
+752,D.Henry,TEN,6,Red Zone,-2,-2,1,0.0,,,,
+753,D.Henry,TEN,7,Other,77,12,19,0.0,36.0,0.0,2.0,2.0
+754,D.Henry,TEN,7,Red Zone,13,11,3,1.0,,,,
+755,D.Henry,TEN,8,Other,75,34,16,0.0,16.0,0.0,2.0,2.0
+756,D.Henry,TEN,9,Other,48,12,11,0.0,72.0,2.0,6.0,6.0
+757,D.Henry,TEN,9,Red Zone,15,8,2,1.0,,,,
+758,D.Henry,TEN,10,Inside the 5,1,1,1,1.0,,,,
+759,D.Henry,TEN,10,Other,173,68,21,1.0,6.0,0.0,4.0,4.0
+760,D.Henry,TEN,10,Red Zone,14,14,1,0.0,,,,
+761,D.Henry,TEN,12,Other,145,74,16,1.0,32.0,0.0,2.0,2.0
+762,D.Henry,TEN,12,Red Zone,14,7,3,1.0,,,,
+763,D.Henry,TEN,13,Other,132,34,22,0.0,34.0,0.0,6.0,6.0
+764,D.Henry,TEN,13,Red Zone,17,13,4,1.0,,,,
+765,D.Henry,TEN,14,Other,80,24,15,0.0,,,,
+766,D.Henry,TEN,14,Red Zone,23,12,3,2.0,12.0,0.0,2.0,2.0
+767,D.Henry,TEN,15,Inside the 5,1,1,2,0.0,,,,
+768,D.Henry,TEN,15,Other,70,23,16,0.0,0.0,0.0,0.0,2.0
+769,D.Henry,TEN,15,Red Zone,15,11,3,0.0,,,,
+770,D.Henry,TEN,17,Inside the 5,4,3,3,2.0,,,,
+771,D.Henry,TEN,17,Other,186,53,25,1.0,,,,
+772,D.Henry,TEN,17,Red Zone,21,8,4,0.0,,,,
+773,D.Hilliard,CLE,1,Inside the 5,4,4,1,1.0,,,,
+774,D.Hilliard,CLE,4,Inside the 5,1,1,1,1.0,0.0,0.0,0.0,2.0
+775,D.Hilliard,CLE,4,Other,11,5,3,0.0,54.0,0.0,4.0,4.0
+776,D.Hilliard,CLE,4,Red Zone,15,11,2,0.0,0.0,0.0,0.0,2.0
+777,D.Hilliard,CLE,8,Other,10,10,1,0.0,48.0,0.0,8.0,8.0
+778,D.Hilliard,CLE,9,Other,6,4,4,0.0,12.0,0.0,4.0,4.0
+779,D.Hilliard,CLE,9,Red Zone,2,2,1,0.0,,,,
+780,D.Hodges,PIT,5,Other,21,21,1,0.0,,,,
+781,D.Hodges,PIT,6,Other,9,7,2,0.0,,,,
+782,D.Hodges,PIT,6,Red Zone,-1,-1,1,0.0,,,,
+783,D.Hodges,PIT,12,Other,5,5,1,0.0,,,,
+784,D.Hodges,PIT,13,Inside the 5,-8,-8,1,0.0,,,,
+785,D.Hodges,PIT,13,Other,9,9,1,0.0,,,,
+786,D.Hodges,PIT,13,Red Zone,4,4,1,0.0,,,,
+787,D.Hodges,PIT,14,Other,29,22,3,0.0,,,,
+788,D.Hodges,PIT,14,Red Zone,6,6,1,0.0,,,,
+789,D.Hodges,PIT,15,Other,4,4,1,0.0,,,,
+790,D.Hodges,PIT,16,Other,0,0,1,0.0,,,,
+791,D.Hopkins,HOU,9,Red Zone,6,6,1,0.0,,,,
+792,D.Hopkins,HOU,14,Red Zone,12,12,1,0.0,20.0,0.0,2.0,4.0
+793,D.Johnson,ARI,1,Other,71,18,15,0.0,110.0,2.0,12.0,14.0
+794,D.Johnson,ARI,1,Red Zone,11,7,3,0.0,,,,
+795,D.Johnson,ARI,2,Inside the 5,1,1,1,1.0,,,,
+796,D.Johnson,ARI,2,Other,11,4,5,0.0,0.0,0.0,2.0,2.0
+797,D.Johnson,ARI,2,Red Zone,2,2,1,0.0,,,,
+798,D.Johnson,ARI,3,Inside the 5,3,3,1,0.0,6.0,2.0,2.0,2.0
+799,D.Johnson,ARI,3,Other,34,15,10,0.0,46.0,0.0,8.0,14.0
+800,D.Johnson,ARI,4,Other,39,14,10,0.0,198.0,0.0,16.0,22.0
+801,D.Johnson,ARI,4,Red Zone,1,1,1,0.0,,,,
+802,D.Johnson,ARI,5,Inside the 5,0,0,1,0.0,,,,
+803,D.Johnson,ARI,5,Other,83,17,13,0.0,130.0,0.0,6.0,10.0
+804,D.Johnson,ARI,5,Red Zone,8,5,3,0.0,,,,
+805,D.Johnson,ARI,6,Inside the 5,0,1,3,1.0,,,,
+806,D.Johnson,ARI,6,Other,29,17,8,0.0,94.0,0.0,8.0,12.0
+807,D.Johnson,ARI,6,Red Zone,5,5,1,0.0,42.0,2.0,4.0,4.0
+808,D.Johnson,ARI,7,Other,2,2,1,0.0,,,,
+809,D.Johnson,ARI,10,Other,5,5,3,0.0,,,,
+810,D.Johnson,ARI,10,Red Zone,-3,1,2,0.0,16.0,0.0,2.0,2.0
+811,D.Johnson,ARI,13,Other,15,9,4,0.0,18.0,0.0,4.0,4.0
+812,D.Johnson,ARI,14,Other,19,9,3,0.0,68.0,2.0,4.0,4.0
+813,D.Johnson,ARI,15,Other,6,5,3,0.0,,,,
+814,D.Johnson,ARI,16,Other,3,2,2,0.0,,,,
+815,D.Johnson,CLE,1,Other,13,13,1,0.0,46.0,0.0,4.0,4.0
+816,D.Johnson,CLE,2,Other,8,6,3,0.0,84.0,0.0,6.0,8.0
+817,D.Johnson,HOU,1,Other,53,32,8,0.0,30.0,0.0,4.0,6.0
+818,D.Johnson,HOU,1,Red Zone,4,4,1,0.0,36.0,0.0,4.0,4.0
+819,D.Johnson,HOU,2,Other,31,19,6,0.0,0.0,0.0,0.0,2.0
+820,D.Johnson,HOU,3,Other,2,1,2,0.0,44.0,0.0,4.0,6.0
+821,D.Johnson,HOU,4,Other,51,40,5,0.0,44.0,0.0,4.0,6.0
+822,D.Johnson,HOU,4,Red Zone,5,5,1,0.0,,,,
+823,D.Johnson,HOU,5,Other,51,24,6,0.0,16.0,0.0,2.0,2.0
+824,D.Johnson,HOU,5,Red Zone,8,6,3,0.0,,,,
+825,D.Johnson,HOU,6,Other,30,15,4,0.0,0.0,0.0,0.0,4.0
+826,D.Johnson,HOU,6,Red Zone,4,4,1,0.0,40.0,2.0,4.0,4.0
+827,D.Johnson,HOU,7,Other,26,11,6,0.0,44.0,0.0,4.0,8.0
+828,D.Johnson,HOU,7,Red Zone,8,8,1,0.0,0.0,0.0,0.0,2.0
+829,D.Johnson,HOU,8,Other,1,4,3,0.0,42.0,0.0,6.0,8.0
+830,D.Johnson,HOU,9,Inside the 5,1,1,1,1.0,,,,
+831,D.Johnson,HOU,9,Other,12,4,6,0.0,136.0,0.0,10.0,10.0
+832,D.Johnson,HOU,11,Other,40,17,6,0.0,8.0,0.0,4.0,4.0
+833,D.Johnson,HOU,12,Other,22,19,5,0.0,16.0,0.0,2.0,2.0
+834,D.Johnson,HOU,13,Other,33,13,8,0.0,80.0,0.0,8.0,10.0
+835,D.Johnson,HOU,13,Red Zone,3,3,1,0.0,28.0,2.0,2.0,2.0
+836,D.Johnson,HOU,14,Other,5,5,1,0.0,80.0,0.0,12.0,14.0
+837,D.Johnson,HOU,15,Other,4,3,2,0.0,38.0,0.0,4.0,4.0
+838,D.Johnson,HOU,16,Other,4,6,2,0.0,24.0,0.0,2.0,4.0
+839,D.Johnson,HOU,17,Inside the 5,1,1,1,1.0,,,,
+840,D.Johnson,HOU,17,Other,11,8,3,0.0,90.0,0.0,10.0,12.0
+841,D.Johnson,PIT,3,Other,6,6,1,0.0,104.0,2.0,6.0,12.0
+842,D.Johnson,PIT,9,Other,2,2,1,0.0,6.0,0.0,2.0,2.0
+843,D.Johnson,PIT,13,Other,17,17,1,0.0,28.0,0.0,2.0,10.0
+844,D.Johnson,PIT,14,Other,16,16,1,0.0,88.0,0.0,6.0,10.0
+845,D.Jones,NYG,1,Other,5,5,1,0.0,,,,
+846,D.Jones,NYG,3,Other,14,11,2,0.0,,,,
+847,D.Jones,NYG,3,Red Zone,14,7,2,2.0,,,,
+848,D.Jones,NYG,4,Other,23,16,2,0.0,,,,
+849,D.Jones,NYG,4,Red Zone,12,12,1,0.0,,,,
+850,D.Jones,NYG,5,Other,12,8,3,0.0,,,,
+851,D.Jones,NYG,6,Other,9,9,1,0.0,,,,
+852,D.Jones,NYG,7,Other,26,11,3,0.0,,,,
+853,D.Jones,NYG,7,Red Zone,9,9,1,0.0,,,,
+854,D.Jones,NYG,8,Other,14,9,3,0.0,,,,
+855,D.Jones,NYG,9,Inside the 5,2,2,1,0.0,,,,
+856,D.Jones,NYG,9,Other,52,16,5,0.0,,,,
+857,D.Jones,NYG,10,Other,20,11,3,0.0,,,,
+858,D.Jones,NYG,12,Other,27,26,2,0.0,,,,
+859,D.Jones,NYG,13,Other,6,6,5,0.0,,,,
+860,D.Jones,NYG,16,Other,12,11,3,0.0,,,,
+861,D.Jones,NYG,17,Other,26,17,3,0.0,,,,
+862,D.Knox,BUF,3,Other,9,9,1,0.0,132.0,0.0,4.0,6.0
+863,D.Lewis,TEN,1,Other,7,6,3,0.0,12.0,0.0,6.0,6.0
+864,D.Lewis,TEN,2,Other,9,4,3,0.0,10.0,0.0,2.0,2.0
+865,D.Lewis,TEN,3,Other,9,5,2,0.0,14.0,0.0,2.0,2.0
+866,D.Lewis,TEN,3,Red Zone,4,4,1,0.0,,,,
+867,D.Lewis,TEN,4,Other,16,7,4,0.0,8.0,0.0,8.0,10.0
+868,D.Lewis,TEN,5,Other,11,9,2,0.0,18.0,0.0,2.0,4.0
+869,D.Lewis,TEN,6,Other,-1,-1,1,0.0,40.0,0.0,6.0,6.0
+870,D.Lewis,TEN,7,Other,2,2,1,0.0,0.0,0.0,0.0,2.0
+871,D.Lewis,TEN,9,Other,20,15,4,0.0,66.0,0.0,10.0,10.0
+872,D.Lewis,TEN,12,Other,21,8,5,0.0,48.0,0.0,2.0,4.0
+873,D.Lewis,TEN,14,Other,26,6,9,0.0,10.0,0.0,2.0,2.0
+874,D.Lewis,TEN,15,Other,4,4,2,0.0,,,,
+875,D.Lewis,TEN,15,Red Zone,6,6,1,0.0,22.0,2.0,2.0,2.0
+876,D.Lewis,TEN,16,Other,68,17,15,0.0,38.0,0.0,2.0,4.0
+877,D.Lewis,TEN,17,Red Zone,7,7,1,0.0,,,,
+878,D.Lock,DEN,13,Other,15,8,3,0.0,,,,
+879,D.Lock,DEN,14,Other,16,11,2,0.0,,,,
+880,D.Lock,DEN,15,Other,3,3,2,0.0,,,,
+881,D.Lock,DEN,16,Other,13,10,2,0.0,,,,
+882,D.Lock,DEN,17,Other,30,12,5,0.0,,,,
+883,D.Montgomery,CHI,1,Other,18,6,6,0.0,54.0,0.0,2.0,2.0
+884,D.Montgomery,CHI,2,Inside the 5,4,3,5,1.0,,,,
+885,D.Montgomery,CHI,2,Other,58,12,13,0.0,12.0,0.0,2.0,6.0
+886,D.Montgomery,CHI,3,Other,64,25,12,0.0,28.0,0.0,6.0,6.0
+887,D.Montgomery,CHI,3,Red Zone,3,3,1,0.0,,,,
+888,D.Montgomery,CHI,4,Other,50,7,19,0.0,28.0,0.0,6.0,10.0
+889,D.Montgomery,CHI,4,Red Zone,3,2,2,0.0,,,,
+890,D.Montgomery,CHI,5,Inside the 5,5,4,2,1.0,,,,
+891,D.Montgomery,CHI,5,Other,20,6,9,0.0,22.0,0.0,2.0,2.0
+892,D.Montgomery,CHI,7,Other,6,4,2,0.0,20.0,0.0,2.0,2.0
+893,D.Montgomery,CHI,8,Inside the 5,4,4,3,1.0,,,,
+894,D.Montgomery,CHI,8,Other,132,55,22,0.0,24.0,0.0,8.0,10.0
+895,D.Montgomery,CHI,8,Red Zone,-1,1,2,0.0,,,,
+896,D.Montgomery,CHI,9,Inside the 5,2,1,3,2.0,,,,
+897,D.Montgomery,CHI,9,Other,38,17,11,0.0,72.0,0.0,6.0,8.0
+898,D.Montgomery,CHI,10,Other,60,9,17,0.0,,,,
+899,D.Montgomery,CHI,11,Other,31,5,13,0.0,38.0,0.0,2.0,6.0
+900,D.Montgomery,CHI,11,Red Zone,0,0,1,0.0,,,,
+901,D.Montgomery,CHI,12,Inside the 5,1,1,2,0.0,,,,
+902,D.Montgomery,CHI,12,Other,21,13,11,0.0,18.0,0.0,4.0,6.0
+903,D.Montgomery,CHI,13,Other,71,14,15,0.0,18.0,0.0,2.0,2.0
+904,D.Montgomery,CHI,13,Red Zone,4,4,1,0.0,,,,
+905,D.Montgomery,CHI,14,Other,82,20,19,0.0,0.0,0.0,0.0,2.0
+906,D.Montgomery,CHI,14,Red Zone,4,4,1,0.0,,,,
+907,D.Montgomery,CHI,15,Inside the 5,2,2,1,0.0,,,,
+908,D.Montgomery,CHI,15,Other,31,8,12,0.0,20.0,0.0,2.0,2.0
+909,D.Montgomery,CHI,15,Red Zone,6,6,1,0.0,,,,
+910,D.Montgomery,CHI,16,Inside the 5,0,0,1,0.0,,,,
+911,D.Montgomery,CHI,16,Other,57,16,12,0.0,4.0,0.0,2.0,2.0
+912,D.Montgomery,CHI,17,Inside the 5,1,1,1,0.0,,,,
+913,D.Montgomery,CHI,17,Other,86,14,16,0.0,,,,
+914,D.Montgomery,CHI,17,Red Zone,26,14,6,1.0,,,,
+915,D.Moore,CAR,3,Red Zone,12,12,1,0.0,,,,
+916,D.Moore,CAR,6,Other,13,13,1,0.0,146.0,0.0,14.0,20.0
+917,D.Moore,CAR,12,Other,8,8,1,0.0,222.0,2.0,6.0,12.0
+918,D.Moore,CAR,13,Red Zone,-3,-3,1,0.0,26.0,2.0,2.0,2.0
+919,D.Moore,CAR,14,Other,0,0,1,0.0,162.0,0.0,8.0,12.0
+920,D.Moore,CAR,15,Other,10,10,1,0.0,226.0,0.0,16.0,24.0
+921,D.Moore,SEA,8,Other,2,2,1,0.0,46.0,0.0,2.0,8.0
+922,D.Moore,SEA,12,Other,4,4,1,0.0,62.0,0.0,2.0,4.0
+923,D.Moore,SEA,16,Other,19,19,1,0.0,42.0,0.0,2.0,4.0
+924,D.Ogunbowale,TB,4,Inside the 5,0,0,1,0.0,,,,
+925,D.Ogunbowale,TB,5,Other,-4,-4,1,0.0,54.0,0.0,4.0,4.0
+926,D.Ogunbowale,TB,6,Inside the 5,3,3,1,1.0,,,,
+927,D.Ogunbowale,TB,8,Inside the 5,-2,-2,1,0.0,0.0,0.0,0.0,2.0
+928,D.Ogunbowale,TB,9,Inside the 5,1,1,1,1.0,,,,
+929,D.Ogunbowale,TB,11,Inside the 5,0,0,2,0.0,,,,
+930,D.Ogunbowale,TB,12,Other,12,12,1,0.0,0.0,0.0,0.0,2.0
+931,D.Ogunbowale,TB,13,Inside the 5,0,0,1,0.0,,,,
+932,D.Ogunbowale,TB,15,Other,3,3,1,0.0,26.0,0.0,2.0,2.0
+933,D.Ogunbowale,TB,17,Other,4,4,1,0.0,,,,
+934,D.Ozigbo,JAX,17,Other,17,9,6,0.0,46.0,0.0,6.0,10.0
+935,D.Ozigbo,JAX,17,Red Zone,10,7,3,0.0,,,,
+936,D.Prescott,DAL,1,Other,14,8,2,0.0,,,,
+937,D.Prescott,DAL,2,Inside the 5,2,2,1,0.0,,,,
+938,D.Prescott,DAL,2,Other,68,42,3,0.0,,,,
+939,D.Prescott,DAL,3,Red Zone,8,8,1,1.0,,,,
+940,D.Prescott,DAL,4,Other,7,7,1,0.0,,,,
+941,D.Prescott,DAL,5,Other,22,14,3,0.0,,,,
+942,D.Prescott,DAL,5,Red Zone,5,5,1,0.0,,,,
+943,D.Prescott,DAL,6,Inside the 5,4,4,1,1.0,,,,
+944,D.Prescott,DAL,6,Red Zone,7,8,2,0.0,,,,
+945,D.Prescott,DAL,7,Other,22,8,4,0.0,,,,
+946,D.Prescott,DAL,7,Red Zone,8,8,1,1.0,,,,
+947,D.Prescott,DAL,9,Other,11,11,1,0.0,,,,
+948,D.Prescott,DAL,9,Red Zone,1,1,2,0.0,,,,
+949,D.Prescott,DAL,11,Other,16,9,2,0.0,,,,
+950,D.Prescott,DAL,11,Red Zone,5,5,1,0.0,,,,
+951,D.Prescott,DAL,12,Other,4,4,1,0.0,,,,
+952,D.Prescott,DAL,13,Other,25,10,4,0.0,,,,
+953,D.Prescott,DAL,14,Inside the 5,1,1,1,0.0,,,,
+954,D.Prescott,DAL,14,Red Zone,1,1,1,0.0,,,,
+955,D.Prescott,DAL,15,Other,9,7,4,0.0,,,,
+956,D.Prescott,DAL,15,Red Zone,4,2,2,0.0,,,,
+957,D.Prescott,DAL,16,Other,7,7,1,0.0,,,,
+958,D.Prescott,DAL,17,Other,36,23,2,0.0,,,,
+959,D.Samuel,SF,2,Other,7,5,2,0.0,168.0,0.0,8.0,10.0
+960,D.Samuel,SF,6,Other,1,1,1,0.0,24.0,0.0,4.0,6.0
+961,D.Samuel,SF,8,Other,9,9,1,0.0,16.0,0.0,2.0,2.0
+962,D.Samuel,SF,8,Red Zone,20,20,1,1.0,22.0,0.0,4.0,4.0
+963,D.Samuel,SF,13,Other,20,20,1,0.0,82.0,2.0,4.0,8.0
+964,D.Samuel,SF,14,Other,31,31,1,0.0,152.0,0.0,10.0,12.0
+965,D.Samuel,SF,14,Red Zone,2,2,1,0.0,0.0,0.0,0.0,2.0
+966,D.Samuel,SF,15,Other,8,8,1,0.0,58.0,0.0,2.0,6.0
+967,D.Samuel,SF,16,Other,9,9,2,0.0,40.0,0.0,4.0,6.0
+968,D.Samuel,SF,16,Red Zone,19,19,1,1.0,22.0,0.0,4.0,6.0
+969,D.Samuel,SF,17,Other,33,30,2,1.0,188.0,0.0,8.0,8.0
+970,D.Scott,NYG,16,Other,5,5,1,0.0,22.0,0.0,2.0,2.0
+971,D.Singletary,BUF,1,Other,55,23,3,0.0,56.0,0.0,8.0,12.0
+972,D.Singletary,BUF,1,Red Zone,15,15,1,0.0,,,,
+973,D.Singletary,BUF,2,Other,43,20,5,0.0,,,,
+974,D.Singletary,BUF,2,Red Zone,14,14,1,1.0,,,,
+975,D.Singletary,BUF,7,Other,26,9,7,0.0,,,,
+976,D.Singletary,BUF,8,Other,19,16,3,0.0,62.0,2.0,6.0,10.0
+977,D.Singletary,BUF,9,Inside the 5,4,2,2,1.0,,,,
+978,D.Singletary,BUF,9,Other,79,17,15,0.0,90.0,0.0,6.0,8.0
+979,D.Singletary,BUF,9,Red Zone,12,8,3,0.0,,,,
+980,D.Singletary,BUF,10,Other,42,10,8,0.0,16.0,0.0,6.0,10.0
+981,D.Singletary,BUF,11,Other,77,22,12,0.0,8.0,0.0,2.0,2.0
+982,D.Singletary,BUF,11,Red Zone,-2,0,3,0.0,,,,
+983,D.Singletary,BUF,12,Other,106,11,21,0.0,16.0,0.0,2.0,2.0
+984,D.Singletary,BUF,13,Other,57,26,13,0.0,76.0,2.0,6.0,6.0
+985,D.Singletary,BUF,13,Red Zone,6,6,1,0.0,0.0,0.0,0.0,2.0
+986,D.Singletary,BUF,14,Other,88,38,15,0.0,66.0,0.0,10.0,14.0
+987,D.Singletary,BUF,14,Red Zone,1,2,2,0.0,-8.0,0.0,2.0,2.0
+988,D.Singletary,BUF,15,Other,73,15,17,0.0,4.0,0.0,4.0,6.0
+989,D.Singletary,BUF,15,Red Zone,14,14,4,0.0,,,,
+990,D.Singletary,BUF,16,Other,46,12,14,0.0,4.0,0.0,2.0,2.0
+991,D.Singletary,BUF,16,Red Zone,0,0,1,0.0,,,,
+992,D.Spencer,DEN,5,Other,9,9,1,0.0,,,,
+993,D.Spencer,DEN,8,Red Zone,5,5,1,0.0,,,,
+994,D.Spencer,DEN,17,Other,-8,-8,1,0.0,,,,
+995,D.Sproles,PHI,1,Inside the 5,2,2,1,0.0,,,,
+996,D.Sproles,PHI,1,Other,42,17,8,0.0,18.0,0.0,4.0,4.0
+997,D.Sproles,PHI,1,Red Zone,5,5,1,0.0,14.0,0.0,2.0,2.0
+998,D.Sproles,PHI,3,Other,3,3,1,0.0,0.0,0.0,0.0,2.0
+999,D.Sproles,PHI,3,Red Zone,1,1,1,0.0,,,,
+1000,D.Sproles,PHI,4,Other,4,4,1,0.0,,,,
+1001,D.Sproles,PHI,5,Other,4,5,3,0.0,0.0,0.0,0.0,2.0
+1002,D.Sproles,PHI,9,Other,7,4,2,0.0,6.0,0.0,2.0,4.0
+1003,D.Thomas,BAL,17,Other,1,1,1,0.0,,,,
+1004,D.Thomas,KC,6,Other,4,4,1,0.0,0.0,0.0,0.0,2.0
+1005,D.Thompson,KC,2,Other,1,1,1,0.0,,,,
+1006,D.Thompson,KC,3,Other,8,8,1,0.0,,,,
+1007,D.Thompson,KC,3,Red Zone,0,2,2,0.0,,,,
+1008,D.Thompson,KC,10,Other,-1,-1,1,0.0,16.0,0.0,2.0,2.0
+1009,D.Thompson,KC,13,Inside the 5,4,4,1,1.0,,,,
+1010,D.Thompson,KC,13,Other,37,9,9,0.0,,,,
+1011,D.Thompson,KC,13,Red Zone,3,3,1,0.0,,,,
+1012,D.Thompson,KC,14,Other,7,4,4,0.0,58.0,0.0,6.0,8.0
+1013,D.Thompson,KC,15,Other,37,12,6,0.0,2.0,0.0,2.0,2.0
+1014,D.Thompson,KC,15,Red Zone,1,2,2,0.0,,,,
+1015,D.Thompson,KC,16,Other,8,8,1,0.0,,,,
+1016,D.Thompson,KC,16,Red Zone,6,4,4,0.0,,,,
+1017,D.Thompson,KC,17,Other,17,6,4,0.0,-8.0,0.0,2.0,2.0
+1018,D.Turner,MIA,16,Other,6,5,4,0.0,,,,
+1019,D.Vitale,GB,4,Red Zone,3,3,1,0.0,,,,
+1020,D.Waller,OAK,3,Other,7,7,1,0.0,256.0,0.0,24.0,26.0
+1021,D.Waller,OAK,11,Other,-2,-2,1,0.0,128.0,0.0,8.0,8.0
+1022,D.Washington,NO,8,Other,33,31,2,0.0,,,,
+1023,D.Washington,NO,8,Red Zone,5,5,1,0.0,,,,
+1024,D.Washington,NO,15,Other,20,12,3,0.0,,,,
+1025,D.Washington,NO,17,Other,2,3,2,0.0,,,,
+1026,D.Washington,OAK,1,Other,8,7,2,0.0,,,,
+1027,D.Washington,OAK,2,Other,9,4,3,0.0,52.0,0.0,4.0,4.0
+1028,D.Washington,OAK,3,Other,22,8,6,0.0,,,,
+1029,D.Washington,OAK,4,Other,12,7,4,0.0,16.0,0.0,4.0,6.0
+1030,D.Washington,OAK,4,Red Zone,6,6,2,0.0,,,,
+1031,D.Washington,OAK,5,Inside the 5,3,3,1,1.0,,,,
+1032,D.Washington,OAK,5,Other,7,3,3,0.0,38.0,0.0,6.0,6.0
+1033,D.Washington,OAK,5,Red Zone,7,5,2,0.0,,,,
+1034,D.Washington,OAK,7,Other,29,8,6,0.0,24.0,0.0,2.0,2.0
+1035,D.Washington,OAK,8,Other,23,6,5,0.0,8.0,0.0,2.0,2.0
+1036,D.Washington,OAK,9,Other,7,5,3,0.0,42.0,0.0,2.0,2.0
+1037,D.Washington,OAK,10,Other,0,0,1,0.0,20.0,0.0,2.0,2.0
+1038,D.Washington,OAK,11,Other,-1,1,2,0.0,28.0,0.0,4.0,4.0
+1039,D.Washington,OAK,12,Other,19,8,6,0.0,0.0,0.0,2.0,2.0
+1040,D.Washington,OAK,13,Other,5,5,2,0.0,70.0,0.0,4.0,4.0
+1041,D.Washington,OAK,14,Inside the 5,1,1,2,0.0,,,,
+1042,D.Washington,OAK,14,Other,38,9,11,0.0,86.0,0.0,12.0,14.0
+1043,D.Washington,OAK,14,Red Zone,14,14,1,1.0,,,,
+1044,D.Washington,OAK,15,Other,19,9,5,0.0,12.0,0.0,2.0,6.0
+1045,D.Washington,OAK,15,Red Zone,-3,-3,1,0.0,,,,
+1046,D.Washington,OAK,16,Inside the 5,5,5,1,1.0,,,,
+1047,D.Washington,OAK,16,Other,80,13,22,0.0,42.0,0.0,4.0,6.0
+1048,D.Washington,OAK,17,Other,63,36,12,0.0,50.0,0.0,10.0,10.0
+1049,D.Washington,OAK,17,Red Zone,14,7,5,0.0,60.0,0.0,6.0,8.0
+1050,D.Watson,HOU,1,Other,40,21,4,1.0,,,,
+1051,D.Watson,HOU,2,Inside the 5,2,2,1,1.0,,,,
+1052,D.Watson,HOU,2,Other,4,4,2,0.0,,,,
+1053,D.Watson,HOU,3,Other,19,15,6,0.0,,,,
+1054,D.Watson,HOU,4,Inside the 5,1,1,1,1.0,,,,
+1055,D.Watson,HOU,4,Other,10,10,1,0.0,,,,
+1056,D.Watson,HOU,4,Red Zone,1,1,1,0.0,,,,
+1057,D.Watson,HOU,5,Other,42,30,3,0.0,,,,
+1058,D.Watson,HOU,5,Red Zone,5,5,1,0.0,,,,
+1059,D.Watson,HOU,6,Inside the 5,4,3,2,2.0,,,,
+1060,D.Watson,HOU,6,Other,40,10,6,0.0,,,,
+1061,D.Watson,HOU,7,Other,32,19,3,0.0,,,,
+1062,D.Watson,HOU,8,Other,45,12,6,0.0,,,,
+1063,D.Watson,HOU,8,Red Zone,4,4,1,0.0,,,,
+1064,D.Watson,HOU,9,Inside the 5,2,2,1,0.0,,,,
+1065,D.Watson,HOU,9,Other,26,13,5,0.0,,,,
+1066,D.Watson,HOU,9,Red Zone,9,9,1,0.0,,,,
+1067,D.Watson,HOU,11,Other,12,9,3,0.0,,,,
+1068,D.Watson,HOU,12,Other,10,6,3,0.0,,,,
+1069,D.Watson,HOU,13,Other,2,2,1,0.0,,,,
+1070,D.Watson,HOU,14,Inside the 5,3,3,1,1.0,,,,
+1071,D.Watson,HOU,14,Other,35,16,4,0.0,,,,
+1072,D.Watson,HOU,14,Red Zone,6,6,1,1.0,,,,
+1073,D.Watson,HOU,15,Other,32,12,5,0.0,,,,
+1074,D.Watson,HOU,15,Red Zone,0,0,2,0.0,,,,
+1075,D.Watson,HOU,16,Other,35,19,5,0.0,,,,
+1076,D.Watson,HOU,16,Red Zone,3,3,1,0.0,,,,
+1077,D.Watt,LAC,1,Other,2,2,1,0.0,,,,
+1078,D.Watt,LAC,1,Red Zone,2,2,1,0.0,,,,
+1079,D.Watt,LAC,3,Other,-1,-1,1,0.0,,,,
+1080,D.Watt,LAC,8,Red Zone,2,2,1,0.0,,,,
+1081,D.Watt,LAC,10,Other,1,1,1,0.0,,,,
+1082,D.Watt,LAC,14,Inside the 5,1,1,1,1.0,,,,
+1083,D.Watt,LAC,14,Red Zone,3,3,1,0.0,,,,
+1084,D.Westbrook,JAX,1,Other,2,2,1,0.0,34.0,0.0,6.0,8.0
+1085,D.Westbrook,JAX,3,Other,4,4,1,0.0,92.0,0.0,10.0,16.0
+1086,D.Westbrook,JAX,7,Other,14,8,2,0.0,206.0,0.0,12.0,14.0
+1087,D.Westbrook,JAX,15,Other,7,7,1,0.0,28.0,0.0,4.0,8.0
+1088,D.Williams,GB,7,Other,2,2,3,0.0,,,,
+1089,D.Williams,GB,17,Other,9,5,2,0.0,,,,
+1090,D.Williams,KC,3,Inside the 5,-1,-1,1,0.0,,,,
+1091,D.Williams,KC,3,Other,63,41,8,0.0,72.0,0.0,8.0,8.0
+1092,D.Williams,KC,4,Inside the 5,4,2,3,2.0,,,,
+1093,D.Williams,KC,4,Other,4,8,4,0.0,86.0,0.0,6.0,8.0
+1094,D.Williams,KC,4,Red Zone,5,5,1,0.0,,,,
+1095,D.Williams,KC,7,Inside the 5,1,1,2,0.0,,,,
+1096,D.Williams,KC,8,Other,10,8,2,0.0,,,,
+1097,D.Williams,KC,9,Other,1,1,1,0.0,,,,
+1098,D.Williams,KC,10,Other,6,5,2,0.0,18.0,0.0,2.0,2.0
+1099,D.Williams,KC,11,Other,29,6,10,0.0,16.0,0.0,4.0,6.0
+1100,D.Williams,KC,11,Red Zone,6,6,1,1.0,,,,
+1101,D.Williams,KC,13,Other,17,15,3,0.0,0.0,0.0,0.0,2.0
+1102,D.Williams,KC,13,Red Zone,-4,0,3,0.0,,,,
+1103,DK.Metcalf,SEA,6,Other,4,4,1,0.0,138.0,0.0,8.0,10.0
+1104,DK.Metcalf,SEA,9,Other,7,7,1,0.0,246.0,2.0,12.0,16.0
+1105,Dam.Williams,KC,1,Inside the 5,1,1,1,1.0,-2.0,0.0,2.0,2.0
+1106,Dam.Williams,KC,1,Other,17,6,9,0.0,58.0,0.0,6.0,6.0
+1107,Dam.Williams,KC,1,Red Zone,8,4,3,0.0,22.0,0.0,4.0,4.0
+1108,Dam.Williams,KC,2,Other,8,5,9,0.0,96.0,0.0,6.0,10.0
+1109,Dam.Williams,KC,5,Other,23,6,9,0.0,30.0,0.0,6.0,6.0
+1110,Dam.Williams,KC,6,Other,6,6,1,0.0,,,,
+1111,Dam.Williams,KC,7,Inside the 5,1,1,1,0.0,0.0,0.0,0.0,2.0
+1112,Dam.Williams,KC,7,Other,6,4,8,0.0,-2.0,0.0,4.0,4.0
+1113,Dam.Williams,KC,8,Inside the 5,3,3,1,1.0,,,,
+1114,Dam.Williams,KC,8,Other,27,9,5,0.0,,,,
+1115,Dam.Williams,KC,8,Red Zone,0,0,1,0.0,,,,
+1116,Dam.Williams,KC,9,Other,126,91,9,1.0,6.0,0.0,4.0,4.0
+1117,Dam.Williams,KC,9,Red Zone,-1,2,3,0.0,,,,
+1118,Dam.Williams,KC,10,Other,67,15,18,0.0,64.0,0.0,10.0,10.0
+1119,Dam.Williams,KC,10,Red Zone,10,10,1,0.0,,,,
+1120,Dam.Williams,KC,11,Other,7,3,4,0.0,12.0,0.0,2.0,2.0
+1121,Dam.Williams,KC,16,Other,63,12,14,0.0,26.0,0.0,4.0,4.0
+1122,Dam.Williams,KC,16,Red Zone,2,4,2,0.0,28.0,2.0,2.0,2.0
+1123,Dam.Williams,KC,17,Other,109,84,9,1.0,60.0,0.0,8.0,14.0
+1124,Dam.Williams,KC,17,Red Zone,15,7,3,1.0,,,,
+1125,E.Elliott,DAL,1,Other,37,8,10,0.0,20.0,0.0,2.0,4.0
+1126,E.Elliott,DAL,1,Red Zone,16,10,3,1.0,,,,
+1127,E.Elliott,DAL,2,Inside the 5,4,2,3,1.0,,,,
+1128,E.Elliott,DAL,2,Other,103,27,18,0.0,18.0,0.0,4.0,4.0
+1129,E.Elliott,DAL,2,Red Zone,4,2,2,0.0,,,,
+1130,E.Elliott,DAL,3,Other,91,18,14,0.0,28.0,0.0,4.0,6.0
+1131,E.Elliott,DAL,3,Red Zone,34,13,5,0.0,,,,
+1132,E.Elliott,DAL,4,Inside the 5,2,1,2,1.0,,,,
+1133,E.Elliott,DAL,4,Other,32,6,15,0.0,60.0,0.0,12.0,14.0
+1134,E.Elliott,DAL,4,Red Zone,1,1,1,0.0,,,,
+1135,E.Elliott,DAL,5,Inside the 5,2,2,1,1.0,,,,
+1136,E.Elliott,DAL,5,Other,62,14,10,0.0,58.0,0.0,4.0,4.0
+1137,E.Elliott,DAL,5,Red Zone,-2,-2,1,0.0,0.0,0.0,0.0,2.0
+1138,E.Elliott,DAL,6,Inside the 5,6,5,2,1.0,,,,
+1139,E.Elliott,DAL,6,Other,68,13,18,0.0,88.0,0.0,8.0,8.0
+1140,E.Elliott,DAL,6,Red Zone,31,7,8,0.0,8.0,0.0,2.0,4.0
+1141,E.Elliott,DAL,7,Inside the 5,1,1,1,1.0,,,,
+1142,E.Elliott,DAL,7,Other,81,16,13,0.0,64.0,0.0,10.0,12.0
+1143,E.Elliott,DAL,7,Red Zone,29,13,8,0.0,8.0,0.0,2.0,2.0
+1144,E.Elliott,DAL,9,Other,127,19,21,0.0,,,,
+1145,E.Elliott,DAL,9,Red Zone,12,6,2,0.0,,,,
+1146,E.Elliott,DAL,10,Other,49,6,17,0.0,32.0,0.0,4.0,4.0
+1147,E.Elliott,DAL,10,Red Zone,-2,1,3,0.0,0.0,0.0,0.0,2.0
+1148,E.Elliott,DAL,11,Inside the 5,1,1,1,1.0,,,,
+1149,E.Elliott,DAL,11,Other,34,7,13,0.0,22.0,0.0,2.0,2.0
+1150,E.Elliott,DAL,11,Red Zone,10,8,2,0.0,34.0,2.0,2.0,4.0
+1151,E.Elliott,DAL,12,Other,80,12,19,0.0,80.0,0.0,8.0,8.0
+1152,E.Elliott,DAL,12,Red Zone,6,3,2,0.0,,,,
+1153,E.Elliott,DAL,13,Other,72,30,11,0.0,126.0,0.0,12.0,16.0
+1154,E.Elliott,DAL,13,Red Zone,-1,-1,1,0.0,6.0,0.0,2.0,4.0
+1155,E.Elliott,DAL,14,Inside the 5,7,2,4,2.0,,,,
+1156,E.Elliott,DAL,14,Other,67,31,13,0.0,24.0,0.0,4.0,10.0
+1157,E.Elliott,DAL,14,Red Zone,7,6,2,0.0,,,,
+1158,E.Elliott,DAL,15,Inside the 5,8,3,4,2.0,,,,
+1159,E.Elliott,DAL,15,Other,108,15,19,0.0,74.0,0.0,4.0,6.0
+1160,E.Elliott,DAL,15,Red Zone,1,1,1,0.0,12.0,0.0,2.0,2.0
+1161,E.Elliott,DAL,16,Other,47,10,13,0.0,74.0,0.0,14.0,14.0
+1162,E.Elliott,DAL,17,Other,117,33,16,1.0,-16.0,0.0,0.0,6.0
+1163,E.Elliott,DAL,17,Red Zone,5,3,2,0.0,20.0,2.0,4.0,4.0
+1164,E.Engram,NYG,5,Other,5,5,2,0.0,44.0,0.0,8.0,16.0
+1165,E.Engram,NYG,9,Other,2,2,1,0.0,96.0,0.0,10.0,12.0
+1166,E.Harris,OAK,5,Other,4,4,1,0.0,,,,
+1167,E.Manning,NYG,1,Other,6,6,1,0.0,,,,
+1168,E.Manning,NYG,2,Other,2,2,1,0.0,,,,
+1169,E.Manning,NYG,14,Red Zone,0,0,1,0.0,,,,
+1170,E.Penny,NYG,1,Other,2,2,1,0.0,,,,
+1171,E.Penny,NYG,1,Red Zone,1,1,1,0.0,,,,
+1172,E.Penny,NYG,4,Other,12,5,3,0.0,,,,
+1173,E.Penny,NYG,5,Other,10,6,2,0.0,18.0,0.0,2.0,2.0
+1174,E.Penny,NYG,5,Red Zone,5,5,1,0.0,,,,
+1175,E.Penny,NYG,6,Other,6,3,3,0.0,0.0,0.0,2.0,4.0
+1176,E.Penny,NYG,8,Other,3,3,1,0.0,,,,
+1177,E.Penny,NYG,13,Other,2,2,2,0.0,0.0,0.0,0.0,2.0
+1178,E.Penny,NYG,15,Other,-2,-2,1,0.0,,,,
+1179,F.Gore,BUF,1,Other,20,9,11,0.0,,,,
+1180,F.Gore,BUF,2,Inside the 5,2,1,3,1.0,,,,
+1181,F.Gore,BUF,2,Other,58,9,15,0.0,30.0,0.0,4.0,4.0
+1182,F.Gore,BUF,2,Red Zone,8,8,1,0.0,,,,
+1183,F.Gore,BUF,3,Inside the 5,1,1,1,1.0,,,,
+1184,F.Gore,BUF,3,Other,75,22,13,0.0,26.0,0.0,4.0,4.0
+1185,F.Gore,BUF,4,Inside the 5,-1,0,2,0.0,,,,
+1186,F.Gore,BUF,4,Other,101,41,12,0.0,0.0,0.0,0.0,2.0
+1187,F.Gore,BUF,4,Red Zone,9,5,3,0.0,,,,
+1188,F.Gore,BUF,5,Other,60,19,14,0.0,18.0,0.0,4.0,4.0
+1189,F.Gore,BUF,7,Other,52,15,10,0.0,22.0,0.0,2.0,2.0
+1190,F.Gore,BUF,7,Red Zone,3,3,1,0.0,,,,
+1191,F.Gore,BUF,8,Other,34,8,9,0.0,,,,
+1192,F.Gore,BUF,9,Inside the 5,0,0,3,0.0,,,,
+1193,F.Gore,BUF,9,Other,9,4,7,0.0,,,,
+1194,F.Gore,BUF,9,Red Zone,6,6,1,0.0,,,,
+1195,F.Gore,BUF,10,Inside the 5,0,0,1,0.0,,,,
+1196,F.Gore,BUF,10,Other,10,4,3,0.0,8.0,0.0,2.0,2.0
+1197,F.Gore,BUF,10,Red Zone,2,2,1,0.0,,,,
+1198,F.Gore,BUF,11,Other,24,6,9,0.0,36.0,0.0,2.0,4.0
+1199,F.Gore,BUF,11,Red Zone,3,2,2,0.0,,,,
+1200,F.Gore,BUF,12,Other,62,27,14,0.0,,,,
+1201,F.Gore,BUF,12,Red Zone,3,3,1,0.0,,,,
+1202,F.Gore,BUF,13,Other,13,5,8,0.0,28.0,0.0,2.0,2.0
+1203,F.Gore,BUF,13,Red Zone,-2,-2,1,0.0,,,,
+1204,F.Gore,BUF,14,Inside the 5,-2,-2,1,0.0,,,,
+1205,F.Gore,BUF,14,Other,8,6,3,0.0,,,,
+1206,F.Gore,BUF,15,Other,14,5,6,0.0,,,,
+1207,F.Gore,BUF,15,Red Zone,1,9,4,0.0,,,,
+1208,F.Gore,BUF,17,Other,26,12,6,0.0,32.0,0.0,6.0,8.0
+1209,G.Allison,GB,4,Other,7,7,1,0.0,66.0,0.0,4.0,4.0
+1210,G.Bernard,CIN,1,Other,21,11,7,0.0,84.0,0.0,4.0,4.0
+1211,G.Bernard,CIN,2,Other,5,5,5,0.0,14.0,0.0,2.0,6.0
+1212,G.Bernard,CIN,2,Red Zone,1,1,1,0.0,,,,
+1213,G.Bernard,CIN,3,Other,5,4,3,0.0,14.0,0.0,4.0,4.0
+1214,G.Bernard,CIN,4,Other,3,3,1,0.0,32.0,0.0,8.0,12.0
+1215,G.Bernard,CIN,5,Other,10,9,2,0.0,14.0,0.0,2.0,2.0
+1216,G.Bernard,CIN,6,Other,2,2,3,0.0,12.0,0.0,2.0,4.0
+1217,G.Bernard,CIN,6,Red Zone,2,2,1,0.0,28.0,0.0,2.0,2.0
+1218,G.Bernard,CIN,7,Inside the 5,0,0,1,0.0,,,,
+1219,G.Bernard,CIN,7,Other,0,2,3,0.0,8.0,0.0,2.0,6.0
+1220,G.Bernard,CIN,8,Other,28,25,2,0.0,22.0,0.0,2.0,2.0
+1221,G.Bernard,CIN,8,Red Zone,3,3,1,0.0,6.0,0.0,2.0,2.0
+1222,G.Bernard,CIN,10,Other,6,8,3,0.0,0.0,0.0,2.0,2.0
+1223,G.Bernard,CIN,10,Red Zone,2,2,1,0.0,,,,
+1224,G.Bernard,CIN,11,Other,20,18,2,0.0,32.0,0.0,2.0,6.0
+1225,G.Bernard,CIN,11,Red Zone,10,10,1,0.0,,,,
+1226,G.Bernard,CIN,12,Other,-1,-1,1,0.0,62.0,0.0,6.0,6.0
+1227,G.Bernard,CIN,13,Other,4,4,1,0.0,16.0,0.0,2.0,4.0
+1228,G.Bernard,CIN,14,Other,15,13,3,0.0,62.0,0.0,4.0,4.0
+1229,G.Bernard,CIN,14,Red Zone,0,0,1,0.0,0.0,0.0,0.0,2.0
+1230,G.Bernard,CIN,15,Other,20,17,3,0.0,20.0,0.0,4.0,4.0
+1231,G.Bernard,CIN,15,Red Zone,7,4,2,0.0,,,,
+1232,G.Bernard,CIN,16,Other,3,3,2,0.0,6.0,0.0,2.0,4.0
+1233,G.Bernard,CIN,17,Other,4,5,3,0.0,0.0,0.0,0.0,2.0
+1234,G.Edwards,BAL,1,Inside the 5,0,1,3,0.0,,,,
+1235,G.Edwards,BAL,1,Other,37,11,10,0.0,,,,
+1236,G.Edwards,BAL,1,Red Zone,19,10,4,0.0,,,,
+1237,G.Edwards,BAL,2,Other,8,4,2,0.0,,,,
+1238,G.Edwards,BAL,2,Red Zone,3,3,1,0.0,,,,
+1239,G.Edwards,BAL,3,Other,53,15,7,0.0,30.0,0.0,4.0,4.0
+1240,G.Edwards,BAL,4,Other,24,14,5,0.0,16.0,0.0,2.0,2.0
+1241,G.Edwards,BAL,4,Red Zone,4,4,1,0.0,,,,
+1242,G.Edwards,BAL,5,Other,15,7,4,0.0,,,,
+1243,G.Edwards,BAL,5,Red Zone,2,2,1,0.0,12.0,0.0,2.0,2.0
+1244,G.Edwards,BAL,6,Inside the 5,6,3,3,0.0,,,,
+1245,G.Edwards,BAL,6,Other,28,25,3,0.0,,,,
+1246,G.Edwards,BAL,7,Other,36,14,7,0.0,,,,
+1247,G.Edwards,BAL,7,Red Zone,-1,-1,1,0.0,,,,
+1248,G.Edwards,BAL,9,Inside the 5,-1,-1,1,0.0,,,,
+1249,G.Edwards,BAL,9,Other,16,5,5,0.0,,,,
+1250,G.Edwards,BAL,9,Red Zone,12,12,1,1.0,,,,
+1251,G.Edwards,BAL,10,Other,17,8,4,0.0,,,,
+1252,G.Edwards,BAL,11,Other,112,63,8,1.0,,,,
+1253,G.Edwards,BAL,12,Other,44,11,10,0.0,,,,
+1254,G.Edwards,BAL,12,Red Zone,11,4,4,0.0,,,,
+1255,G.Edwards,BAL,13,Other,15,4,6,0.0,14.0,0.0,2.0,2.0
+1256,G.Edwards,BAL,14,Other,12,7,2,0.0,,,,
+1257,G.Edwards,BAL,14,Red Zone,8,7,2,0.0,,,,
+1258,G.Edwards,BAL,15,Other,35,28,5,0.0,,,,
+1259,G.Edwards,BAL,16,Inside the 5,-1,-1,1,0.0,,,,
+1260,G.Edwards,BAL,16,Other,67,10,11,0.0,14.0,0.0,2.0,2.0
+1261,G.Edwards,BAL,17,Other,130,38,21,0.0,4.0,0.0,2.0,2.0
+1262,G.Everett,LA,2,Red Zone,0,0,1,0.0,42.0,0.0,6.0,6.0
+1263,G.Howell,HOU,11,Other,5,4,2,0.0,,,,
+1264,G.Howell,HOU,17,Inside the 5,1,1,1,0.0,,,,
+1265,G.Howell,HOU,17,Other,1,1,1,0.0,,,,
+1266,G.Howell,HOU,17,Red Zone,3,3,1,0.0,,,,
+1267,G.Kittle,SF,5,Other,18,18,1,0.0,132.0,2.0,10.0,12.0
+1268,G.Kittle,SF,7,Inside the 5,-2,-2,1,0.0,,,,
+1269,G.Kittle,SF,7,Other,2,2,1,0.0,76.0,0.0,6.0,10.0
+1270,G.Kittle,SF,13,Red Zone,-3,-3,1,0.0,,,,
+1271,G.Kittle,SF,17,Other,7,7,1,0.0,172.0,0.0,14.0,14.0
+1272,G.Minshew,JAX,1,Red Zone,6,6,1,0.0,,,,
+1273,G.Minshew,JAX,2,Other,52,21,5,0.0,,,,
+1274,G.Minshew,JAX,2,Red Zone,4,4,1,0.0,,,,
+1275,G.Minshew,JAX,3,Other,19,10,3,0.0,,,,
+1276,G.Minshew,JAX,4,Other,2,2,1,0.0,,,,
+1277,G.Minshew,JAX,5,Other,43,11,6,0.0,,,,
+1278,G.Minshew,JAX,6,Other,2,2,1,0.0,,,,
+1279,G.Minshew II,JAX,7,Inside the 5,3,3,1,0.0,,,,
+1280,G.Minshew II,JAX,7,Other,46,20,7,0.0,,,,
+1281,G.Minshew II,JAX,8,Other,32,13,4,0.0,,,,
+1282,G.Minshew II,JAX,9,Other,34,10,4,0.0,,,,
+1283,G.Minshew II,JAX,13,Other,4,4,1,0.0,,,,
+1284,G.Minshew II,JAX,13,Red Zone,4,4,1,0.0,,,,
+1285,G.Minshew II,JAX,14,Other,28,8,5,0.0,,,,
+1286,G.Minshew II,JAX,14,Red Zone,3,3,1,0.0,,,,
+1287,G.Minshew II,JAX,15,Other,24,11,4,0.0,,,,
+1288,G.Minshew II,JAX,15,Red Zone,3,3,1,0.0,,,,
+1289,G.Minshew II,JAX,16,Other,34,17,5,0.0,,,,
+1290,G.Minshew II,JAX,16,Red Zone,3,3,1,0.0,,,,
+1291,G.Minshew II,JAX,17,Other,10,7,2,0.0,,,,
+1292,G.Tate,NYG,9,Other,16,16,1,0.0,42.0,0.0,6.0,6.0
+1293,G.Ward,PHI,16,Other,5,5,1,0.0,142.0,0.0,8.0,10.0
+1294,I.Ford,MIA,17,Other,11,11,1,0.0,90.0,0.0,10.0,12.0
+1295,I.McKenzie,BUF,2,Other,4,4,1,0.0,52.0,0.0,2.0,2.0
+1296,I.McKenzie,BUF,3,Other,10,8,3,0.0,18.0,0.0,2.0,2.0
+1297,I.McKenzie,BUF,11,Other,10,10,1,0.0,42.0,0.0,6.0,12.0
+1298,I.McKenzie,BUF,12,Other,-5,-5,1,0.0,26.0,0.0,4.0,6.0
+1299,I.McKenzie,BUF,17,Other,30,16,2,0.0,14.0,0.0,4.0,8.0
+1300,I.Smith,ATL,1,Inside the 5,-1,-1,1,0.0,,,,
+1301,I.Smith,ATL,1,Other,32,16,5,0.0,18.0,0.0,2.0,2.0
+1302,I.Smith,ATL,2,Inside the 5,1,1,1,0.0,,,,
+1303,I.Smith,ATL,2,Other,31,28,3,0.0,26.0,0.0,4.0,6.0
+1304,I.Smith,ATL,3,Other,0,0,1,0.0,,,,
+1305,I.Smith,ATL,4,Inside the 5,1,1,1,1.0,,,,
+1306,I.Smith,ATL,4,Red Zone,10,10,1,0.0,0.0,0.0,0.0,2.0
+1307,I.Smith,ATL,5,Inside the 5,0,0,1,0.0,,,,
+1308,I.Smith,ATL,5,Other,18,11,3,0.0,60.0,0.0,8.0,8.0
+1309,I.Smith,ATL,5,Red Zone,1,1,1,0.0,30.0,0.0,4.0,4.0
+1310,I.Smith,ATL,6,Red Zone,6,3,3,0.0,,,,
+1311,I.Smith,ATL,7,Other,7,7,1,0.0,,,,
+1312,J.Agnew,DET,6,Other,9,9,1,0.0,,,,
+1313,J.Ajayi,PHI,12,Other,15,11,5,0.0,,,,
+1314,J.Ajayi,PHI,12,Red Zone,1,1,1,0.0,,,,
+1315,J.Ajayi,PHI,13,Other,8,8,1,0.0,,,,
+1316,J.Ajayi,PHI,13,Red Zone,1,1,1,0.0,,,,
+1317,J.Ajayi,PHI,14,Other,5,3,2,0.0,0.0,0.0,0.0,2.0
+1318,J.Allen,BUF,1,Inside the 5,3,3,1,1.0,,,,
+1319,J.Allen,BUF,1,Other,36,8,8,0.0,,,,
+1320,J.Allen,BUF,2,Other,12,9,3,0.0,,,,
+1321,J.Allen,BUF,2,Red Zone,11,6,2,1.0,,,,
+1322,J.Allen,BUF,3,Other,32,11,5,0.0,,,,
+1323,J.Allen,BUF,3,Red Zone,15,8,3,0.0,,,,
+1324,J.Allen,BUF,4,Inside the 5,1,1,1,1.0,,,,
+1325,J.Allen,BUF,4,Other,25,15,4,0.0,,,,
+1326,J.Allen,BUF,5,Other,29,6,8,0.0,,,,
+1327,J.Allen,BUF,7,Inside the 5,2,2,1,0.0,,,,
+1328,J.Allen,BUF,7,Other,32,15,4,0.0,,,,
+1329,J.Allen,BUF,8,Other,45,14,8,0.0,,,,
+1330,J.Allen,BUF,12,Other,54,18,6,0.0,,,,
+1331,J.Allen,BUF,12,Red Zone,3,4,2,0.0,,,,
+1332,J.Allen,BUF,13,Other,29,9,8,0.0,,,,
+1333,J.Allen,BUF,13,Red Zone,15,15,1,1.0,,,,
+1334,J.Allen,BUF,14,Other,7,7,1,0.0,,,,
+1335,J.Allen,BUF,14,Red Zone,2,2,1,0.0,,,,
+1336,J.Allen,BUF,15,Inside the 5,1,1,1,1.0,,,,
+1337,J.Allen,BUF,15,Other,26,12,4,0.0,,,,
+1338,J.Allen,BUF,15,Red Zone,2,2,1,0.0,,,,
+1339,J.Allen,BUF,16,Other,44,16,6,0.0,,,,
+1340,J.Allen,BUF,16,Red Zone,-1,-1,1,0.0,,,,
+1341,J.Allen,NYG,13,Other,4,4,1,0.0,,,,
+1342,J.Allen,NYG,15,Inside the 5,1,1,1,1.0,,,,
+1343,J.Allen,NYG,15,Other,8,5,6,0.0,,,,
+1344,J.Allen,NYG,15,Red Zone,19,19,1,0.0,,,,
+1345,J.Allen,NYG,17,Other,4,4,1,0.0,18.0,0.0,2.0,2.0
+1346,J.Berry,PIT,14,Other,-8,-8,1,0.0,,,,
+1347,J.Berry,PIT,17,Other,0,0,1,0.0,,,,
+1348,J.Brissett,IND,1,Other,9,6,3,0.0,,,,
+1349,J.Brissett,IND,2,Other,21,7,5,0.0,,,,
+1350,J.Brissett,IND,2,Red Zone,5,5,1,0.0,,,,
+1351,J.Brissett,IND,3,Other,6,6,1,0.0,,,,
+1352,J.Brissett,IND,4,Other,19,9,3,0.0,,,,
+1353,J.Brissett,IND,4,Red Zone,1,1,1,0.0,,,,
+1354,J.Brissett,IND,5,Inside the 5,1,1,1,1.0,,,,
+1355,J.Brissett,IND,5,Other,10,7,3,0.0,,,,
+1356,J.Brissett,IND,7,Other,5,5,2,0.0,,,,
+1357,J.Brissett,IND,7,Red Zone,3,3,1,0.0,,,,
+1358,J.Brissett,IND,8,Other,34,8,6,0.0,,,,
+1359,J.Brissett,IND,9,Red Zone,4,7,2,0.0,,,,
+1360,J.Brissett,IND,11,Inside the 5,5,5,1,1.0,,,,
+1361,J.Brissett,IND,11,Other,7,7,1,0.0,,,,
+1362,J.Brissett,IND,12,Inside the 5,5,5,1,1.0,,,,
+1363,J.Brissett,IND,12,Other,15,8,3,0.0,,,,
+1364,J.Brissett,IND,14,Inside the 5,2,2,1,0.0,,,,
+1365,J.Brissett,IND,14,Other,6,6,1,0.0,,,,
+1366,J.Brissett,IND,14,Red Zone,18,9,2,0.0,,,,
+1367,J.Brissett,IND,15,Other,7,7,1,0.0,,,,
+1368,J.Brissett,IND,16,Inside the 5,1,1,1,1.0,4.0,0.0,2.0,2.0
+1369,J.Brissett,IND,16,Other,36,24,2,0.0,,,,
+1370,J.Brissett,IND,17,Other,17,9,4,0.0,,,,
+1371,J.Brown,BUF,3,Other,4,4,1,0.0,102.0,0.0,8.0,10.0
+1372,J.Brown,BUF,16,Red Zone,3,3,1,0.0,,,,
+1373,J.Conner,PIT,1,Inside the 5,3,3,1,0.0,,,,
+1374,J.Conner,PIT,1,Other,18,5,9,0.0,88.0,0.0,8.0,8.0
+1375,J.Conner,PIT,2,Inside the 5,1,1,1,1.0,,,,
+1376,J.Conner,PIT,2,Other,32,14,9,0.0,32.0,0.0,4.0,6.0
+1377,J.Conner,PIT,2,Red Zone,0,0,1,0.0,-8.0,0.0,2.0,2.0
+1378,J.Conner,PIT,3,Other,40,10,12,0.0,20.0,0.0,6.0,6.0
+1379,J.Conner,PIT,3,Red Zone,3,3,1,0.0,8.0,0.0,2.0,2.0
+1380,J.Conner,PIT,4,Other,42,21,10,0.0,166.0,2.0,16.0,16.0
+1381,J.Conner,PIT,5,Inside the 5,1,1,1,1.0,,,,
+1382,J.Conner,PIT,5,Other,45,12,10,0.0,,,,
+1383,J.Conner,PIT,5,Red Zone,9,4,3,0.0,,,,
+1384,J.Conner,PIT,6,Inside the 5,0,0,2,0.0,,,,
+1385,J.Conner,PIT,6,Other,25,11,12,0.0,148.0,2.0,12.0,12.0
+1386,J.Conner,PIT,6,Red Zone,16,12,2,1.0,8.0,0.0,2.0,2.0
+1387,J.Conner,PIT,8,Other,136,25,22,0.0,20.0,0.0,4.0,6.0
+1388,J.Conner,PIT,8,Red Zone,9,9,1,1.0,-10.0,0.0,2.0,2.0
+1389,J.Conner,PIT,11,Other,10,7,5,0.0,12.0,0.0,2.0,4.0
+1390,J.Conner,PIT,15,Other,42,17,7,0.0,-4.0,0.0,6.0,8.0
+1391,J.Conner,PIT,15,Red Zone,0,0,1,0.0,22.0,2.0,2.0,2.0
+1392,J.Conner,PIT,16,Other,32,15,6,0.0,,,,
+1393,J.Crowder,NYJ,1,Other,4,4,1,0.0,186.0,0.0,26.0,32.0
+1394,J.Develin,NE,2,Inside the 5,1,1,1,0.0,,,,
+1395,J.Develin,NE,2,Other,2,2,1,0.0,,,,
+1396,J.Driskel,DET,10,Other,37,11,5,0.0,12.0,0.0,2.0,2.0
+1397,J.Driskel,DET,11,Inside the 5,2,2,1,1.0,,,,
+1398,J.Driskel,DET,11,Other,52,23,5,0.0,,,,
+1399,J.Driskel,DET,11,Red Zone,-2,-2,1,0.0,,,,
+1400,J.Driskel,DET,12,Other,59,18,7,0.0,,,,
+1401,J.Driskel,DET,12,Red Zone,4,2,2,0.0,,,,
+1402,J.Edelman,NE,1,Other,8,8,1,0.0,148.0,0.0,10.0,20.0
+1403,J.Edelman,NE,2,Other,1,1,1,0.0,102.0,0.0,8.0,8.0
+1404,J.Edelman,NE,7,Other,20,9,3,0.0,66.0,0.0,8.0,18.0
+1405,J.Edelman,NE,8,Other,-3,-3,1,0.0,102.0,0.0,10.0,12.0
+1406,J.Edelman,NE,13,Other,-7,-7,1,0.0,172.0,0.0,8.0,20.0
+1407,J.Edelman,NE,14,Other,8,8,1,0.0,172.0,2.0,14.0,20.0
+1408,J.Ferguson,WAS,15,Other,9,7,3,0.0,,,,
+1409,J.Flacco,DEN,1,Inside the 5,1,1,1,0.0,,,,
+1410,J.Flacco,DEN,3,Other,3,3,1,0.0,,,,
+1411,J.Flacco,DEN,3,Red Zone,2,2,1,0.0,,,,
+1412,J.Flacco,DEN,5,Other,8,6,2,0.0,,,,
+1413,J.Flacco,DEN,6,Other,1,1,2,0.0,,,,
+1414,J.Flacco,DEN,8,Other,9,9,1,0.0,,,,
+1415,J.Franklin,TB,17,Other,11,11,1,0.0,,,,
+1416,J.Garoppolo,SF,2,Other,10,9,2,0.0,,,,
+1417,J.Garoppolo,SF,3,Other,2,2,2,0.0,,,,
+1418,J.Garoppolo,SF,3,Red Zone,2,2,3,0.0,,,,
+1419,J.Garoppolo,SF,5,Other,0,0,1,0.0,,,,
+1420,J.Garoppolo,SF,6,Inside the 5,1,1,1,1.0,,,,
+1421,J.Garoppolo,SF,6,Other,5,4,2,0.0,,,,
+1422,J.Garoppolo,SF,7,Other,20,11,4,0.0,,,,
+1423,J.Garoppolo,SF,9,Other,4,4,1,0.0,,,,
+1424,J.Garoppolo,SF,10,Other,2,2,1,0.0,,,,
+1425,J.Garoppolo,SF,11,Other,7,7,1,0.0,,,,
+1426,J.Garoppolo,SF,12,Other,0,0,1,0.0,,,,
+1427,J.Garoppolo,SF,12,Red Zone,1,1,1,0.0,,,,
+1428,J.Garoppolo,SF,13,Other,5,3,3,0.0,,,,
+1429,J.Garoppolo,SF,14,Other,2,2,1,0.0,,,,
+1430,J.Garoppolo,SF,15,Other,3,3,1,0.0,,,,
+1431,J.Garoppolo,SF,15,Red Zone,3,3,1,0.0,,,,
+1432,J.Garoppolo,SF,16,Other,7,7,1,0.0,,,,
+1433,J.Garoppolo,SF,16,Red Zone,0,0,1,0.0,,,,
+1434,J.Garoppolo,SF,17,Other,4,2,2,0.0,,,,
+1435,J.Goff,LA,1,Other,3,3,2,0.0,,,,
+1436,J.Goff,LA,2,Inside the 5,1,1,1,1.0,,,,
+1437,J.Goff,LA,3,Inside the 5,0,0,1,0.0,,,,
+1438,J.Goff,LA,3,Other,15,8,2,0.0,,,,
+1439,J.Goff,LA,5,Inside the 5,0,0,1,0.0,,,,
+1440,J.Goff,LA,5,Red Zone,1,1,1,0.0,,,,
+1441,J.Goff,LA,6,Other,0,0,1,0.0,,,,
+1442,J.Goff,LA,7,Inside the 5,1,1,2,1.0,,,,
+1443,J.Goff,LA,7,Other,2,2,1,0.0,,,,
+1444,J.Goff,LA,10,Other,0,0,1,0.0,,,,
+1445,J.Goff,LA,11,Other,5,5,1,0.0,,,,
+1446,J.Goff,LA,14,Other,5,5,1,0.0,,,,
+1447,J.Goff,LA,15,Inside the 5,3,3,1,0.0,,,,
+1448,J.Goff,LA,15,Red Zone,0,0,1,0.0,,,,
+1449,J.Goff,LA,16,Other,10,5,3,0.0,,,,
+1450,J.Goff,LA,16,Red Zone,2,2,1,0.0,,,,
+1451,J.Goff,LA,17,Other,5,5,1,0.0,,,,
+1452,J.Gordon,NE,3,Other,1,1,1,0.0,152.0,0.0,10.0,18.0
+1453,J.Grant,MIA,2,Other,-4,-4,1,0.0,44.0,0.0,6.0,14.0
+1454,J.Grant,MIA,3,Other,4,4,1,0.0,54.0,0.0,8.0,14.0
+1455,J.Grant,MIA,4,Red Zone,-2,-2,1,0.0,,,,
+1456,J.Grant,MIA,11,Red Zone,7,7,1,1.0,22.0,0.0,2.0,2.0
+1457,J.Hill,BAL,1,Other,4,5,5,0.0,,,,
+1458,J.Hill,BAL,1,Red Zone,23,13,2,0.0,,,,
+1459,J.Hill,BAL,2,Other,4,4,1,0.0,0.0,0.0,0.0,2.0
+1460,J.Hill,BAL,3,Other,1,1,1,0.0,0.0,0.0,0.0,6.0
+1461,J.Hill,BAL,4,Other,3,3,1,0.0,8.0,0.0,2.0,2.0
+1462,J.Hill,BAL,4,Red Zone,5,5,1,0.0,10.0,0.0,2.0,2.0
+1463,J.Hill,BAL,5,Other,7,4,2,0.0,,,,
+1464,J.Hill,BAL,6,Other,31,12,5,0.0,,,,
+1465,J.Hill,BAL,9,Other,5,3,2,0.0,0.0,0.0,0.0,2.0
+1466,J.Hill,BAL,9,Red Zone,2,2,1,0.0,,,,
+1467,J.Hill,BAL,10,Other,11,8,3,0.0,,,,
+1468,J.Hill,BAL,11,Other,7,6,3,0.0,18.0,0.0,2.0,2.0
+1469,J.Hill,BAL,11,Red Zone,11,9,2,0.0,,,,
+1470,J.Hill,BAL,12,Other,27,11,8,0.0,,,,
+1471,J.Hill,BAL,13,Other,3,3,1,0.0,,,,
+1472,J.Hill,BAL,14,Other,14,9,2,0.0,,,,
+1473,J.Hill,BAL,14,Red Zone,-6,-6,1,0.0,,,,
+1474,J.Hill,BAL,15,Other,15,9,4,0.0,,,,
+1475,J.Hill,BAL,16,Inside the 5,0,0,1,0.0,,,,
+1476,J.Hill,BAL,16,Other,1,1,1,0.0,64.0,0.0,6.0,8.0
+1477,J.Hill,BAL,16,Red Zone,18,18,1,1.0,,,,
+1478,J.Hill,BAL,17,Other,31,13,9,0.0,0.0,0.0,0.0,2.0
+1479,J.Hill,BAL,17,Red Zone,8,8,1,1.0,20.0,0.0,2.0,2.0
+1480,J.Hilliman,NYG,4,Inside the 5,2,2,1,0.0,,,,
+1481,J.Hilliman,NYG,4,Other,26,7,8,0.0,,,,
+1482,J.Hilliman,NYG,4,Red Zone,5,5,1,0.0,,,,
+1483,J.Hilliman,NYG,5,Other,18,6,8,0.0,8.0,0.0,2.0,4.0
+1484,J.Hilliman,NYG,5,Red Zone,2,2,1,0.0,,,,
+1485,J.Hilliman,NYG,6,Other,38,10,11,0.0,-6.0,0.0,4.0,4.0
+1486,J.Holton,PIT,3,Other,9,9,1,0.0,,,,
+1487,J.Howard,PHI,1,Other,41,17,5,0.0,10.0,0.0,2.0,4.0
+1488,J.Howard,PHI,1,Red Zone,3,3,1,0.0,12.0,0.0,2.0,2.0
+1489,J.Howard,PHI,2,Other,14,5,7,0.0,16.0,0.0,2.0,2.0
+1490,J.Howard,PHI,2,Red Zone,4,4,1,0.0,,,,
+1491,J.Howard,PHI,3,Inside the 5,4,3,2,1.0,,,,
+1492,J.Howard,PHI,3,Other,34,11,8,0.0,0.0,0.0,0.0,2.0
+1493,J.Howard,PHI,3,Red Zone,-1,-1,1,0.0,,,,
+1494,J.Howard,PHI,4,Inside the 5,6,3,3,2.0,,,,
+1495,J.Howard,PHI,4,Other,52,19,9,0.0,16.0,0.0,4.0,6.0
+1496,J.Howard,PHI,4,Red Zone,29,16,3,0.0,40.0,2.0,2.0,2.0
+1497,J.Howard,PHI,5,Inside the 5,1,1,1,1.0,,,,
+1498,J.Howard,PHI,5,Other,56,15,10,0.0,,,,
+1499,J.Howard,PHI,5,Red Zone,5,5,2,0.0,,,,
+1500,J.Howard,PHI,6,Inside the 5,1,1,1,0.0,,,,
+1501,J.Howard,PHI,6,Other,48,12,12,0.0,,,,
+1502,J.Howard,PHI,7,Other,47,16,10,0.0,12.0,0.0,4.0,4.0
+1503,J.Howard,PHI,7,Red Zone,3,3,1,0.0,,,,
+1504,J.Howard,PHI,8,Inside the 5,3,3,2,1.0,,,,
+1505,J.Howard,PHI,8,Other,83,20,20,0.0,30.0,0.0,2.0,4.0
+1506,J.Howard,PHI,8,Red Zone,10,10,1,0.0,,,,
+1507,J.Howard,PHI,9,Inside the 5,2,2,1,0.0,,,,
+1508,J.Howard,PHI,9,Other,64,17,16,0.0,2.0,0.0,2.0,2.0
+1509,J.Howard,PHI,9,Red Zone,16,13,2,1.0,,,,
+1510,J.Jackson,LAC,1,Other,54,24,4,0.0,8.0,0.0,2.0,4.0
+1511,J.Jackson,LAC,1,Red Zone,3,3,2,0.0,0.0,0.0,0.0,2.0
+1512,J.Jackson,LAC,2,Other,57,40,5,0.0,10.0,0.0,2.0,2.0
+1513,J.Jackson,LAC,2,Red Zone,2,6,2,0.0,,,,
+1514,J.Jackson,LAC,3,Other,26,10,5,0.0,4.0,0.0,6.0,6.0
+1515,J.Jackson,LAC,9,Other,7,6,2,0.0,,,,
+1516,J.Jackson,LAC,14,Other,25,14,3,0.0,,,,
+1517,J.Jackson,LAC,15,Other,11,5,4,0.0,4.0,0.0,4.0,4.0
+1518,J.Jackson,LAC,15,Red Zone,4,4,1,0.0,,,,
+1519,J.Jackson,LAC,17,Other,11,11,1,0.0,,,,
+1520,J.Jacobs,OAK,1,Inside the 5,6,4,2,2.0,,,,
+1521,J.Jacobs,OAK,1,Other,61,13,15,0.0,56.0,0.0,2.0,2.0
+1522,J.Jacobs,OAK,1,Red Zone,18,6,6,0.0,,,,
+1523,J.Jacobs,OAK,2,Other,84,51,8,0.0,,,,
+1524,J.Jacobs,OAK,2,Red Zone,15,8,4,0.0,,,,
+1525,J.Jacobs,OAK,3,Other,44,18,10,0.0,0.0,0.0,0.0,4.0
+1526,J.Jacobs,OAK,4,Other,79,16,17,0.0,58.0,0.0,4.0,4.0
+1527,J.Jacobs,OAK,5,Inside the 5,2,2,1,1.0,,,,
+1528,J.Jacobs,OAK,5,Other,106,21,23,0.0,40.0,0.0,6.0,6.0
+1529,J.Jacobs,OAK,5,Red Zone,15,12,2,1.0,,,,
+1530,J.Jacobs,OAK,7,Inside the 5,2,1,3,0.0,,,,
+1531,J.Jacobs,OAK,7,Other,115,42,15,0.0,12.0,0.0,4.0,4.0
+1532,J.Jacobs,OAK,7,Red Zone,7,3,3,0.0,8.0,0.0,2.0,2.0
+1533,J.Jacobs,OAK,8,Other,68,23,14,0.0,30.0,0.0,4.0,4.0
+1534,J.Jacobs,OAK,8,Red Zone,-2,-2,1,0.0,,,,
+1535,J.Jacobs,OAK,9,Inside the 5,10,3,4,2.0,,,,
+1536,J.Jacobs,OAK,9,Other,98,17,20,0.0,0.0,0.0,0.0,2.0
+1537,J.Jacobs,OAK,9,Red Zone,12,9,4,0.0,0.0,0.0,0.0,2.0
+1538,J.Jacobs,OAK,10,Other,40,6,13,0.0,60.0,0.0,6.0,10.0
+1539,J.Jacobs,OAK,10,Red Zone,31,18,3,1.0,,,,
+1540,J.Jacobs,OAK,11,Inside the 5,-1,0,2,0.0,,,,
+1541,J.Jacobs,OAK,11,Other,95,21,17,0.0,18.0,0.0,4.0,4.0
+1542,J.Jacobs,OAK,11,Red Zone,18,8,4,0.0,6.0,0.0,2.0,2.0
+1543,J.Jacobs,OAK,12,Other,34,15,10,0.0,4.0,0.0,2.0,2.0
+1544,J.Jacobs,OAK,13,Other,111,35,16,0.0,,,,
+1545,J.Jacobs,OAK,13,Red Zone,-7,-7,1,0.0,,,,
+1546,J.Jacobs,OAK,15,Other,81,9,22,0.0,40.0,0.0,4.0,6.0
+1547,J.Jacobs,OAK,15,Red Zone,8,5,2,0.0,,,,
+1548,J.Jones,ATL,4,Other,1,1,1,0.0,104.0,0.0,8.0,14.0
+1549,J.Jones,ATL,11,Other,-4,-4,1,0.0,172.0,0.0,10.0,12.0
+1550,J.Kelly,LA,7,Other,9,6,3,0.0,,,,
+1551,J.Landry,CLE,1,Other,10,10,1,0.0,134.0,0.0,8.0,14.0
+1552,J.McKissic,DET,2,Other,2,4,2,0.0,,,,
+1553,J.McKissic,DET,3,Other,44,44,1,0.0,,,,
+1554,J.McKissic,DET,4,Other,31,26,3,0.0,22.0,0.0,2.0,4.0
+1555,J.McKissic,DET,4,Red Zone,-1,-1,1,0.0,,,,
+1556,J.McKissic,DET,6,Other,4,2,3,0.0,14.0,0.0,4.0,6.0
+1557,J.McKissic,DET,7,Other,29,14,5,0.0,62.0,0.0,4.0,6.0
+1558,J.McKissic,DET,8,Other,-1,-1,1,0.0,4.0,0.0,4.0,6.0
+1559,J.McKissic,DET,9,Other,21,13,2,0.0,80.0,2.0,6.0,6.0
+1560,J.McKissic,DET,9,Red Zone,11,11,2,0.0,,,,
+1561,J.McKissic,DET,10,Other,36,9,10,0.0,38.0,0.0,10.0,14.0
+1562,J.McKissic,DET,11,Other,13,6,3,0.0,80.0,0.0,6.0,8.0
+1563,J.McKissic,DET,12,Other,3,3,1,0.0,34.0,0.0,4.0,4.0
+1564,J.McKissic,DET,13,Inside the 5,0,0,1,0.0,,,,
+1565,J.McKissic,DET,13,Red Zone,9,9,1,0.0,,,,
+1566,J.McKissic,DET,14,Other,2,2,1,0.0,26.0,0.0,6.0,6.0
+1567,J.McKissic,DET,15,Other,2,2,1,0.0,14.0,0.0,4.0,6.0
+1568,J.Mixon,CIN,1,Other,7,6,4,0.0,14.0,0.0,4.0,6.0
+1569,J.Mixon,CIN,1,Red Zone,3,2,2,0.0,,,,
+1570,J.Mixon,CIN,2,Inside the 5,4,2,3,0.0,,,,
+1571,J.Mixon,CIN,2,Other,13,9,8,0.0,20.0,0.0,6.0,10.0
+1572,J.Mixon,CIN,3,Other,47,14,13,0.0,66.0,0.0,2.0,2.0
+1573,J.Mixon,CIN,3,Red Zone,13,12,2,0.0,,,,
+1574,J.Mixon,CIN,4,Other,59,15,14,0.0,4.0,0.0,6.0,8.0
+1575,J.Mixon,CIN,4,Red Zone,3,3,1,0.0,-2.0,0.0,2.0,2.0
+1576,J.Mixon,CIN,5,Inside the 5,-1,-1,1,0.0,,,,
+1577,J.Mixon,CIN,5,Other,90,18,17,0.0,32.0,0.0,2.0,2.0
+1578,J.Mixon,CIN,5,Red Zone,4,4,1,0.0,,,,
+1579,J.Mixon,CIN,6,Inside the 5,0,0,1,0.0,,,,
+1580,J.Mixon,CIN,6,Other,10,3,7,0.0,58.0,0.0,4.0,6.0
+1581,J.Mixon,CIN,7,Inside the 5,-1,-1,1,0.0,4.0,2.0,2.0,2.0
+1582,J.Mixon,CIN,7,Other,3,4,9,0.0,0.0,0.0,0.0,2.0
+1583,J.Mixon,CIN,8,Inside the 5,2,2,1,0.0,2.0,2.0,2.0,2.0
+1584,J.Mixon,CIN,8,Other,60,13,15,0.0,20.0,0.0,6.0,6.0
+1585,J.Mixon,CIN,8,Red Zone,4,4,1,0.0,,,,
+1586,J.Mixon,CIN,10,Inside the 5,-2,-2,1,0.0,,,,
+1587,J.Mixon,CIN,10,Other,109,15,26,0.0,74.0,0.0,4.0,6.0
+1588,J.Mixon,CIN,10,Red Zone,7,3,3,0.0,,,,
+1589,J.Mixon,CIN,11,Inside the 5,3,3,1,1.0,,,,
+1590,J.Mixon,CIN,11,Other,82,30,13,0.0,34.0,0.0,2.0,6.0
+1591,J.Mixon,CIN,11,Red Zone,1,1,1,0.0,,,,
+1592,J.Mixon,CIN,12,Other,76,14,17,0.0,,,,
+1593,J.Mixon,CIN,12,Red Zone,3,3,1,0.0,,,,
+1594,J.Mixon,CIN,13,Inside the 5,5,5,1,1.0,,,,
+1595,J.Mixon,CIN,13,Other,39,9,18,0.0,36.0,0.0,4.0,4.0
+1596,J.Mixon,CIN,14,Inside the 5,2,1,2,1.0,,,,
+1597,J.Mixon,CIN,14,Other,128,26,17,0.0,66.0,0.0,4.0,6.0
+1598,J.Mixon,CIN,14,Red Zone,16,7,4,0.0,14.0,0.0,2.0,2.0
+1599,J.Mixon,CIN,15,Other,130,29,23,0.0,40.0,0.0,6.0,6.0
+1600,J.Mixon,CIN,15,Red Zone,6,4,2,0.0,,,,
+1601,J.Mixon,CIN,16,Inside the 5,2,2,3,0.0,,,,
+1602,J.Mixon,CIN,16,Other,37,9,16,0.0,46.0,0.0,4.0,4.0
+1603,J.Mixon,CIN,16,Red Zone,11,8,2,0.0,,,,
+1604,J.Mixon,CIN,17,Inside the 5,5,3,3,2.0,,,,
+1605,J.Mixon,CIN,17,Other,148,41,20,0.0,28.0,0.0,2.0,2.0
+1606,J.Mixon,CIN,17,Red Zone,9,5,3,0.0,,,,
+1607,J.Reynolds,LA,8,Other,-1,-1,1,0.0,146.0,2.0,6.0,14.0
+1608,J.Reynolds,LA,11,Other,-5,-5,1,0.0,110.0,0.0,6.0,12.0
+1609,J.Reynolds,LA,14,Other,29,12,3,0.0,,,,
+1610,J.Richard,OAK,1,Other,3,3,1,0.0,,,,
+1611,J.Richard,OAK,2,Other,3,3,2,0.0,4.0,0.0,4.0,6.0
+1612,J.Richard,OAK,3,Other,15,11,2,0.0,28.0,0.0,6.0,6.0
+1613,J.Richard,OAK,4,Other,17,13,4,0.0,2.0,0.0,2.0,2.0
+1614,J.Richard,OAK,5,Other,9,9,1,0.0,36.0,0.0,4.0,4.0
+1615,J.Richard,OAK,5,Red Zone,5,5,1,0.0,,,,
+1616,J.Richard,OAK,7,Other,2,4,2,0.0,10.0,0.0,2.0,2.0
+1617,J.Richard,OAK,8,Other,3,3,1,0.0,48.0,0.0,4.0,6.0
+1618,J.Richard,OAK,9,Other,12,7,2,0.0,112.0,0.0,6.0,8.0
+1619,J.Richard,OAK,10,Other,0,0,2,0.0,86.0,0.0,8.0,8.0
+1620,J.Richard,OAK,11,Other,0,4,2,0.0,14.0,0.0,2.0,2.0
+1621,J.Richard,OAK,12,Other,4,5,2,0.0,94.0,0.0,12.0,14.0
+1622,J.Richard,OAK,13,Other,2,2,1,0.0,12.0,0.0,2.0,4.0
+1623,J.Richard,OAK,14,Other,28,10,7,0.0,36.0,0.0,4.0,6.0
+1624,J.Richard,OAK,15,Other,11,11,1,0.0,50.0,0.0,4.0,4.0
+1625,J.Richard,OAK,16,Other,9,5,4,0.0,18.0,0.0,4.0,4.0
+1626,J.Richard,OAK,16,Red Zone,2,2,1,0.0,18.0,0.0,4.0,4.0
+1627,J.Richard,OAK,17,Other,20,9,3,0.0,78.0,0.0,4.0,4.0
+1628,J.Rosen,MIA,3,Other,13,6,3,0.0,,,,
+1629,J.Ross III,CIN,16,Other,6,5,2,0.0,154.0,0.0,10.0,24.0
+1630,J.Ross III,CIN,17,Other,-2,-2,1,0.0,84.0,0.0,4.0,10.0
+1631,J.Samuels,PIT,1,Other,4,2,2,0.0,4.0,0.0,2.0,4.0
+1632,J.Samuels,PIT,2,Other,7,7,1,0.0,26.0,0.0,2.0,2.0
+1633,J.Samuels,PIT,2,Red Zone,11,7,2,0.0,,,,
+1634,J.Samuels,PIT,4,Inside the 5,2,2,1,1.0,,,,
+1635,J.Samuels,PIT,4,Other,29,13,8,0.0,114.0,0.0,16.0,16.0
+1636,J.Samuels,PIT,4,Red Zone,-5,-5,1,0.0,,,,
+1637,J.Samuels,PIT,5,Other,7,6,2,0.0,26.0,0.0,4.0,6.0
+1638,J.Samuels,PIT,5,Red Zone,-5,-5,1,0.0,-4.0,0.0,2.0,2.0
+1639,J.Samuels,PIT,9,Inside the 5,3,3,1,0.0,,,,
+1640,J.Samuels,PIT,9,Other,5,6,4,0.0,124.0,0.0,20.0,20.0
+1641,J.Samuels,PIT,9,Red Zone,2,3,3,0.0,22.0,0.0,6.0,6.0
+1642,J.Samuels,PIT,10,Inside the 5,2,2,1,0.0,,,,
+1643,J.Samuels,PIT,10,Other,27,8,13,0.0,22.0,0.0,6.0,12.0
+1644,J.Samuels,PIT,11,Other,26,11,5,0.0,32.0,0.0,8.0,10.0
+1645,J.Samuels,PIT,12,Other,6,4,2,0.0,52.0,0.0,6.0,6.0
+1646,J.Samuels,PIT,13,Other,32,8,7,0.0,44.0,0.0,4.0,4.0
+1647,J.Samuels,PIT,14,Other,15,9,6,0.0,36.0,0.0,2.0,2.0
+1648,J.Samuels,PIT,14,Red Zone,1,1,1,0.0,0.0,0.0,2.0,2.0
+1649,J.Samuels,PIT,15,Other,-1,2,2,0.0,10.0,0.0,2.0,2.0
+1650,J.Samuels,PIT,16,Other,7,6,3,0.0,64.0,0.0,8.0,10.0
+1651,J.Scarlett,CAR,8,Other,9,6,4,0.0,,,,
+1652,J.Smith,TEN,1,Other,10,10,1,0.0,14.0,0.0,2.0,2.0
+1653,J.Smith,TEN,12,Red Zone,4,4,1,0.0,,,,
+1654,J.Smith,TEN,15,Other,57,57,1,0.0,120.0,0.0,10.0,10.0
+1655,J.Smith,TEN,17,Other,7,7,1,0.0,,,,
+1656,J.White,NE,1,Other,26,9,4,0.0,108.0,0.0,8.0,12.0
+1657,J.White,NE,2,Other,10,5,3,0.0,6.0,0.0,2.0,4.0
+1658,J.White,NE,4,Other,1,1,1,0.0,120.0,0.0,14.0,18.0
+1659,J.White,NE,5,Other,26,7,6,0.0,84.0,0.0,10.0,14.0
+1660,J.White,NE,6,Other,-1,1,2,0.0,66.0,0.0,12.0,12.0
+1661,J.White,NE,7,Inside the 5,3,3,1,0.0,,,,
+1662,J.White,NE,7,Other,-1,0,2,0.0,82.0,0.0,8.0,10.0
+1663,J.White,NE,7,Red Zone,-2,0,2,0.0,36.0,0.0,6.0,6.0
+1664,J.White,NE,8,Other,4,3,2,0.0,144.0,0.0,6.0,8.0
+1665,J.White,NE,9,Inside the 5,5,4,2,1.0,,,,
+1666,J.White,NE,9,Other,21,8,4,0.0,60.0,0.0,2.0,4.0
+1667,J.White,NE,9,Red Zone,12,6,3,0.0,32.0,0.0,2.0,2.0
+1668,J.White,NE,11,Inside the 5,2,2,1,0.0,0.0,0.0,0.0,2.0
+1669,J.White,NE,11,Other,21,9,4,0.0,32.0,0.0,8.0,12.0
+1670,J.White,NE,11,Red Zone,-1,-1,1,0.0,,,,
+1671,J.White,NE,12,Other,5,3,2,0.0,0.0,0.0,0.0,4.0
+1672,J.White,NE,13,Other,75,32,13,0.0,150.0,0.0,12.0,16.0
+1673,J.White,NE,13,Red Zone,4,4,1,0.0,46.0,4.0,4.0,6.0
+1674,J.White,NE,14,Inside the 5,-2,0,2,0.0,,,,
+1675,J.White,NE,14,Other,26,19,4,0.0,58.0,0.0,8.0,12.0
+1676,J.White,NE,14,Red Zone,9,9,1,0.0,-4.0,0.0,2.0,2.0
+1677,J.White,NE,15,Other,13,13,3,0.0,98.0,2.0,6.0,8.0
+1678,J.White,NE,16,Inside the 5,0,0,1,0.0,,,,
+1679,J.White,NE,16,Other,5,4,2,0.0,48.0,0.0,8.0,10.0
+1680,J.White,NE,17,Other,4,7,2,0.0,40.0,0.0,4.0,4.0
+1681,J.Wilkins,IND,2,Other,82,55,5,0.0,8.0,0.0,2.0,2.0
+1682,J.Wilkins,IND,3,Other,-2,0,3,0.0,,,,
+1683,J.Wilkins,IND,4,Other,11,6,3,0.0,22.0,0.0,2.0,2.0
+1684,J.Wilkins,IND,4,Red Zone,6,6,1,0.0,,,,
+1685,J.Wilkins,IND,5,Inside the 5,-7,1,2,0.0,,,,
+1686,J.Wilkins,IND,5,Other,17,9,3,0.0,,,,
+1687,J.Wilkins,IND,5,Red Zone,18,10,2,0.0,,,,
+1688,J.Wilkins,IND,7,Other,0,0,1,0.0,12.0,0.0,2.0,2.0
+1689,J.Wilkins,IND,7,Red Zone,9,9,1,0.0,,,,
+1690,J.Wilkins,IND,8,Other,5,4,2,0.0,,,,
+1691,J.Wilkins,IND,9,Other,6,6,1,0.0,12.0,0.0,2.0,2.0
+1692,J.Wilkins,IND,10,Other,20,11,3,0.0,,,,
+1693,J.Wilkins,IND,13,Other,47,15,11,0.0,18.0,0.0,4.0,6.0
+1694,J.Wilkins,IND,14,Other,1,1,1,0.0,,,,
+1695,J.Wilkins,IND,15,Inside the 5,1,1,1,1.0,,,,
+1696,J.Wilkins,IND,15,Other,5,5,1,0.0,14.0,0.0,2.0,6.0
+1697,J.Wilkins,IND,15,Red Zone,4,4,1,0.0,,,,
+1698,J.Wilkins,IND,16,Inside the 5,1,1,2,1.0,,,,
+1699,J.Wilkins,IND,16,Other,80,38,6,0.0,,,,
+1700,J.Wilkins,IND,16,Red Zone,3,3,1,0.0,,,,
+1701,J.Williams,GB,1,Other,0,5,5,0.0,30.0,0.0,4.0,4.0
+1702,J.Williams,GB,2,Other,28,10,9,0.0,-4.0,0.0,4.0,6.0
+1703,J.Williams,GB,3,Other,59,12,12,0.0,54.0,0.0,4.0,4.0
+1704,J.Williams,GB,6,Other,84,45,10,0.0,54.0,0.0,6.0,6.0
+1705,J.Williams,GB,6,Red Zone,20,8,4,0.0,0.0,0.0,0.0,2.0
+1706,J.Williams,GB,7,Other,5,3,3,0.0,48.0,0.0,6.0,8.0
+1707,J.Williams,GB,8,Inside the 5,1,1,1,1.0,6.0,2.0,2.0,2.0
+1708,J.Williams,GB,8,Other,21,14,6,0.0,22.0,0.0,4.0,4.0
+1709,J.Williams,GB,9,Other,10,5,2,0.0,44.0,0.0,8.0,8.0
+1710,J.Williams,GB,10,Inside the 5,-3,-3,1,0.0,,,,
+1711,J.Williams,GB,10,Other,59,16,9,0.0,0.0,0.0,0.0,2.0
+1712,J.Williams,GB,10,Red Zone,7,4,3,0.0,,,,
+1713,J.Williams,GB,12,Other,44,12,10,0.0,70.0,0.0,14.0,16.0
+1714,J.Williams,GB,12,Red Zone,1,1,1,0.0,,,,
+1715,J.Williams,GB,13,Other,39,9,9,0.0,52.0,0.0,8.0,8.0
+1716,J.Williams,GB,13,Red Zone,2,2,1,0.0,,,,
+1717,J.Williams,GB,14,Other,20,7,5,0.0,0.0,0.0,0.0,2.0
+1718,J.Williams,GB,14,Red Zone,4,3,2,0.0,,,,
+1719,J.Williams,GB,15,Other,26,6,8,0.0,14.0,0.0,2.0,2.0
+1720,J.Williams,GB,16,Other,33,8,6,0.0,22.0,0.0,2.0,2.0
+1721,J.Williams,IND,10,Red Zone,1,4,2,0.0,,,,
+1722,J.Williams,IND,11,Inside the 5,1,1,1,0.0,,,,
+1723,J.Williams,IND,11,Other,107,48,9,0.0,62.0,0.0,2.0,2.0
+1724,J.Williams,IND,11,Red Zone,8,6,3,0.0,,,,
+1725,J.Williams,IND,12,Other,89,12,24,0.0,34.0,0.0,6.0,6.0
+1726,J.Williams,IND,12,Red Zone,15,13,2,1.0,,,,
+1727,J.Williams,IND,13,Other,14,10,8,0.0,22.0,0.0,2.0,2.0
+1728,J.Wilson,SF,2,Inside the 5,6,4,2,2.0,,,,
+1729,J.Wilson,SF,2,Other,21,14,5,0.0,,,,
+1730,J.Wilson,SF,2,Red Zone,7,9,3,0.0,,,,
+1731,J.Wilson,SF,3,Inside the 5,5,4,3,2.0,,,,
+1732,J.Wilson,SF,3,Red Zone,13,5,5,0.0,,,,
+1733,J.Wilson,SF,7,Other,16,6,4,0.0,,,,
+1734,J.Wilson,SF,7,Red Zone,4,4,1,0.0,,,,
+1735,J.Wilson,SF,8,Inside the 5,2,2,1,0.0,,,,
+1736,J.Wilson,SF,8,Red Zone,4,4,1,0.0,,,,
+1737,J.Wilson,SF,12,Other,27,25,2,0.0,,,,
+1738,J.Winston,TB,1,Other,10,5,3,0.0,,,,
+1739,J.Winston,TB,1,Red Zone,4,4,1,0.0,,,,
+1740,J.Winston,TB,2,Other,11,9,2,0.0,,,,
+1741,J.Winston,TB,3,Other,3,2,2,0.0,,,,
+1742,J.Winston,TB,3,Red Zone,0,2,2,0.0,,,,
+1743,J.Winston,TB,5,Other,13,5,3,0.0,,,,
+1744,J.Winston,TB,6,Inside the 5,2,2,1,0.0,,,,
+1745,J.Winston,TB,6,Other,1,1,1,0.0,,,,
+1746,J.Winston,TB,8,Other,53,20,8,0.0,,,,
+1747,J.Winston,TB,9,Other,8,5,2,0.0,,,,
+1748,J.Winston,TB,10,Other,40,26,3,0.0,,,,
+1749,J.Winston,TB,11,Inside the 5,0,0,1,0.0,,,,
+1750,J.Winston,TB,11,Other,23,23,1,0.0,,,,
+1751,J.Winston,TB,12,Other,42,24,4,0.0,,,,
+1752,J.Winston,TB,13,Inside the 5,0,0,3,0.0,,,,
+1753,J.Winston,TB,13,Other,20,16,3,0.0,,,,
+1754,J.Winston,TB,14,Inside the 5,1,1,1,1.0,,,,
+1755,J.Winston,TB,14,Other,8,5,2,0.0,,,,
+1756,J.Winston,TB,15,Other,4,2,2,0.0,,,,
+1757,J.Winston,TB,16,Other,16,14,2,0.0,,,,
+1758,J.Winston,TB,17,Inside the 5,2,2,1,0.0,,,,
+1759,J.Winston,TB,17,Other,5,3,2,0.0,,,,
+1760,J.Wright,CAR,9,Other,-7,-7,1,0.0,0.0,0.0,0.0,8.0
+1761,Jo.Adams,NYJ,11,Other,6,3,4,0.0,,,,
+1762,Jo.Adams,NYJ,12,Other,6,10,4,0.0,,,,
+1763,Jos.Allen,BUF,9,Inside the 5,1,1,1,1.0,,,,
+1764,Jos.Allen,BUF,9,Other,14,6,4,0.0,,,,
+1765,Jos.Allen,BUF,10,Inside the 5,1,1,1,1.0,,,,
+1766,Jos.Allen,BUF,10,Other,14,12,2,0.0,,,,
+1767,Jos.Allen,BUF,10,Red Zone,13,10,3,1.0,,,,
+1768,Jos.Allen,BUF,11,Other,49,36,5,0.0,,,,
+1769,Jos.Allen,BUF,11,Red Zone,8,8,1,1.0,,,,
+1770,K.Allen,CAR,3,Other,1,1,1,0.0,,,,
+1771,K.Allen,CAR,5,Other,4,4,1,0.0,,,,
+1772,K.Allen,CAR,6,Inside the 5,0,0,1,0.0,,,,
+1773,K.Allen,CAR,6,Other,4,4,1,0.0,,,,
+1774,K.Allen,CAR,9,Other,-2,-2,1,0.0,,,,
+1775,K.Allen,CAR,10,Other,12,8,3,0.0,,,,
+1776,K.Allen,CAR,11,Other,7,7,1,0.0,,,,
+1777,K.Allen,CAR,12,Other,9,9,1,0.0,,,,
+1778,K.Allen,CAR,13,Other,5,3,3,0.0,,,,
+1779,K.Allen,CAR,13,Red Zone,17,17,1,1.0,,,,
+1780,K.Allen,CAR,14,Inside the 5,1,1,1,1.0,,,,
+1781,K.Allen,CAR,14,Other,18,8,4,0.0,,,,
+1782,K.Allen,CAR,14,Red Zone,5,5,1,0.0,,,,
+1783,K.Allen,CAR,15,Other,25,10,5,0.0,,,,
+1784,K.Allen,CAR,17,Other,4,4,1,0.0,,,,
+1785,K.Allen,CAR,17,Red Zone,1,1,1,0.0,,,,
+1786,K.Allen,LAC,3,Other,3,3,1,0.0,328.0,0.0,22.0,30.0
+1787,K.Allen,LAC,10,Other,18,18,1,0.0,100.0,0.0,10.0,16.0
+1788,K.Allen,LAC,16,Other,-5,-5,1,0.0,106.0,0.0,8.0,16.0
+1789,K.Ballage,MIA,1,Other,-1,6,5,0.0,26.0,0.0,2.0,2.0
+1790,K.Ballage,MIA,2,Other,6,3,4,0.0,12.0,0.0,2.0,10.0
+1791,K.Ballage,MIA,3,Inside the 5,0,0,2,0.0,,,,
+1792,K.Ballage,MIA,3,Other,12,6,5,0.0,20.0,0.0,2.0,6.0
+1793,K.Ballage,MIA,3,Red Zone,5,5,1,0.0,,,,
+1794,K.Ballage,MIA,4,Other,7,6,2,0.0,,,,
+1795,K.Ballage,MIA,6,Inside the 5,1,1,2,1.0,,,,
+1796,K.Ballage,MIA,6,Other,6,6,1,0.0,,,,
+1797,K.Ballage,MIA,7,Inside the 5,3,3,1,1.0,,,,
+1798,K.Ballage,MIA,7,Other,2,2,1,0.0,,,,
+1799,K.Ballage,MIA,7,Red Zone,2,2,1,0.0,,,,
+1800,K.Ballage,MIA,8,Other,5,4,2,0.0,22.0,0.0,2.0,2.0
+1801,K.Ballage,MIA,8,Red Zone,3,3,1,0.0,,,,
+1802,K.Ballage,MIA,9,Inside the 5,-2,-2,1,0.0,,,,
+1803,K.Ballage,MIA,9,Other,10,7,4,0.0,,,,
+1804,K.Ballage,MIA,9,Red Zone,11,8,2,0.0,0.0,0.0,0.0,2.0
+1805,K.Ballage,MIA,10,Other,41,7,17,0.0,4.0,0.0,6.0,6.0
+1806,K.Ballage,MIA,10,Red Zone,2,5,3,0.0,0.0,0.0,2.0,2.0
+1807,K.Ballage,MIA,11,Inside the 5,3,3,1,1.0,,,,
+1808,K.Ballage,MIA,11,Other,-1,2,7,0.0,20.0,0.0,8.0,10.0
+1809,K.Ballage,MIA,11,Red Zone,7,7,1,0.0,-4.0,0.0,2.0,2.0
+1810,K.Ballage,MIA,12,Other,13,4,7,0.0,26.0,0.0,2.0,2.0
+1811,K.Ballage,MIA,13,Other,0,1,3,0.0,,,,
+1812,K.Barner,ATL,8,Other,1,1,1,0.0,,,,
+1813,K.Barner,ATL,10,Other,12,12,1,0.0,,,,
+1814,K.Barner,ATL,11,Other,15,9,2,0.0,,,,
+1815,K.Cole,JAX,16,Other,6,6,1,0.0,46.0,0.0,2.0,4.0
+1816,K.Cousins,MIN,1,Inside the 5,1,1,1,1.0,,,,
+1817,K.Cousins,MIN,1,Other,5,3,3,0.0,,,,
+1818,K.Cousins,MIN,2,Other,17,11,2,0.0,,,,
+1819,K.Cousins,MIN,3,Inside the 5,4,4,1,0.0,,,,
+1820,K.Cousins,MIN,3,Other,12,10,3,0.0,,,,
+1821,K.Cousins,MIN,5,Other,4,4,2,0.0,,,,
+1822,K.Cousins,MIN,6,Other,1,1,1,0.0,,,,
+1823,K.Cousins,MIN,8,Other,2,2,2,0.0,,,,
+1824,K.Cousins,MIN,9,Other,5,5,1,0.0,,,,
+1825,K.Cousins,MIN,10,Other,5,5,1,0.0,,,,
+1826,K.Cousins,MIN,11,Other,1,1,2,0.0,,,,
+1827,K.Cousins,MIN,15,Other,14,14,3,0.0,,,,
+1828,K.Coutee,HOU,4,Other,10,10,1,0.0,22.0,0.0,2.0,6.0
+1829,K.Coutee,HOU,7,Inside the 5,4,4,1,1.0,,,,
+1830,K.Drake,ARI,9,Inside the 5,4,4,1,1.0,4.0,0.0,0.0,2.0
+1831,K.Drake,ARI,9,Other,106,36,14,0.0,104.0,0.0,8.0,8.0
+1832,K.Drake,ARI,10,Other,35,17,9,0.0,12.0,0.0,12.0,14.0
+1833,K.Drake,ARI,10,Red Zone,0,0,1,0.0,,,,
+1834,K.Drake,ARI,11,Other,67,12,16,0.0,26.0,0.0,12.0,14.0
+1835,K.Drake,ARI,13,Other,31,9,13,0.0,40.0,0.0,4.0,10.0
+1836,K.Drake,ARI,14,Inside the 5,2,2,1,0.0,,,,
+1837,K.Drake,ARI,14,Other,32,10,9,0.0,60.0,0.0,6.0,6.0
+1838,K.Drake,ARI,14,Red Zone,3,3,1,0.0,,,,
+1839,K.Drake,ARI,15,Inside the 5,7,5,3,3.0,,,,
+1840,K.Drake,ARI,15,Other,104,21,15,0.0,18.0,0.0,2.0,2.0
+1841,K.Drake,ARI,15,Red Zone,26,17,4,1.0,,,,
+1842,K.Drake,ARI,16,Inside the 5,3,3,1,1.0,,,,
+1843,K.Drake,ARI,16,Other,162,80,21,1.0,36.0,0.0,6.0,8.0
+1844,K.Drake,ARI,16,Red Zone,1,2,2,0.0,,,,
+1845,K.Drake,ARI,17,Inside the 5,0,1,2,1.0,,,,
+1846,K.Drake,ARI,17,Other,48,24,9,0.0,36.0,0.0,4.0,4.0
+1847,K.Drake,ARI,17,Red Zone,12,12,1,0.0,10.0,0.0,2.0,4.0
+1848,K.Drake,MIA,1,Other,12,9,4,0.0,30.0,0.0,4.0,6.0
+1849,K.Drake,MIA,2,Other,19,9,6,0.0,58.0,0.0,10.0,12.0
+1850,K.Drake,MIA,3,Other,38,8,11,0.0,68.0,0.0,6.0,12.0
+1851,K.Drake,MIA,3,Red Zone,0,0,1,0.0,,,,
+1852,K.Drake,MIA,4,Other,44,10,9,0.0,58.0,0.0,6.0,8.0
+1853,K.Drake,MIA,6,Other,37,9,9,0.0,42.0,0.0,10.0,16.0
+1854,K.Drake,MIA,6,Red Zone,3,3,1,0.0,18.0,0.0,2.0,2.0
+1855,K.Drake,MIA,7,Other,18,11,3,0.0,56.0,0.0,4.0,6.0
+1856,K.Drake,MIA,7,Red Zone,3,4,3,0.0,18.0,0.0,2.0,2.0
+1857,K.Hunt,CLE,10,Other,21,9,3,0.0,88.0,0.0,14.0,18.0
+1858,K.Hunt,CLE,10,Red Zone,9,9,1,0.0,,,,
+1859,K.Hunt,CLE,11,Other,12,7,6,0.0,92.0,0.0,12.0,16.0
+1860,K.Hunt,CLE,12,Other,31,9,7,0.0,18.0,0.0,4.0,4.0
+1861,K.Hunt,CLE,12,Red Zone,6,6,1,1.0,0.0,0.0,0.0,2.0
+1862,K.Hunt,CLE,13,Other,49,16,6,0.0,8.0,0.0,8.0,8.0
+1863,K.Hunt,CLE,13,Red Zone,-3,-3,1,0.0,30.0,2.0,2.0,2.0
+1864,K.Hunt,CLE,14,Inside the 5,3,3,1,1.0,,,,
+1865,K.Hunt,CLE,14,Other,25,7,8,0.0,80.0,0.0,4.0,4.0
+1866,K.Hunt,CLE,15,Other,14,6,4,0.0,124.0,0.0,16.0,18.0
+1867,K.Hunt,CLE,16,Other,8,6,2,0.0,66.0,0.0,8.0,8.0
+1868,K.Hunt,CLE,17,Other,4,5,2,0.0,64.0,0.0,6.0,8.0
+1869,K.Hunt,CLE,17,Red Zone,0,0,1,0.0,,,,
+1870,K.Johnson,ARI,5,Other,3,3,1,0.0,44.0,0.0,6.0,12.0
+1871,K.Johnson,DET,1,Other,46,9,15,0.0,26.0,0.0,4.0,4.0
+1872,K.Johnson,DET,1,Red Zone,3,3,1,0.0,,,,
+1873,K.Johnson,DET,2,Other,41,9,12,0.0,94.0,2.0,4.0,6.0
+1874,K.Johnson,DET,3,Inside the 5,3,2,3,1.0,,,,
+1875,K.Johnson,DET,3,Other,33,11,16,0.0,14.0,0.0,2.0,2.0
+1876,K.Johnson,DET,3,Red Zone,0,0,1,0.0,,,,
+1877,K.Johnson,DET,4,Inside the 5,3,3,2,0.0,,,,
+1878,K.Johnson,DET,4,Other,96,14,19,0.0,64.0,0.0,4.0,6.0
+1879,K.Johnson,DET,4,Red Zone,26,13,5,0.0,,,,
+1880,K.Johnson,DET,6,Inside the 5,1,1,3,1.0,,,,
+1881,K.Johnson,DET,6,Other,32,8,9,0.0,54.0,0.0,4.0,6.0
+1882,K.Johnson,DET,6,Red Zone,1,1,1,0.0,0.0,0.0,0.0,2.0
+1883,K.Johnson,DET,7,Other,23,6,5,0.0,0.0,0.0,0.0,2.0
+1884,K.Johnson,DET,16,Inside the 5,1,1,1,0.0,,,,
+1885,K.Johnson,DET,16,Other,34,8,8,0.0,2.0,0.0,2.0,2.0
+1886,K.Johnson,DET,16,Red Zone,7,7,1,0.0,,,,
+1887,K.Johnson,DET,17,Inside the 5,1,1,1,1.0,,,,
+1888,K.Johnson,DET,17,Other,53,20,8,0.0,,,,
+1889,K.Johnson,DET,17,Red Zone,-1,1,2,0.0,,,,
+1890,K.Juszczyk,SF,2,Other,6,6,1,0.0,10.0,0.0,2.0,4.0
+1891,K.Juszczyk,SF,15,Inside the 5,-1,-1,1,0.0,4.0,2.0,2.0,2.0
+1892,K.Juszczyk,SF,15,Other,2,2,1,0.0,8.0,0.0,2.0,2.0
+1893,K.Murray,ARI,1,Other,15,9,2,0.0,,,,
+1894,K.Murray,ARI,1,Red Zone,-2,-2,1,0.0,,,,
+1895,K.Murray,ARI,2,Other,4,7,3,0.0,,,,
+1896,K.Murray,ARI,3,Other,51,20,6,0.0,,,,
+1897,K.Murray,ARI,3,Red Zone,18,17,2,0.0,,,,
+1898,K.Murray,ARI,4,Other,15,15,1,0.0,,,,
+1899,K.Murray,ARI,4,Red Zone,13,9,2,1.0,,,,
+1900,K.Murray,ARI,5,Other,78,24,7,0.0,,,,
+1901,K.Murray,ARI,5,Red Zone,15,8,3,1.0,,,,
+1902,K.Murray,ARI,6,Other,27,14,7,0.0,,,,
+1903,K.Murray,ARI,6,Red Zone,8,8,1,0.0,,,,
+1904,K.Murray,ARI,7,Other,35,11,7,0.0,,,,
+1905,K.Murray,ARI,8,Other,8,8,1,0.0,,,,
+1906,K.Murray,ARI,8,Red Zone,5,5,1,0.0,,,,
+1907,K.Murray,ARI,9,Other,33,21,4,0.0,,,,
+1908,K.Murray,ARI,9,Red Zone,1,1,1,0.0,,,,
+1909,K.Murray,ARI,10,Other,39,32,2,0.0,,,,
+1910,K.Murray,ARI,11,Inside the 5,1,1,1,0.0,,,,
+1911,K.Murray,ARI,11,Other,62,22,6,1.0,,,,
+1912,K.Murray,ARI,11,Red Zone,4,4,1,0.0,,,,
+1913,K.Murray,ARI,13,Other,13,5,3,0.0,,,,
+1914,K.Murray,ARI,13,Red Zone,15,15,1,1.0,,,,
+1915,K.Murray,ARI,14,Inside the 5,-1,-1,1,0.0,,,,
+1916,K.Murray,ARI,14,Other,2,8,4,0.0,,,,
+1917,K.Murray,ARI,14,Red Zone,1,1,1,0.0,,,,
+1918,K.Murray,ARI,15,Other,50,35,5,0.0,,,,
+1919,K.Murray,ARI,15,Red Zone,8,7,2,0.0,,,,
+1920,K.Murray,ARI,16,Other,40,17,6,0.0,,,,
+1921,K.Murray,ARI,17,Other,0,0,2,0.0,,,,
+1922,K.Raymond,TEN,12,Other,-5,-5,1,0.0,28.0,0.0,2.0,2.0
+1923,K.Smith,ATL,6,Red Zone,2,2,1,0.0,,,,
+1924,K.Smith,ATL,11,Red Zone,3,3,1,0.0,,,,
+1925,K.Smith,ATL,13,Other,4,3,2,0.0,0.0,0.0,0.0,2.0
+1926,K.Smith,ATL,17,Other,-1,-1,1,0.0,,,,
+1927,K.Whyte Jr.,PIT,12,Other,44,21,5,0.0,,,,
+1928,K.Whyte Jr.,PIT,12,Red Zone,-1,-1,1,0.0,,,,
+1929,K.Whyte Jr.,PIT,13,Other,10,5,3,0.0,,,,
+1930,K.Whyte Jr.,PIT,14,Other,36,13,4,0.0,18.0,0.0,2.0,2.0
+1931,K.Whyte Jr.,PIT,14,Red Zone,5,5,1,0.0,,,,
+1932,K.Whyte Jr.,PIT,15,Other,5,5,1,0.0,,,,
+1933,K.Whyte Jr.,PIT,16,Other,22,7,6,0.0,,,,
+1934,K.Whyte Jr.,PIT,17,Other,1,3,3,0.0,,,,
+1935,L.Bell,NYJ,1,Other,56,12,16,0.0,24.0,0.0,8.0,14.0
+1936,L.Bell,NYJ,1,Red Zone,4,4,1,0.0,40.0,2.0,4.0,4.0
+1937,L.Bell,NYJ,2,Other,64,8,20,0.0,120.0,0.0,18.0,18.0
+1938,L.Bell,NYJ,2,Red Zone,4,4,1,0.0,2.0,0.0,2.0,2.0
+1939,L.Bell,NYJ,3,Other,35,8,18,0.0,56.0,0.0,8.0,8.0
+1940,L.Bell,NYJ,5,Other,43,13,15,0.0,90.0,0.0,14.0,16.0
+1941,L.Bell,NYJ,6,Inside the 5,1,2,2,1.0,,,,
+1942,L.Bell,NYJ,6,Other,45,13,11,0.0,6.0,0.0,2.0,2.0
+1943,L.Bell,NYJ,6,Red Zone,4,4,1,0.0,,,,
+1944,L.Bell,NYJ,7,Other,70,19,14,0.0,12.0,0.0,2.0,2.0
+1945,L.Bell,NYJ,7,Red Zone,0,0,1,0.0,0.0,0.0,0.0,6.0
+1946,L.Bell,NYJ,8,Other,23,5,8,0.0,24.0,0.0,6.0,10.0
+1947,L.Bell,NYJ,9,Other,63,14,16,0.0,110.0,0.0,16.0,18.0
+1948,L.Bell,NYJ,9,Red Zone,3,3,1,0.0,,,,
+1949,L.Bell,NYJ,10,Inside the 5,3,2,2,1.0,,,,
+1950,L.Bell,NYJ,10,Other,31,4,14,0.0,68.0,0.0,8.0,8.0
+1951,L.Bell,NYJ,10,Red Zone,0,1,2,0.0,,,,
+1952,L.Bell,NYJ,11,Inside the 5,5,4,2,1.0,,,,
+1953,L.Bell,NYJ,11,Other,54,9,16,0.0,66.0,0.0,4.0,4.0
+1954,L.Bell,NYJ,12,Other,41,12,10,0.0,104.0,0.0,6.0,6.0
+1955,L.Bell,NYJ,12,Red Zone,8,5,2,0.0,8.0,0.0,2.0,2.0
+1956,L.Bell,NYJ,13,Other,32,7,10,0.0,70.0,0.0,8.0,10.0
+1957,L.Bell,NYJ,15,Other,79,15,18,0.0,-4.0,0.0,2.0,2.0
+1958,L.Bell,NYJ,15,Red Zone,8,5,3,0.0,6.0,0.0,2.0,2.0
+1959,L.Bell,NYJ,16,Other,71,11,24,0.0,42.0,0.0,8.0,8.0
+1960,L.Bell,NYJ,16,Red Zone,1,1,1,0.0,,,,
+1961,L.Bell,NYJ,17,Other,36,12,15,0.0,66.0,0.0,8.0,8.0
+1962,L.Bell,NYJ,17,Red Zone,5,5,1,0.0,6.0,0.0,2.0,2.0
+1963,L.Fournette,JAX,1,Other,66,14,13,0.0,56.0,0.0,8.0,12.0
+1964,L.Fournette,JAX,2,Inside the 5,0,0,1,0.0,,,,
+1965,L.Fournette,JAX,2,Other,47,14,15,0.0,68.0,0.0,6.0,10.0
+1966,L.Fournette,JAX,3,Other,61,69,12,0.0,52.0,0.0,12.0,16.0
+1967,L.Fournette,JAX,3,Red Zone,5,3,3,0.0,,,,
+1968,L.Fournette,JAX,4,Other,207,81,21,0.0,38.0,0.0,2.0,4.0
+1969,L.Fournette,JAX,4,Red Zone,18,4,8,0.0,2.0,0.0,2.0,2.0
+1970,L.Fournette,JAX,5,Inside the 5,1,1,1,1.0,,,,
+1971,L.Fournette,JAX,5,Other,102,48,19,0.0,56.0,0.0,8.0,12.0
+1972,L.Fournette,JAX,5,Red Zone,5,6,3,0.0,0.0,0.0,0.0,2.0
+1973,L.Fournette,JAX,6,Other,63,16,16,0.0,64.0,0.0,8.0,8.0
+1974,L.Fournette,JAX,6,Red Zone,9,3,4,0.0,28.0,0.0,4.0,4.0
+1975,L.Fournette,JAX,7,Inside the 5,0,0,1,0.0,,,,
+1976,L.Fournette,JAX,7,Other,122,20,21,0.0,28.0,0.0,4.0,4.0
+1977,L.Fournette,JAX,7,Red Zone,9,5,7,0.0,,,,
+1978,L.Fournette,JAX,8,Inside the 5,-7,0,2,0.0,,,,
+1979,L.Fournette,JAX,8,Other,83,66,12,0.0,120.0,0.0,12.0,14.0
+1980,L.Fournette,JAX,8,Red Zone,0,3,5,0.0,,,,
+1981,L.Fournette,JAX,9,Other,36,11,10,0.0,64.0,0.0,10.0,12.0
+1982,L.Fournette,JAX,9,Red Zone,4,4,1,0.0,,,,
+1983,L.Fournette,JAX,11,Other,23,10,8,0.0,68.0,0.0,14.0,14.0
+1984,L.Fournette,JAX,12,Inside the 5,5,3,3,2.0,,,,
+1985,L.Fournette,JAX,12,Other,90,16,20,0.0,98.0,0.0,14.0,20.0
+1986,L.Fournette,JAX,12,Red Zone,2,2,1,0.0,26.0,0.0,4.0,4.0
+1987,L.Fournette,JAX,13,Inside the 5,-1,-1,1,0.0,0.0,0.0,0.0,2.0
+1988,L.Fournette,JAX,13,Other,30,10,10,0.0,106.0,0.0,18.0,20.0
+1989,L.Fournette,JAX,13,Red Zone,9,4,3,0.0,,,,
+1990,L.Fournette,JAX,14,Other,49,11,14,0.0,26.0,0.0,6.0,10.0
+1991,L.Fournette,JAX,14,Red Zone,1,1,1,0.0,0.0,0.0,0.0,2.0
+1992,L.Fournette,JAX,15,Other,41,17,14,0.0,38.0,0.0,6.0,10.0
+1993,L.Fournette,JAX,15,Red Zone,1,1,1,0.0,24.0,0.0,4.0,4.0
+1994,L.Fournette,JAX,16,Other,68,23,14,0.0,68.0,0.0,6.0,12.0
+1995,L.Fournette,JAX,16,Red Zone,3,3,1,0.0,,,,
+1996,L.Jackson,BAL,1,Other,7,4,2,0.0,,,,
+1997,L.Jackson,BAL,2,Other,121,19,13,0.0,,,,
+1998,L.Jackson,BAL,2,Red Zone,1,1,1,0.0,,,,
+1999,L.Jackson,BAL,3,Inside the 5,0,0,2,0.0,,,,
+2000,L.Jackson,BAL,3,Other,23,8,5,0.0,,,,
+2001,L.Jackson,BAL,3,Red Zone,23,9,3,1.0,,,,
+2002,L.Jackson,BAL,4,Other,67,29,7,0.0,,,,
+2003,L.Jackson,BAL,4,Red Zone,0,0,1,0.0,,,,
+2004,L.Jackson,BAL,5,Other,48,9,11,0.0,,,,
+2005,L.Jackson,BAL,5,Red Zone,22,8,3,0.0,,,,
+2006,L.Jackson,BAL,6,Other,147,36,14,1.0,,,,
+2007,L.Jackson,BAL,6,Red Zone,8,9,2,0.0,,,,
+2008,L.Jackson,BAL,7,Other,108,30,8,0.0,,,,
+2009,L.Jackson,BAL,7,Red Zone,11,8,3,1.0,,,,
+2010,L.Jackson,BAL,9,Inside the 5,4,3,3,2.0,,,,
+2011,L.Jackson,BAL,9,Other,35,18,7,0.0,,,,
+2012,L.Jackson,BAL,9,Red Zone,25,11,3,0.0,,,,
+2013,L.Jackson,BAL,10,Inside the 5,-1,-1,1,0.0,,,,
+2014,L.Jackson,BAL,10,Other,67,47,5,1.0,,,,
+2015,L.Jackson,BAL,11,Other,86,39,7,0.0,,,,
+2016,L.Jackson,BAL,11,Red Zone,-6,1,2,0.0,,,,
+2017,L.Jackson,BAL,12,Other,95,29,8,0.0,,,,
+2018,L.Jackson,BAL,13,Inside the 5,1,1,1,1.0,,,,
+2019,L.Jackson,BAL,13,Other,89,14,14,0.0,,,,
+2020,L.Jackson,BAL,13,Red Zone,11,11,1,0.0,,,,
+2021,L.Jackson,BAL,14,Inside the 5,0,0,1,0.0,,,,
+2022,L.Jackson,BAL,14,Other,43,16,8,0.0,,,,
+2023,L.Jackson,BAL,15,Other,81,25,7,0.0,,,,
+2024,L.Jackson,BAL,15,Red Zone,5,5,1,0.0,,,,
+2025,L.Jackson,BAL,16,Other,105,15,15,0.0,,,,
+2026,L.McCoy,KC,1,Other,76,31,9,0.0,24.0,0.0,2.0,2.0
+2027,L.McCoy,KC,1,Red Zone,5,5,1,0.0,,,,
+2028,L.McCoy,KC,2,Other,21,6,9,0.0,0.0,0.0,6.0,6.0
+2029,L.McCoy,KC,2,Red Zone,2,3,2,0.0,,,,
+2030,L.McCoy,KC,3,Inside the 5,3,2,2,1.0,,,,
+2031,L.McCoy,KC,3,Other,50,25,5,0.0,16.0,0.0,2.0,2.0
+2032,L.McCoy,KC,3,Red Zone,1,1,1,0.0,36.0,2.0,4.0,4.0
+2033,L.McCoy,KC,4,Inside the 5,2,1,3,1.0,,,,
+2034,L.McCoy,KC,4,Other,47,39,5,0.0,20.0,0.0,4.0,4.0
+2035,L.McCoy,KC,4,Red Zone,7,5,3,0.0,0.0,0.0,0.0,4.0
+2036,L.McCoy,KC,6,Other,39,17,6,0.0,0.0,0.0,4.0,4.0
+2037,L.McCoy,KC,6,Red Zone,5,5,2,0.0,,,,
+2038,L.McCoy,KC,7,Other,63,22,11,0.0,24.0,0.0,4.0,4.0
+2039,L.McCoy,KC,7,Red Zone,1,1,1,0.0,,,,
+2040,L.McCoy,KC,8,Other,40,9,9,0.0,36.0,0.0,6.0,6.0
+2041,L.McCoy,KC,9,Other,9,7,3,0.0,0.0,0.0,2.0,2.0
+2042,L.McCoy,KC,11,Other,15,6,5,0.0,56.0,0.0,8.0,12.0
+2043,L.McCoy,KC,11,Red Zone,14,8,2,1.0,,,,
+2044,L.McCoy,KC,13,Inside the 5,3,3,1,1.0,,,,
+2045,L.McCoy,KC,13,Other,7,6,4,0.0,40.0,0.0,6.0,6.0
+2046,L.McCoy,KC,14,Inside the 5,0,0,1,0.0,,,,
+2047,L.McCoy,KC,14,Other,39,13,10,0.0,8.0,0.0,2.0,6.0
+2048,L.McCoy,KC,15,Other,16,10,6,0.0,,,,
+2049,L.Murray,NO,1,Other,38,30,5,1.0,8.0,0.0,4.0,4.0
+2050,L.Murray,NO,1,Red Zone,5,5,1,0.0,0.0,0.0,0.0,2.0
+2051,L.Murray,NO,2,Other,7,4,5,0.0,32.0,0.0,2.0,2.0
+2052,L.Murray,NO,3,Other,2,2,2,0.0,,,,
+2053,L.Murray,NO,4,Other,14,5,4,0.0,12.0,0.0,2.0,2.0
+2054,L.Murray,NO,5,Other,28,12,7,0.0,12.0,0.0,4.0,4.0
+2055,L.Murray,NO,6,Other,31,15,6,0.0,70.0,0.0,6.0,6.0
+2056,L.Murray,NO,6,Red Zone,13,9,2,0.0,,,,
+2057,L.Murray,NO,7,Inside the 5,7,4,2,2.0,,,,
+2058,L.Murray,NO,7,Other,96,17,19,0.0,34.0,0.0,6.0,6.0
+2059,L.Murray,NO,7,Red Zone,16,6,6,0.0,28.0,0.0,4.0,6.0
+2060,L.Murray,NO,8,Other,78,28,16,0.0,86.0,0.0,14.0,20.0
+2061,L.Murray,NO,8,Red Zone,24,10,5,1.0,24.0,2.0,4.0,4.0
+2062,L.Murray,NO,10,Inside the 5,0,0,1,0.0,,,,
+2063,L.Murray,NO,10,Other,12,6,4,0.0,2.0,0.0,2.0,2.0
+2064,L.Murray,NO,11,Other,25,12,9,0.0,4.0,0.0,2.0,4.0
+2065,L.Murray,NO,11,Red Zone,2,2,1,0.0,6.0,0.0,2.0,2.0
+2066,L.Murray,NO,12,Other,64,26,7,1.0,,,,
+2067,L.Murray,NO,13,Other,2,1,4,0.0,,,,
+2068,L.Murray,NO,14,Other,62,18,6,0.0,50.0,0.0,4.0,6.0
+2069,L.Murray,NO,14,Red Zone,7,7,1,0.0,,,,
+2070,L.Murray,NO,15,Other,29,8,8,0.0,40.0,0.0,4.0,6.0
+2071,L.Murray,NO,15,Red Zone,0,0,1,0.0,,,,
+2072,L.Murray,NO,16,Inside the 5,-1,-1,1,0.0,,,,
+2073,L.Murray,NO,16,Other,15,5,6,0.0,22.0,0.0,4.0,6.0
+2074,L.Murray,NO,17,Other,55,13,15,0.0,28.0,0.0,2.0,2.0
+2075,L.Murray,NO,17,Red Zone,6,3,2,0.0,,,,
+2076,M.Barkley,BUF,17,Other,-4,0,2,0.0,,,,
+2077,M.Boone,MIN,3,Other,26,24,2,0.0,,,,
+2078,M.Boone,MIN,3,Red Zone,2,2,1,0.0,,,,
+2079,M.Boone,MIN,14,Other,13,4,5,0.0,,,,
+2080,M.Boone,MIN,15,Inside the 5,2,2,1,1.0,,,,
+2081,M.Boone,MIN,15,Other,31,10,7,0.0,,,,
+2082,M.Boone,MIN,15,Red Zone,23,8,5,1.0,,,,
+2083,M.Boone,MIN,16,Other,23,7,10,0.0,10.0,0.0,2.0,2.0
+2084,M.Boone,MIN,16,Red Zone,5,5,1,0.0,,,,
+2085,M.Boone,MIN,17,Inside the 5,5,4,2,1.0,,,,
+2086,M.Boone,MIN,17,Other,141,59,13,0.0,10.0,0.0,2.0,4.0
+2087,M.Boone,MIN,17,Red Zone,2,2,2,0.0,14.0,0.0,2.0,2.0
+2088,M.Breida,SF,1,Other,37,13,15,0.0,0.0,0.0,0.0,2.0
+2089,M.Breida,SF,2,Other,121,34,12,0.0,22.0,0.0,2.0,2.0
+2090,M.Breida,SF,3,Other,66,10,13,0.0,40.0,0.0,4.0,6.0
+2091,M.Breida,SF,3,Red Zone,2,2,1,0.0,,,,
+2092,M.Breida,SF,5,Other,112,83,10,1.0,20.0,0.0,4.0,4.0
+2093,M.Breida,SF,5,Red Zone,2,2,1,0.0,,,,
+2094,M.Breida,SF,6,Other,36,9,13,0.0,54.0,0.0,8.0,8.0
+2095,M.Breida,SF,7,Other,35,11,8,0.0,2.0,0.0,2.0,2.0
+2096,M.Breida,SF,8,Inside the 5,-2,-2,1,0.0,,,,
+2097,M.Breida,SF,8,Other,37,17,9,0.0,,,,
+2098,M.Breida,SF,8,Red Zone,0,0,1,0.0,30.0,0.0,2.0,2.0
+2099,M.Breida,SF,9,Other,78,31,15,0.0,28.0,0.0,4.0,4.0
+2100,M.Breida,SF,10,Other,15,7,9,0.0,14.0,0.0,4.0,4.0
+2101,M.Breida,SF,10,Red Zone,3,3,1,0.0,,,,
+2102,M.Breida,SF,14,Other,54,28,6,0.0,8.0,0.0,2.0,2.0
+2103,M.Breida,SF,15,Other,11,9,4,0.0,12.0,0.0,4.0,4.0
+2104,M.Breida,SF,17,Other,16,9,4,0.0,0.0,0.0,0.0,2.0
+2105,M.Brown,LA,1,Inside the 5,6,5,2,2.0,,,,
+2106,M.Brown,LA,1,Other,32,17,6,0.0,,,,
+2107,M.Brown,LA,1,Red Zone,15,10,3,0.0,,,,
+2108,M.Brown,LA,2,Inside the 5,2,2,1,0.0,,,,
+2109,M.Brown,LA,2,Other,33,13,4,0.0,20.0,0.0,2.0,2.0
+2110,M.Brown,LA,2,Red Zone,2,2,1,0.0,,,,
+2111,M.Brown,LA,3,Other,6,4,2,0.0,0.0,0.0,0.0,2.0
+2112,M.Brown,LA,3,Red Zone,1,1,1,0.0,,,,
+2113,M.Brown,LA,4,Other,14,6,5,0.0,0.0,0.0,0.0,2.0
+2114,M.Brown,LA,5,Red Zone,3,3,1,0.0,,,,
+2115,M.Brown,LA,6,Inside the 5,0,0,2,0.0,,,,
+2116,M.Brown,LA,6,Other,35,10,8,0.0,,,,
+2117,M.Brown,LA,6,Red Zone,5,5,1,0.0,,,,
+2118,M.Brown,LA,10,Other,10,5,5,0.0,,,,
+2119,M.Brown,LA,11,Inside the 5,5,5,1,1.0,,,,
+2120,M.Brown,LA,11,Other,10,6,4,0.0,,,,
+2121,M.Brown,LA,12,Other,0,0,1,0.0,,,,
+2122,M.Brown,LA,13,Other,27,12,5,0.0,0.0,0.0,0.0,2.0
+2123,M.Brown,LA,13,Red Zone,3,3,1,0.0,,,,
+2124,M.Brown,LA,14,Inside the 5,1,1,1,1.0,,,,
+2125,M.Brown,LA,14,Other,20,17,4,0.0,,,,
+2126,M.Brown,LA,16,Other,-1,-1,1,0.0,0.0,0.0,0.0,2.0
+2127,M.Brown,LA,17,Inside the 5,3,3,1,1.0,,,,
+2128,M.Brown,LA,17,Other,23,15,8,0.0,12.0,0.0,2.0,2.0
+2129,M.Davis,CAR,17,Other,2,2,2,0.0,,,,
+2130,M.Davis,CHI,1,Other,19,8,5,0.0,34.0,0.0,12.0,12.0
+2131,M.Davis,CHI,2,Other,1,2,3,0.0,,,,
+2132,M.Davis,CHI,3,Other,2,2,1,0.0,,,,
+2133,M.Davis,CHI,8,Other,3,3,2,0.0,,,,
+2134,M.Gaskin,MIA,11,Other,0,0,1,0.0,0.0,0.0,0.0,2.0
+2135,M.Gaskin,MIA,12,Other,10,4,4,0.0,14.0,0.0,2.0,2.0
+2136,M.Gaskin,MIA,13,Other,20,11,2,0.0,12.0,0.0,2.0,2.0
+2137,M.Gaskin,MIA,14,Other,7,6,2,0.0,12.0,0.0,2.0,2.0
+2138,M.Gaskin,MIA,14,Red Zone,-2,2,2,0.0,0.0,0.0,0.0,2.0
+2139,M.Gaskin,MIA,15,Other,42,27,8,0.0,58.0,0.0,4.0,6.0
+2140,M.Gaskin,MIA,15,Red Zone,1,1,1,0.0,,,,
+2141,M.Gaskin,MIA,16,Inside the 5,2,2,1,1.0,,,,
+2142,M.Gaskin,MIA,16,Other,50,15,14,0.0,6.0,0.0,2.0,6.0
+2143,M.Gaskin,MIA,16,Red Zone,3,3,1,0.0,,,,
+2144,M.Glennon,OAK,12,Other,0,0,2,0.0,,,,
+2145,M.Goodwin,SF,5,Other,15,15,1,0.0,82.0,0.0,6.0,8.0
+2146,M.Gordon,LAC,5,Inside the 5,0,0,1,0.0,,,,
+2147,M.Gordon,LAC,5,Other,26,7,10,0.0,14.0,0.0,8.0,12.0
+2148,M.Gordon,LAC,5,Red Zone,5,5,1,0.0,,,,
+2149,M.Gordon,LAC,6,Other,18,7,8,0.0,60.0,0.0,6.0,8.0
+2150,M.Gordon,LAC,7,Inside the 5,2,2,4,0.0,2.0,2.0,2.0,2.0
+2151,M.Gordon,LAC,7,Other,30,6,11,0.0,-8.0,0.0,2.0,2.0
+2152,M.Gordon,LAC,7,Red Zone,0,0,1,0.0,0.0,0.0,0.0,2.0
+2153,M.Gordon,LAC,8,Other,12,3,7,0.0,6.0,0.0,4.0,6.0
+2154,M.Gordon,LAC,8,Red Zone,19,19,1,1.0,,,,
+2155,M.Gordon,LAC,9,Inside the 5,2,1,2,2.0,,,,
+2156,M.Gordon,LAC,9,Other,67,16,15,0.0,44.0,0.0,4.0,6.0
+2157,M.Gordon,LAC,9,Red Zone,11,5,3,0.0,14.0,0.0,2.0,2.0
+2158,M.Gordon,LAC,10,Inside the 5,3,3,1,1.0,,,,
+2159,M.Gordon,LAC,10,Other,91,24,15,0.0,50.0,0.0,2.0,2.0
+2160,M.Gordon,LAC,10,Red Zone,14,7,6,0.0,,,,
+2161,M.Gordon,LAC,11,Other,69,21,12,0.0,42.0,0.0,6.0,10.0
+2162,M.Gordon,LAC,11,Red Zone,0,3,2,0.0,,,,
+2163,M.Gordon,LAC,13,Other,95,19,19,0.0,22.0,0.0,4.0,6.0
+2164,M.Gordon,LAC,13,Red Zone,4,4,1,0.0,,,,
+2165,M.Gordon,LAC,14,Inside the 5,4,3,2,1.0,,,,
+2166,M.Gordon,LAC,14,Other,47,17,9,0.0,62.0,0.0,8.0,8.0
+2167,M.Gordon,LAC,14,Red Zone,4,4,1,0.0,-4.0,0.0,2.0,2.0
+2168,M.Gordon,LAC,15,Inside the 5,2,2,1,0.0,,,,
+2169,M.Gordon,LAC,15,Other,26,12,6,0.0,60.0,0.0,8.0,12.0
+2170,M.Gordon,LAC,16,Inside the 5,2,1,2,2.0,,,,
+2171,M.Gordon,LAC,16,Other,13,10,7,0.0,64.0,0.0,12.0,14.0
+2172,M.Gordon,LAC,17,Inside the 5,5,5,2,1.0,,,,
+2173,M.Gordon,LAC,17,Other,26,7,11,0.0,122.0,0.0,10.0,12.0
+2174,M.Gordon,LAC,17,Red Zone,15,15,1,0.0,30.0,0.0,2.0,2.0
+2175,M.Haack,MIA,7,Inside the 5,2,2,1,0.0,,,,
+2176,M.Hall,DET,9,Other,7,7,1,0.0,0.0,0.0,0.0,2.0
+2177,M.Hardman,KC,3,Other,7,7,1,0.0,194.0,2.0,4.0,8.0
+2178,M.Hardman,KC,5,Other,-6,-6,1,0.0,158.0,0.0,8.0,10.0
+2179,M.Hardman,KC,9,Other,7,7,1,0.0,,,,
+2180,M.Hardman,KC,13,Other,9,9,1,0.0,,,,
+2181,M.Ingram,BAL,1,Inside the 5,3,2,2,2.0,,,,
+2182,M.Ingram,BAL,1,Other,96,49,9,0.0,,,,
+2183,M.Ingram,BAL,1,Red Zone,8,4,3,0.0,,,,
+2184,M.Ingram,BAL,2,Other,35,16,11,0.0,60.0,0.0,4.0,4.0
+2185,M.Ingram,BAL,2,Red Zone,12,11,2,0.0,,,,
+2186,M.Ingram,BAL,3,Inside the 5,4,2,3,2.0,,,,
+2187,M.Ingram,BAL,3,Other,80,21,12,0.0,64.0,0.0,8.0,8.0
+2188,M.Ingram,BAL,3,Red Zone,19,19,1,1.0,,,,
+2189,M.Ingram,BAL,4,Inside the 5,2,2,1,0.0,,,,
+2190,M.Ingram,BAL,4,Other,68,18,10,0.0,0.0,0.0,2.0,2.0
+2191,M.Ingram,BAL,4,Red Zone,3,5,2,0.0,,,,
+2192,M.Ingram,BAL,5,Inside the 5,2,4,2,1.0,,,,
+2193,M.Ingram,BAL,5,Other,41,14,16,0.0,10.0,0.0,4.0,4.0
+2194,M.Ingram,BAL,5,Red Zone,1,1,1,0.0,,,,
+2195,M.Ingram,BAL,6,Inside the 5,1,1,1,1.0,,,,
+2196,M.Ingram,BAL,6,Other,44,12,11,0.0,44.0,0.0,4.0,4.0
+2197,M.Ingram,BAL,6,Red Zone,7,7,1,0.0,,,,
+2198,M.Ingram,BAL,7,Other,28,8,9,0.0,14.0,0.0,2.0,2.0
+2199,M.Ingram,BAL,7,Red Zone,18,8,3,0.0,,,,
+2200,M.Ingram,BAL,9,Inside the 5,4,4,2,0.0,,,,
+2201,M.Ingram,BAL,9,Other,108,53,12,0.0,58.0,0.0,4.0,6.0
+2202,M.Ingram,BAL,9,Red Zone,3,3,1,0.0,,,,
+2203,M.Ingram II,BAL,10,Inside the 5,1,1,2,1.0,,,,
+2204,M.Ingram II,BAL,10,Other,33,9,7,0.0,,,,
+2205,M.Ingram II,BAL,11,Other,48,11,13,0.0,50.0,2.0,2.0,4.0
+2206,M.Ingram II,BAL,12,Inside the 5,1,1,1,1.0,,,,
+2207,M.Ingram II,BAL,12,Other,97,25,11,0.0,,,,
+2208,M.Ingram II,BAL,12,Red Zone,13,6,3,0.0,14.0,2.0,2.0,2.0
+2209,M.Ingram II,BAL,13,Inside the 5,1,1,1,0.0,,,,
+2210,M.Ingram II,BAL,13,Other,57,10,13,0.0,4.0,0.0,2.0,2.0
+2211,M.Ingram II,BAL,13,Red Zone,1,1,1,0.0,2.0,0.0,2.0,2.0
+2212,M.Ingram II,BAL,14,Inside the 5,1,2,2,0.0,,,,
+2213,M.Ingram II,BAL,14,Other,40,9,11,0.0,58.0,0.0,6.0,6.0
+2214,M.Ingram II,BAL,14,Red Zone,9,6,2,0.0,,,,
+2215,M.Ingram II,BAL,15,Inside the 5,2,2,1,0.0,,,,
+2216,M.Ingram II,BAL,15,Other,60,29,10,0.0,0.0,0.0,0.0,2.0
+2217,M.Ingram II,BAL,15,Red Zone,16,6,3,1.0,20.0,2.0,2.0,2.0
+2218,M.Ingram II,BAL,16,Other,53,27,7,0.0,48.0,0.0,2.0,2.0
+2219,M.Ingram II,BAL,16,Red Zone,2,2,1,0.0,24.0,2.0,2.0,2.0
+2220,M.Jones,DET,1,Other,4,4,1,0.0,112.0,0.0,8.0,8.0
+2221,M.Jones,DET,11,Other,-4,-4,1,0.0,64.0,2.0,6.0,8.0
+2222,M.Lee,JAX,6,Other,1,1,1,0.0,,,,
+2223,M.Lynch,SEA,17,Inside the 5,1,1,1,1.0,,,,
+2224,M.Lynch,SEA,17,Other,32,15,9,0.0,,,,
+2225,M.Lynch,SEA,17,Red Zone,1,2,2,0.0,,,,
+2226,M.Mack,IND,1,Inside the 5,2,2,1,0.0,,,,
+2227,M.Mack,IND,1,Other,158,63,21,1.0,,,,
+2228,M.Mack,IND,1,Red Zone,16,7,4,0.0,,,,
+2229,M.Mack,IND,2,Other,51,10,19,0.0,24.0,0.0,4.0,6.0
+2230,M.Mack,IND,2,Red Zone,0,0,1,0.0,,,,
+2231,M.Mack,IND,3,Inside the 5,2,4,2,1.0,,,,
+2232,M.Mack,IND,3,Other,63,26,13,0.0,28.0,0.0,4.0,6.0
+2233,M.Mack,IND,3,Red Zone,9,9,1,0.0,,,,
+2234,M.Mack,IND,4,Inside the 5,-1,-1,1,0.0,,,,
+2235,M.Mack,IND,4,Other,44,18,9,0.0,,,,
+2236,M.Mack,IND,4,Red Zone,-4,-4,1,0.0,,,,
+2237,M.Mack,IND,5,Other,129,30,25,0.0,28.0,0.0,4.0,4.0
+2238,M.Mack,IND,5,Red Zone,3,3,4,0.0,4.0,0.0,2.0,2.0
+2239,M.Mack,IND,7,Other,37,7,15,0.0,24.0,0.0,6.0,6.0
+2240,M.Mack,IND,7,Red Zone,7,5,3,0.0,,,,
+2241,M.Mack,IND,8,Other,66,16,18,0.0,28.0,0.0,2.0,2.0
+2242,M.Mack,IND,8,Red Zone,10,10,1,1.0,,,,
+2243,M.Mack,IND,9,Other,80,24,18,0.0,,,,
+2244,M.Mack,IND,9,Red Zone,9,6,3,0.0,,,,
+2245,M.Mack,IND,10,Other,72,20,16,0.0,16.0,0.0,2.0,2.0
+2246,M.Mack,IND,10,Red Zone,2,3,3,0.0,,,,
+2247,M.Mack,IND,11,Other,96,20,13,0.0,,,,
+2248,M.Mack,IND,11,Red Zone,13,13,1,1.0,,,,
+2249,M.Mack,IND,14,Inside the 5,2,2,1,1.0,,,,
+2250,M.Mack,IND,14,Other,36,13,11,0.0,,,,
+2251,M.Mack,IND,14,Red Zone,0,0,1,0.0,,,,
+2252,M.Mack,IND,15,Other,19,7,11,0.0,,,,
+2253,M.Mack,IND,16,Inside the 5,1,2,2,1.0,,,,
+2254,M.Mack,IND,16,Other,78,30,11,0.0,12.0,0.0,4.0,4.0
+2255,M.Mack,IND,16,Red Zone,16,7,3,0.0,,,,
+2256,M.Mack,IND,17,Inside the 5,5,5,3,1.0,,,,
+2257,M.Mack,IND,17,Other,64,20,10,0.0,0.0,0.0,0.0,2.0
+2258,M.Mack,IND,17,Red Zone,8,8,2,1.0,,,,
+2259,M.Mariota,TEN,1,Other,24,13,3,0.0,,,,
+2260,M.Mariota,TEN,2,Other,32,15,5,0.0,,,,
+2261,M.Mariota,TEN,3,Other,25,12,5,0.0,,,,
+2262,M.Mariota,TEN,3,Red Zone,9,9,1,0.0,,,,
+2263,M.Mariota,TEN,4,Other,15,11,2,0.0,,,,
+2264,M.Mariota,TEN,4,Red Zone,7,7,1,0.0,,,,
+2265,M.Mariota,TEN,5,Inside the 5,4,4,1,0.0,,,,
+2266,M.Mariota,TEN,5,Other,8,3,3,0.0,,,,
+2267,M.Mariota,TEN,5,Red Zone,1,1,1,0.0,,,,
+2268,M.Mariota,TEN,6,Other,5,5,1,0.0,,,,
+2269,M.Moore,KC,8,Other,3,3,1,0.0,,,,
+2270,M.Rudolph,PIT,2,Other,7,7,1,0.0,,,,
+2271,M.Rudolph,PIT,3,Other,14,7,3,0.0,,,,
+2272,M.Rudolph,PIT,3,Red Zone,1,1,1,0.0,,,,
+2273,M.Rudolph,PIT,9,Other,7,7,1,0.0,,,,
+2274,M.Rudolph,PIT,10,Other,0,0,1,0.0,,,,
+2275,M.Rudolph,PIT,11,Other,15,13,2,0.0,,,,
+2276,M.Rudolph,PIT,12,Other,4,2,2,0.0,,,,
+2277,M.Rudolph,PIT,12,Red Zone,1,1,1,0.0,,,,
+2278,M.Rudolph,PIT,16,Other,0,5,2,0.0,,,,
+2279,M.Ryan,ATL,1,Other,24,12,2,0.0,,,,
+2280,M.Ryan,ATL,2,Other,4,4,1,0.0,,,,
+2281,M.Ryan,ATL,3,Other,4,4,1,0.0,,,,
+2282,M.Ryan,ATL,4,Other,18,12,2,0.0,,,,
+2283,M.Ryan,ATL,5,Inside the 5,1,1,1,1.0,,,,
+2284,M.Ryan,ATL,5,Other,7,7,1,0.0,,,,
+2285,M.Ryan,ATL,6,Other,7,6,2,0.0,,,,
+2286,M.Ryan,ATL,7,Other,2,2,1,0.0,,,,
+2287,M.Ryan,ATL,10,Other,5,5,1,0.0,,,,
+2288,M.Ryan,ATL,10,Red Zone,8,8,1,0.0,,,,
+2289,M.Ryan,ATL,11,Other,1,1,1,0.0,,,,
+2290,M.Ryan,ATL,12,Red Zone,8,8,1,0.0,,,,
+2291,M.Ryan,ATL,13,Other,21,9,3,0.0,,,,
+2292,M.Ryan,ATL,14,Other,8,8,1,0.0,,,,
+2293,M.Ryan,ATL,15,Inside the 5,0,0,1,0.0,,,,
+2294,M.Ryan,ATL,15,Other,28,9,4,0.0,,,,
+2295,M.Ryan,ATL,16,Other,9,9,1,0.0,,,,
+2296,M.Ryan,ATL,17,Red Zone,1,1,1,0.0,,,,
+2297,M.Sanders,PHI,1,Inside the 5,-2,0,2,0.0,,,,
+2298,M.Sanders,PHI,1,Other,27,19,9,0.0,4.0,0.0,2.0,4.0
+2299,M.Sanders,PHI,2,Other,26,5,8,0.0,18.0,0.0,6.0,8.0
+2300,M.Sanders,PHI,2,Red Zone,2,4,2,0.0,,,,
+2301,M.Sanders,PHI,3,Other,49,14,10,0.0,146.0,0.0,4.0,8.0
+2302,M.Sanders,PHI,3,Red Zone,4,3,3,0.0,,,,
+2303,M.Sanders,PHI,4,Other,68,30,10,0.0,,,,
+2304,M.Sanders,PHI,4,Red Zone,4,4,1,0.0,,,,
+2305,M.Sanders,PHI,5,Other,12,8,8,0.0,82.0,0.0,4.0,4.0
+2306,M.Sanders,PHI,5,Red Zone,3,3,1,0.0,16.0,0.0,2.0,6.0
+2307,M.Sanders,PHI,6,Other,6,3,3,0.0,172.0,2.0,6.0,6.0
+2308,M.Sanders,PHI,7,Other,21,7,6,0.0,20.0,0.0,4.0,4.0
+2309,M.Sanders,PHI,8,Other,71,65,2,1.0,88.0,0.0,6.0,6.0
+2310,M.Sanders,PHI,8,Red Zone,3,3,1,0.0,,,,
+2311,M.Sanders,PHI,9,Other,31,5,9,0.0,68.0,0.0,4.0,4.0
+2312,M.Sanders,PHI,9,Red Zone,11,11,1,0.0,-6.0,0.0,2.0,2.0
+2313,M.Sanders,PHI,11,Other,29,7,9,0.0,8.0,0.0,2.0,6.0
+2314,M.Sanders,PHI,11,Red Zone,9,6,2,0.0,10.0,0.0,2.0,2.0
+2315,M.Sanders,PHI,12,Other,63,14,12,0.0,46.0,0.0,6.0,8.0
+2316,M.Sanders,PHI,13,Other,71,13,14,0.0,14.0,0.0,6.0,8.0
+2317,M.Sanders,PHI,13,Red Zone,12,7,3,0.0,30.0,2.0,2.0,2.0
+2318,M.Sanders,PHI,14,Inside the 5,-1,-1,1,0.0,,,,
+2319,M.Sanders,PHI,14,Other,34,9,12,0.0,38.0,0.0,6.0,8.0
+2320,M.Sanders,PHI,14,Red Zone,12,10,2,0.0,10.0,0.0,2.0,2.0
+2321,M.Sanders,PHI,15,Inside the 5,1,1,1,1.0,,,,
+2322,M.Sanders,PHI,15,Other,109,56,15,0.0,70.0,0.0,10.0,10.0
+2323,M.Sanders,PHI,15,Red Zone,12,7,3,0.0,30.0,2.0,2.0,2.0
+2324,M.Sanders,PHI,16,Inside the 5,1,1,2,1.0,,,,
+2325,M.Sanders,PHI,16,Other,73,38,17,0.0,154.0,0.0,10.0,12.0
+2326,M.Sanders,PHI,16,Red Zone,5,5,1,0.0,,,,
+2327,M.Sanders,PHI,17,Other,51,21,8,0.0,-4.0,0.0,4.0,8.0
+2328,M.Sanders,PHI,17,Red Zone,1,1,1,0.0,2.0,0.0,2.0,2.0
+2329,M.Sanu,ATL,3,Other,2,2,1,0.0,150.0,0.0,10.0,12.0
+2330,M.Sanu,ATL,5,Other,1,1,1,0.0,42.0,0.0,4.0,6.0
+2331,M.Sanu,NE,11,Other,8,8,1,0.0,2.0,0.0,2.0,4.0
+2332,M.Stafford,DET,1,Other,22,12,3,0.0,,,,
+2333,M.Stafford,DET,2,Other,14,8,3,0.0,,,,
+2334,M.Stafford,DET,3,Other,3,3,1,0.0,,,,
+2335,M.Stafford,DET,4,Other,18,11,2,0.0,,,,
+2336,M.Stafford,DET,6,Other,10,10,1,0.0,,,,
+2337,M.Stafford,DET,6,Red Zone,0,0,1,0.0,,,,
+2338,M.Stafford,DET,9,Other,2,2,2,0.0,,,,
+2339,M.Stafford,DET,9,Red Zone,4,4,1,0.0,,,,
+2340,M.Thomas,NO,8,Other,-9,-9,1,0.0,198.0,0.0,18.0,18.0
+2341,M.Trubisky,CHI,1,Other,11,7,3,0.0,,,,
+2342,M.Trubisky,CHI,2,Other,8,8,1,0.0,,,,
+2343,M.Trubisky,CHI,3,Other,2,2,1,0.0,,,,
+2344,M.Trubisky,CHI,8,Other,10,11,2,0.0,,,,
+2345,M.Trubisky,CHI,8,Red Zone,1,1,1,0.0,,,,
+2346,M.Trubisky,CHI,9,Other,7,7,1,0.0,,,,
+2347,M.Trubisky,CHI,9,Red Zone,8,8,1,0.0,,,,
+2348,M.Trubisky,CHI,10,Other,8,3,3,0.0,,,,
+2349,M.Trubisky,CHI,11,Other,4,4,1,0.0,,,,
+2350,M.Trubisky,CHI,12,Inside the 5,2,2,1,1.0,,,,
+2351,M.Trubisky,CHI,12,Other,17,12,2,0.0,,,,
+2352,M.Trubisky,CHI,12,Red Zone,2,2,1,0.0,,,,
+2353,M.Trubisky,CHI,13,Other,4,2,2,0.0,,,,
+2354,M.Trubisky,CHI,13,Red Zone,1,1,1,0.0,,,,
+2355,M.Trubisky,CHI,14,Other,64,23,9,1.0,,,,
+2356,M.Trubisky,CHI,15,Other,29,9,4,0.0,,,,
+2357,M.Trubisky,CHI,16,Inside the 5,1,1,1,0.0,,,,
+2358,M.Trubisky,CHI,16,Other,19,8,5,0.0,,,,
+2359,M.Trubisky,CHI,17,Other,1,1,2,0.0,,,,
+2360,M.Valdes-Scantling,GB,1,Other,0,0,1,0.0,104.0,0.0,8.0,12.0
+2361,M.Valdes-Scantling,GB,6,Other,9,9,1,0.0,96.0,0.0,4.0,4.0
+2362,M.Walton,MIA,1,Other,1,1,1,0.0,,,,
+2363,M.Walton,MIA,2,Other,15,6,3,0.0,24.0,0.0,2.0,4.0
+2364,M.Walton,MIA,4,Other,23,11,6,0.0,22.0,0.0,4.0,4.0
+2365,M.Walton,MIA,6,Other,32,14,6,0.0,86.0,0.0,10.0,12.0
+2366,M.Walton,MIA,7,Inside the 5,0,0,1,0.0,,,,
+2367,M.Walton,MIA,7,Other,66,19,13,0.0,-16.0,0.0,2.0,2.0
+2368,M.Walton,MIA,8,Other,33,9,10,0.0,38.0,0.0,6.0,12.0
+2369,M.Walton,MIA,8,Red Zone,2,2,1,0.0,,,,
+2370,M.Walton,MIA,9,Inside the 5,-5,-5,1,0.0,,,,
+2371,M.Walton,MIA,9,Other,34,14,11,0.0,24.0,0.0,6.0,6.0
+2372,M.Williams,LAC,9,Other,2,2,1,0.0,222.0,0.0,6.0,6.0
+2373,N.Agholor,PHI,8,Other,7,16,2,0.0,14.0,0.0,8.0,8.0
+2374,N.Chubb,CLE,1,Other,75,15,17,0.0,20.0,0.0,6.0,8.0
+2375,N.Chubb,CLE,2,Inside the 5,-1,-1,1,0.0,,,,
+2376,N.Chubb,CLE,2,Other,44,15,16,0.0,72.0,0.0,8.0,8.0
+2377,N.Chubb,CLE,2,Red Zone,19,19,1,1.0,,,,
+2378,N.Chubb,CLE,3,Other,88,13,20,0.0,70.0,0.0,8.0,12.0
+2379,N.Chubb,CLE,3,Red Zone,8,4,3,0.0,0.0,0.0,0.0,2.0
+2380,N.Chubb,CLE,4,Inside the 5,2,2,1,1.0,,,,
+2381,N.Chubb,CLE,4,Other,142,88,16,1.0,36.0,0.0,6.0,6.0
+2382,N.Chubb,CLE,4,Red Zone,21,14,3,1.0,0.0,0.0,0.0,2.0
+2383,N.Chubb,CLE,5,Other,91,37,14,0.0,24.0,0.0,2.0,2.0
+2384,N.Chubb,CLE,5,Red Zone,-4,1,2,0.0,,,,
+2385,N.Chubb,CLE,6,Inside the 5,2,3,2,1.0,,,,
+2386,N.Chubb,CLE,6,Other,101,52,12,0.0,32.0,0.0,8.0,10.0
+2387,N.Chubb,CLE,6,Red Zone,19,7,6,1.0,2.0,0.0,2.0,2.0
+2388,N.Chubb,CLE,8,Other,133,44,19,0.0,14.0,0.0,2.0,2.0
+2389,N.Chubb,CLE,8,Red Zone,-2,-2,1,0.0,,,,
+2390,N.Chubb,CLE,9,Inside the 5,-5,-5,1,0.0,,,,
+2391,N.Chubb,CLE,9,Other,59,11,15,0.0,52.0,0.0,8.0,10.0
+2392,N.Chubb,CLE,9,Red Zone,11,5,4,0.0,,,,
+2393,N.Chubb,CLE,10,Inside the 5,-4,1,6,0.0,0.0,0.0,0.0,2.0
+2394,N.Chubb,CLE,10,Other,120,24,13,0.0,10.0,0.0,4.0,6.0
+2395,N.Chubb,CLE,10,Red Zone,0,0,1,0.0,,,,
+2396,N.Chubb,CLE,11,Inside the 5,-4,-4,1,0.0,,,,
+2397,N.Chubb,CLE,11,Other,94,12,24,0.0,0.0,0.0,0.0,2.0
+2398,N.Chubb,CLE,11,Red Zone,2,3,2,0.0,,,,
+2399,N.Chubb,CLE,12,Inside the 5,5,5,1,1.0,,,,
+2400,N.Chubb,CLE,12,Other,85,17,15,0.0,116.0,0.0,6.0,6.0
+2401,N.Chubb,CLE,12,Red Zone,16,4,5,0.0,,,,
+2402,N.Chubb,CLE,13,Other,59,12,15,0.0,42.0,0.0,2.0,4.0
+2403,N.Chubb,CLE,13,Red Zone,-1,-1,1,0.0,,,,
+2404,N.Chubb,CLE,14,Other,97,57,11,0.0,22.0,0.0,2.0,2.0
+2405,N.Chubb,CLE,14,Red Zone,9,3,4,0.0,,,,
+2406,N.Chubb,CLE,15,Inside the 5,1,1,1,0.0,,,,
+2407,N.Chubb,CLE,15,Other,126,33,16,1.0,42.0,0.0,6.0,6.0
+2408,N.Chubb,CLE,16,Inside the 5,-5,-1,2,0.0,,,,
+2409,N.Chubb,CLE,16,Other,53,12,12,0.0,0.0,0.0,0.0,2.0
+2410,N.Chubb,CLE,16,Red Zone,-3,-3,1,0.0,,,,
+2411,N.Chubb,CLE,17,Other,38,8,12,0.0,2.0,0.0,2.0,4.0
+2412,N.Chubb,CLE,17,Red Zone,3,3,1,0.0,,,,
+2413,N.Fant,DEN,1,Other,-5,-5,1,0.0,58.0,0.0,4.0,6.0
+2414,N.Fant,DEN,11,Other,-7,-2,2,0.0,120.0,0.0,8.0,12.0
+2415,N.Foles,JAX,12,Other,20,13,3,0.0,,,,
+2416,N.Foles,JAX,13,Other,3,3,1,0.0,,,,
+2417,N.Harry,NE,15,Other,22,12,2,0.0,16.0,0.0,2.0,6.0
+2418,N.Harry,NE,16,Other,18,18,2,0.0,42.0,0.0,4.0,6.0
+2419,N.Harry,NE,17,Other,9,9,1,0.0,58.0,0.0,6.0,10.0
+2420,N.Hines,IND,1,Other,13,6,4,0.0,8.0,0.0,8.0,8.0
+2421,N.Hines,IND,2,Other,9,5,2,0.0,10.0,0.0,2.0,4.0
+2422,N.Hines,IND,3,Other,3,2,2,0.0,52.0,0.0,6.0,6.0
+2423,N.Hines,IND,4,Other,6,4,3,0.0,74.0,0.0,10.0,10.0
+2424,N.Hines,IND,5,Other,-4,-4,1,0.0,92.0,0.0,8.0,10.0
+2425,N.Hines,IND,5,Red Zone,3,3,1,0.0,,,,
+2426,N.Hines,IND,7,Other,3,3,1,0.0,26.0,0.0,2.0,4.0
+2427,N.Hines,IND,8,Other,12,11,4,0.0,68.0,0.0,6.0,6.0
+2428,N.Hines,IND,9,Other,7,7,1,0.0,42.0,0.0,2.0,6.0
+2429,N.Hines,IND,10,Other,13,7,2,0.0,46.0,0.0,6.0,10.0
+2430,N.Hines,IND,10,Red Zone,1,1,1,0.0,14.0,0.0,2.0,4.0
+2431,N.Hines,IND,11,Other,4,3,2,0.0,44.0,0.0,4.0,6.0
+2432,N.Hines,IND,11,Red Zone,7,7,1,1.0,4.0,0.0,2.0,2.0
+2433,N.Hines,IND,12,Other,43,18,7,0.0,20.0,0.0,4.0,6.0
+2434,N.Hines,IND,12,Red Zone,8,6,2,0.0,,,,
+2435,N.Hines,IND,13,Inside the 5,4,3,2,1.0,,,,
+2436,N.Hines,IND,13,Other,18,14,2,0.0,36.0,0.0,4.0,4.0
+2437,N.Hines,IND,14,Other,1,5,4,0.0,48.0,0.0,8.0,10.0
+2438,N.Hines,IND,15,Other,10,5,2,0.0,4.0,0.0,4.0,4.0
+2439,N.Hines,IND,16,Other,4,4,1,0.0,4.0,0.0,2.0,2.0
+2440,N.Hines,IND,17,Inside the 5,3,3,1,0.0,,,,
+2441,N.Hines,IND,17,Other,31,15,6,0.0,44.0,0.0,6.0,10.0
+2442,N.Scott,LA,17,Other,6,6,1,0.0,,,,
+2443,O.Beckham,CLE,5,Other,4,4,1,0.0,40.0,0.0,2.0,10.0
+2444,O.Beckham,CLE,5,Red Zone,11,11,1,0.0,14.0,0.0,2.0,2.0
+2445,O.Beckham,CLE,9,Other,-5,-5,1,0.0,174.0,0.0,10.0,12.0
+2446,O.Johnson,MIN,15,Other,6,6,1,0.0,38.0,0.0,2.0,2.0
+2447,P.Barber,TB,1,Other,31,14,7,0.0,24.0,0.0,4.0,8.0
+2448,P.Barber,TB,1,Red Zone,2,2,1,0.0,,,,
+2449,P.Barber,TB,2,Other,61,13,20,0.0,14.0,0.0,2.0,2.0
+2450,P.Barber,TB,2,Red Zone,21,16,3,1.0,,,,
+2451,P.Barber,TB,3,Inside the 5,0,0,1,0.0,,,,
+2452,P.Barber,TB,3,Other,47,8,11,0.0,14.0,0.0,4.0,4.0
+2453,P.Barber,TB,3,Red Zone,1,1,1,0.0,,,,
+2454,P.Barber,TB,4,Inside the 5,2,3,2,1.0,,,,
+2455,P.Barber,TB,4,Other,18,7,6,0.0,0.0,0.0,0.0,2.0
+2456,P.Barber,TB,4,Red Zone,-1,-1,1,0.0,,,,
+2457,P.Barber,TB,5,Inside the 5,2,2,1,1.0,,,,
+2458,P.Barber,TB,5,Other,30,8,7,0.0,-2.0,0.0,2.0,2.0
+2459,P.Barber,TB,6,Other,28,5,8,0.0,,,,
+2460,P.Barber,TB,8,Inside the 5,1,1,2,0.0,,,,
+2461,P.Barber,TB,8,Other,16,5,7,0.0,0.0,0.0,0.0,4.0
+2462,P.Barber,TB,8,Red Zone,3,3,1,0.0,16.0,0.0,2.0,2.0
+2463,P.Barber,TB,9,Other,9,4,3,0.0,,,,
+2464,P.Barber,TB,9,Red Zone,6,6,1,0.0,,,,
+2465,P.Barber,TB,10,Inside the 5,1,1,2,1.0,,,,
+2466,P.Barber,TB,10,Other,42,17,9,0.0,8.0,0.0,2.0,2.0
+2467,P.Barber,TB,12,Other,32,8,11,0.0,0.0,0.0,0.0,2.0
+2468,P.Barber,TB,13,Inside the 5,1,1,1,1.0,,,,
+2469,P.Barber,TB,13,Other,30,7,14,0.0,,,,
+2470,P.Barber,TB,13,Red Zone,13,15,2,1.0,,,,
+2471,P.Barber,TB,14,Other,35,11,10,0.0,38.0,0.0,4.0,4.0
+2472,P.Barber,TB,14,Red Zone,-1,-1,1,0.0,,,,
+2473,P.Barber,TB,15,Other,17,4,10,0.0,46.0,0.0,4.0,4.0
+2474,P.Barber,TB,16,Other,13,7,5,0.0,,,,
+2475,P.Barber,TB,17,Inside the 5,-1,-1,1,0.0,,,,
+2476,P.Barber,TB,17,Other,5,3,4,0.0,50.0,0.0,4.0,8.0
+2477,P.Barber,TB,17,Red Zone,6,6,1,0.0,,,,
+2478,P.Campbell,IND,1,Other,7,7,1,0.0,,,,
+2479,P.Campbell,IND,9,Other,27,22,3,0.0,102.0,0.0,8.0,8.0
+2480,P.Cooper,ARI,6,Other,2,2,1,0.0,32.0,0.0,6.0,8.0
+2481,P.DiMarco,BUF,2,Other,1,1,1,0.0,6.0,0.0,2.0,2.0
+2482,P.DiMarco,BUF,7,Other,4,4,1,0.0,54.0,0.0,2.0,2.0
+2483,P.DiMarco,BUF,10,Other,2,2,1,0.0,4.0,0.0,2.0,2.0
+2484,P.Dorsett,NE,3,Other,7,7,1,0.0,100.0,2.0,10.0,12.0
+2485,P.Dorsett,NE,3,Red Zone,5,5,1,0.0,6.0,0.0,2.0,2.0
+2486,P.Dorsett,NE,4,Other,9,9,1,0.0,10.0,0.0,2.0,16.0
+2487,P.Laird,MIA,10,Other,4,3,2,0.0,12.0,0.0,2.0,2.0
+2488,P.Laird,MIA,11,Other,7,7,1,0.0,102.0,0.0,12.0,12.0
+2489,P.Laird,MIA,12,Other,7,4,2,0.0,,,,
+2490,P.Laird,MIA,12,Red Zone,13,13,1,0.0,0.0,0.0,0.0,2.0
+2491,P.Laird,MIA,13,Inside the 5,5,4,2,1.0,4.0,0.0,0.0,2.0
+2492,P.Laird,MIA,13,Other,0,3,8,0.0,64.0,0.0,6.0,8.0
+2493,P.Laird,MIA,14,Other,50,16,11,0.0,76.0,0.0,8.0,8.0
+2494,P.Laird,MIA,14,Red Zone,-2,1,4,0.0,0.0,0.0,0.0,2.0
+2495,P.Laird,MIA,15,Other,49,18,11,0.0,16.0,0.0,4.0,8.0
+2496,P.Laird,MIA,15,Red Zone,-3,-3,1,0.0,0.0,0.0,0.0,2.0
+2497,P.Laird,MIA,16,Other,11,7,7,0.0,2.0,0.0,2.0,2.0
+2498,P.Laird,MIA,16,Red Zone,6,6,1,0.0,,,,
+2499,P.Laird,MIA,17,Other,16,4,9,0.0,96.0,0.0,8.0,10.0
+2500,P.Laird,MIA,17,Red Zone,5,4,2,0.0,,,,
+2501,P.Lindsay,DEN,1,Other,31,9,8,0.0,46.0,0.0,8.0,12.0
+2502,P.Lindsay,DEN,1,Red Zone,12,7,3,0.0,,,,
+2503,P.Lindsay,DEN,2,Inside the 5,0,0,1,0.0,,,,
+2504,P.Lindsay,DEN,2,Other,36,9,12,0.0,60.0,0.0,8.0,10.0
+2505,P.Lindsay,DEN,3,Inside the 5,7,3,4,2.0,,,,
+2506,P.Lindsay,DEN,3,Other,62,9,14,0.0,98.0,0.0,8.0,10.0
+2507,P.Lindsay,DEN,3,Red Zone,12,6,3,0.0,,,,
+2508,P.Lindsay,DEN,4,Other,53,28,9,0.0,14.0,0.0,2.0,2.0
+2509,P.Lindsay,DEN,5,Inside the 5,4,4,1,1.0,,,,
+2510,P.Lindsay,DEN,5,Other,107,32,13,0.0,66.0,0.0,8.0,8.0
+2511,P.Lindsay,DEN,5,Red Zone,3,3,1,0.0,,,,
+2512,P.Lindsay,DEN,6,Inside the 5,2,2,1,1.0,6.0,0.0,2.0,2.0
+2513,P.Lindsay,DEN,6,Other,68,30,14,0.0,4.0,0.0,2.0,4.0
+2514,P.Lindsay,DEN,7,Inside the 5,0,0,1,0.0,,,,
+2515,P.Lindsay,DEN,7,Other,34,9,9,0.0,-8.0,0.0,0.0,2.0
+2516,P.Lindsay,DEN,7,Red Zone,2,3,2,0.0,,,,
+2517,P.Lindsay,DEN,8,Other,59,11,14,0.0,34.0,0.0,10.0,10.0
+2518,P.Lindsay,DEN,9,Other,92,40,9,1.0,,,,
+2519,P.Lindsay,DEN,11,Other,51,11,13,0.0,16.0,0.0,4.0,4.0
+2520,P.Lindsay,DEN,11,Red Zone,16,8,3,0.0,,,,
+2521,P.Lindsay,DEN,12,Other,57,16,13,0.0,22.0,0.0,2.0,6.0
+2522,P.Lindsay,DEN,13,Other,59,15,15,0.0,-10.0,0.0,4.0,4.0
+2523,P.Lindsay,DEN,13,Red Zone,-1,1,2,0.0,18.0,0.0,2.0,2.0
+2524,P.Lindsay,DEN,14,Inside the 5,1,1,1,1.0,,,,
+2525,P.Lindsay,DEN,14,Other,45,8,12,0.0,-2.0,0.0,2.0,2.0
+2526,P.Lindsay,DEN,14,Red Zone,5,5,3,0.0,10.0,0.0,2.0,2.0
+2527,P.Lindsay,DEN,15,Other,31,13,6,0.0,0.0,0.0,0.0,4.0
+2528,P.Lindsay,DEN,15,Red Zone,1,1,1,0.0,,,,
+2529,P.Lindsay,DEN,16,Other,89,27,15,1.0,18.0,0.0,4.0,4.0
+2530,P.Lindsay,DEN,16,Red Zone,20,13,4,0.0,0.0,0.0,0.0,2.0
+2531,P.Lindsay,DEN,17,Other,53,8,18,0.0,0.0,0.0,0.0,2.0
+2532,P.Mahomes,KC,1,Red Zone,2,2,1,0.0,,,,
+2533,P.Mahomes,KC,3,Other,11,11,2,0.0,,,,
+2534,P.Mahomes,KC,4,Other,43,25,4,0.0,,,,
+2535,P.Mahomes,KC,4,Red Zone,11,7,2,0.0,,,,
+2536,P.Mahomes,KC,5,Other,18,14,2,0.0,,,,
+2537,P.Mahomes,KC,7,Inside the 5,2,2,1,0.0,,,,
+2538,P.Mahomes,KC,11,Other,60,24,4,0.0,,,,
+2539,P.Mahomes,KC,13,Other,12,8,2,0.0,,,,
+2540,P.Mahomes,KC,13,Red Zone,13,13,1,1.0,,,,
+2541,P.Mahomes,KC,14,Other,9,5,3,0.0,,,,
+2542,P.Mahomes,KC,15,Other,7,7,1,0.0,,,,
+2543,P.Mahomes,KC,15,Red Zone,5,5,1,0.0,,,,
+2544,P.Mahomes,KC,16,Other,2,2,1,0.0,,,,
+2545,P.Mahomes,KC,16,Red Zone,12,12,1,1.0,,,,
+2546,P.Mahomes,KC,17,Other,23,11,5,0.0,,,,
+2547,P.Perkins,DET,8,Other,4,2,3,0.0,,,,
+2548,P.Perkins,DET,9,Other,16,13,2,0.0,,,,
+2549,P.Perkins,DET,10,Other,9,3,7,0.0,18.0,0.0,2.0,2.0
+2550,P.Richardson,WAS,6,Other,0,0,1,0.0,0.0,0.0,0.0,8.0
+2551,P.Rivers,LAC,1,Other,6,6,1,0.0,,,,
+2552,P.Rivers,LAC,2,Other,12,12,1,0.0,,,,
+2553,P.Rivers,LAC,3,Other,9,8,2,0.0,,,,
+2554,P.Rivers,LAC,4,Other,0,0,1,0.0,,,,
+2555,P.Rivers,LAC,5,Other,-3,-3,1,0.0,,,,
+2556,P.Rivers,LAC,6,Other,0,0,1,0.0,,,,
+2557,P.Rivers,LAC,9,Red Zone,1,1,1,0.0,,,,
+2558,P.Rivers,LAC,14,Other,0,0,1,0.0,,,,
+2559,P.Rivers,LAC,17,Other,5,5,1,0.0,,,,
+2560,Q.Nelson,IND,11,Inside the 5,0,0,1,0.0,,,,
+2561,Q.Ollison,ATL,11,Inside the 5,2,2,1,1.0,,,,
+2562,Q.Ollison,ATL,11,Other,6,3,2,0.0,0.0,0.0,0.0,2.0
+2563,Q.Ollison,ATL,11,Red Zone,3,3,1,0.0,,,,
+2564,Q.Ollison,ATL,12,Inside the 5,5,4,3,1.0,,,,
+2565,Q.Ollison,ATL,12,Other,7,6,3,0.0,14.0,0.0,2.0,2.0
+2566,Q.Ollison,ATL,12,Red Zone,8,6,2,0.0,,,,
+2567,Q.Ollison,ATL,14,Other,6,3,4,0.0,,,,
+2568,Q.Ollison,ATL,15,Inside the 5,1,1,1,1.0,,,,
+2569,Q.Ollison,ATL,16,Inside the 5,3,3,1,1.0,,,,
+2570,Q.Ollison,ATL,17,Red Zone,9,5,4,0.0,,,,
+2571,R.Armstead,JAX,1,Other,7,7,1,0.0,0.0,0.0,0.0,2.0
+2572,R.Armstead,JAX,4,Other,38,16,6,0.0,,,,
+2573,R.Armstead,JAX,4,Red Zone,4,3,2,0.0,14.0,2.0,2.0,2.0
+2574,R.Armstead,JAX,5,Other,-1,-1,1,0.0,14.0,0.0,2.0,2.0
+2575,R.Armstead,JAX,6,Inside the 5,1,1,1,0.0,,,,
+2576,R.Armstead,JAX,7,Other,9,6,2,0.0,0.0,0.0,0.0,2.0
+2577,R.Armstead,JAX,7,Red Zone,-6,-6,1,0.0,,,,
+2578,R.Armstead,JAX,8,Other,4,6,5,0.0,,,,
+2579,R.Armstead,JAX,8,Red Zone,3,3,1,0.0,,,,
+2580,R.Armstead,JAX,11,Other,6,6,1,0.0,26.0,0.0,4.0,4.0
+2581,R.Armstead,JAX,14,Other,7,4,2,0.0,0.0,0.0,0.0,4.0
+2582,R.Armstead,JAX,15,Red Zone,1,1,1,0.0,,,,
+2583,R.Armstead,JAX,16,Other,2,2,1,0.0,,,,
+2584,R.Armstead,JAX,17,Other,27,9,8,0.0,98.0,0.0,8.0,14.0
+2585,R.Armstead,JAX,17,Red Zone,6,4,2,0.0,,,,
+2586,R.Bonnafon,CAR,3,Other,5,4,2,0.0,,,,
+2587,R.Bonnafon,CAR,5,Other,80,59,5,1.0,,,,
+2588,R.Bonnafon,CAR,8,Other,4,4,1,0.0,6.0,0.0,2.0,6.0
+2589,R.Bonnafon,CAR,9,Other,6,4,3,0.0,14.0,0.0,2.0,2.0
+2590,R.Bonnafon,CAR,14,Other,6,6,1,0.0,,,,
+2591,R.Bonnafon,CAR,16,Other,12,7,2,0.0,,,,
+2592,R.Bonnafon,CAR,17,Other,3,2,2,0.0,78.0,0.0,4.0,4.0
+2593,R.Burkhead,NE,1,Other,35,11,5,0.0,82.0,0.0,10.0,14.0
+2594,R.Burkhead,NE,1,Red Zone,9,4,3,0.0,0.0,0.0,0.0,2.0
+2595,R.Burkhead,NE,2,Other,21,12,3,0.0,94.0,0.0,4.0,4.0
+2596,R.Burkhead,NE,2,Red Zone,0,0,2,0.0,,,,
+2597,R.Burkhead,NE,3,Inside the 5,2,2,1,1.0,,,,
+2598,R.Burkhead,NE,3,Other,45,8,10,0.0,20.0,0.0,8.0,10.0
+2599,R.Burkhead,NE,8,Other,4,3,3,0.0,18.0,0.0,2.0,2.0
+2600,R.Burkhead,NE,9,Other,15,6,3,0.0,32.0,0.0,2.0,4.0
+2601,R.Burkhead,NE,9,Red Zone,3,3,1,0.0,,,,
+2602,R.Burkhead,NE,11,Other,14,6,5,0.0,68.0,0.0,4.0,6.0
+2603,R.Burkhead,NE,12,Other,3,4,2,0.0,28.0,0.0,4.0,10.0
+2604,R.Burkhead,NE,13,Other,15,10,3,0.0,0.0,0.0,0.0,2.0
+2605,R.Burkhead,NE,14,Other,15,5,7,0.0,0.0,0.0,0.0,2.0
+2606,R.Burkhead,NE,15,Other,53,33,6,1.0,12.0,0.0,4.0,4.0
+2607,R.Burkhead,NE,16,Inside the 5,1,1,1,1.0,,,,
+2608,R.Burkhead,NE,16,Other,16,6,3,0.0,144.0,0.0,6.0,6.0
+2609,R.Burkhead,NE,16,Red Zone,3,3,1,0.0,10.0,0.0,2.0,2.0
+2610,R.Burkhead,NE,17,Other,48,14,6,0.0,12.0,0.0,2.0,2.0
+2611,R.Cobb,DAL,2,Other,11,7,2,0.0,48.0,0.0,8.0,10.0
+2612,R.Cobb,DAL,9,Other,0,0,1,0.0,70.0,0.0,12.0,14.0
+2613,R.Finley,CIN,10,Other,22,16,5,0.0,,,,
+2614,R.Finley,CIN,11,Other,47,24,3,0.0,,,,
+2615,R.Finley,CIN,12,Other,8,7,2,0.0,,,,
+2616,R.Fitzpatrick,MIA,1,Other,8,8,1,0.0,,,,
+2617,R.Fitzpatrick,MIA,2,Other,6,6,1,0.0,,,,
+2618,R.Fitzpatrick,MIA,6,Other,5,5,2,0.0,,,,
+2619,R.Fitzpatrick,MIA,7,Inside the 5,-10,-10,1,0.0,,,,
+2620,R.Fitzpatrick,MIA,7,Other,12,12,4,0.0,,,,
+2621,R.Fitzpatrick,MIA,7,Red Zone,11,11,1,1.0,,,,
+2622,R.Fitzpatrick,MIA,8,Other,18,8,4,0.0,,,,
+2623,R.Fitzpatrick,MIA,9,Other,5,6,2,0.0,,,,
+2624,R.Fitzpatrick,MIA,9,Red Zone,4,4,1,0.0,,,,
+2625,R.Fitzpatrick,MIA,10,Other,8,8,1,0.0,,,,
+2626,R.Fitzpatrick,MIA,10,Red Zone,16,11,2,1.0,,,,
+2627,R.Fitzpatrick,MIA,11,Inside the 5,0,0,1,0.0,,,,
+2628,R.Fitzpatrick,MIA,12,Other,37,17,4,0.0,,,,
+2629,R.Fitzpatrick,MIA,12,Red Zone,8,8,1,1.0,,,,
+2630,R.Fitzpatrick,MIA,13,Inside the 5,3,3,1,0.0,,,,
+2631,R.Fitzpatrick,MIA,13,Other,0,0,1,0.0,,,,
+2632,R.Fitzpatrick,MIA,14,Other,49,20,4,0.0,,,,
+2633,R.Fitzpatrick,MIA,14,Red Zone,16,6,3,0.0,,,,
+2634,R.Fitzpatrick,MIA,15,Other,33,13,4,0.0,,,,
+2635,R.Fitzpatrick,MIA,16,Other,15,15,1,0.0,,,,
+2636,R.Fitzpatrick,MIA,17,Inside the 5,2,2,1,1.0,,,,
+2637,R.Fitzpatrick,MIA,17,Other,12,10,3,0.0,,,,
+2638,R.Fitzpatrick,MIA,17,Red Zone,1,1,1,0.0,,,,
+2639,R.Foster,BUF,12,Other,22,22,1,0.0,48.0,0.0,2.0,2.0
+2640,R.Foster,BUF,13,Other,7,7,1,0.0,40.0,0.0,2.0,4.0
+2641,R.Freeman,DEN,1,Other,51,26,8,0.0,10.0,0.0,2.0,2.0
+2642,R.Freeman,DEN,1,Red Zone,5,5,2,0.0,,,,
+2643,R.Freeman,DEN,2,Other,48,14,10,0.0,96.0,0.0,10.0,12.0
+2644,R.Freeman,DEN,2,Red Zone,6,6,1,0.0,0.0,0.0,0.0,2.0
+2645,R.Freeman,DEN,3,Other,45,12,11,0.0,20.0,0.0,8.0,10.0
+2646,R.Freeman,DEN,3,Red Zone,18,13,4,0.0,,,,
+2647,R.Freeman,DEN,4,Other,16,5,6,0.0,68.0,0.0,8.0,10.0
+2648,R.Freeman,DEN,5,Inside the 5,1,1,1,0.0,,,,
+2649,R.Freeman,DEN,5,Other,55,11,11,0.0,0.0,0.0,2.0,2.0
+2650,R.Freeman,DEN,5,Red Zone,5,5,1,0.0,12.0,0.0,2.0,2.0
+2651,R.Freeman,DEN,6,Other,29,8,9,0.0,84.0,0.0,10.0,10.0
+2652,R.Freeman,DEN,6,Red Zone,5,3,2,0.0,,,,
+2653,R.Freeman,DEN,7,Inside the 5,1,1,1,1.0,,,,
+2654,R.Freeman,DEN,7,Other,32,14,8,0.0,64.0,0.0,8.0,10.0
+2655,R.Freeman,DEN,7,Red Zone,2,2,1,0.0,,,,
+2656,R.Freeman,DEN,8,Inside the 5,4,4,1,1.0,,,,
+2657,R.Freeman,DEN,8,Other,30,10,8,0.0,10.0,0.0,2.0,4.0
+2658,R.Freeman,DEN,8,Red Zone,6,6,3,0.0,,,,
+2659,R.Freeman,DEN,9,Other,15,6,5,0.0,-2.0,0.0,2.0,2.0
+2660,R.Freeman,DEN,11,Inside the 5,0,0,1,0.0,,,,
+2661,R.Freeman,DEN,11,Other,30,10,6,0.0,28.0,0.0,2.0,2.0
+2662,R.Freeman,DEN,11,Red Zone,1,1,1,0.0,,,,
+2663,R.Freeman,DEN,12,Other,20,13,2,0.0,18.0,0.0,4.0,4.0
+2664,R.Freeman,DEN,13,Other,6,3,3,0.0,26.0,0.0,8.0,8.0
+2665,R.Freeman,DEN,13,Red Zone,5,5,2,0.0,,,,
+2666,R.Freeman,DEN,14,Other,21,11,7,0.0,,,,
+2667,R.Freeman,DEN,14,Red Zone,3,3,1,0.0,10.0,0.0,2.0,2.0
+2668,R.Freeman,DEN,15,Other,17,8,4,0.0,28.0,0.0,6.0,6.0
+2669,R.Freeman,DEN,15,Red Zone,-5,-5,1,0.0,0.0,0.0,2.0,2.0
+2670,R.Freeman,DEN,16,Inside the 5,1,1,1,1.0,,,,
+2671,R.Freeman,DEN,16,Other,15,5,6,0.0,18.0,0.0,4.0,4.0
+2672,R.Freeman,DEN,16,Red Zone,12,9,2,0.0,,,,
+2673,R.Freeman,DEN,17,Other,-4,-2,2,0.0,16.0,0.0,2.0,2.0
+2674,R.Gage,ATL,1,Other,-1,-1,1,0.0,26.0,0.0,2.0,4.0
+2675,R.Gage,ATL,15,Other,6,6,1,0.0,54.0,0.0,10.0,12.0
+2676,R.Gage,ATL,16,Other,7,4,2,0.0,90.0,0.0,8.0,10.0
+2677,R.Griffin,BAL,1,Inside the 5,3,3,1,0.0,,,,
+2678,R.Griffin,BAL,1,Other,3,3,1,0.0,,,,
+2679,R.Griffin,BAL,1,Red Zone,4,4,1,0.0,,,,
+2680,R.Griffin III,BAL,15,Other,7,5,2,0.0,,,,
+2681,R.Griffin III,BAL,15,Red Zone,0,0,1,0.0,,,,
+2682,R.Griffin III,BAL,17,Other,50,16,8,0.0,,,,
+2683,R.James Jr.,SF,12,Red Zone,0,0,1,0.0,,,,
+2684,R.James Jr.,SF,14,Inside the 5,-1,-1,1,0.0,,,,
+2685,R.Jones,TB,1,Other,73,16,10,0.0,36.0,0.0,2.0,2.0
+2686,R.Jones,TB,1,Red Zone,2,5,3,0.0,,,,
+2687,R.Jones,TB,2,Other,9,12,4,0.0,,,,
+2688,R.Jones,TB,3,Other,67,25,10,0.0,82.0,0.0,2.0,2.0
+2689,R.Jones,TB,3,Red Zone,13,6,4,0.0,,,,
+2690,R.Jones,TB,4,Inside the 5,5,5,1,1.0,,,,
+2691,R.Jones,TB,4,Other,66,24,16,0.0,24.0,0.0,2.0,2.0
+2692,R.Jones,TB,4,Red Zone,-1,2,2,0.0,,,,
+2693,R.Jones,TB,5,Other,32,14,8,0.0,42.0,0.0,4.0,6.0
+2694,R.Jones,TB,5,Red Zone,3,3,1,0.0,,,,
+2695,R.Jones,TB,6,Inside the 5,5,5,1,1.0,,,,
+2696,R.Jones,TB,6,Other,5,2,3,0.0,,,,
+2697,R.Jones,TB,8,Other,35,7,11,0.0,34.0,0.0,2.0,6.0
+2698,R.Jones,TB,9,Other,60,15,16,0.0,30.0,0.0,4.0,4.0
+2699,R.Jones,TB,9,Red Zone,7,8,2,1.0,,,,
+2700,R.Jones,TB,10,Other,22,11,10,0.0,154.0,0.0,16.0,16.0
+2701,R.Jones,TB,10,Red Zone,7,7,1,1.0,,,,
+2702,R.Jones,TB,11,Other,13,6,4,0.0,2.0,0.0,4.0,8.0
+2703,R.Jones,TB,12,Inside the 5,4,4,1,1.0,,,,
+2704,R.Jones,TB,12,Other,42,25,9,0.0,28.0,0.0,4.0,4.0
+2705,R.Jones,TB,12,Red Zone,5,4,2,0.0,4.0,0.0,2.0,2.0
+2706,R.Jones,TB,13,Other,8,5,6,0.0,,,,
+2707,R.Jones,TB,14,Other,36,10,11,0.0,46.0,0.0,8.0,10.0
+2708,R.Jones,TB,15,Other,18,6,10,0.0,52.0,0.0,2.0,6.0
+2709,R.Jones,TB,15,Red Zone,5,5,1,0.0,,,,
+2710,R.Jones,TB,16,Inside the 5,4,4,1,1.0,,,,
+2711,R.Jones,TB,16,Other,73,49,13,0.0,64.0,0.0,6.0,8.0
+2712,R.Jones,TB,17,Other,106,33,11,0.0,20.0,0.0,4.0,4.0
+2713,R.Mostert,SF,1,Other,37,18,8,0.0,0.0,0.0,2.0,2.0
+2714,R.Mostert,SF,1,Red Zone,3,3,1,0.0,,,,
+2715,R.Mostert,SF,2,Inside the 5,1,1,1,0.0,,,,
+2716,R.Mostert,SF,2,Other,82,20,12,0.0,110.0,2.0,4.0,6.0
+2717,R.Mostert,SF,3,Other,63,19,10,0.0,0.0,0.0,0.0,2.0
+2718,R.Mostert,SF,3,Red Zone,16,10,2,0.0,,,,
+2719,R.Mostert,SF,5,Other,34,8,7,0.0,,,,
+2720,R.Mostert,SF,6,Other,13,8,4,0.0,,,,
+2721,R.Mostert,SF,8,Inside the 5,1,1,1,0.0,,,,
+2722,R.Mostert,SF,8,Other,59,41,8,1.0,,,,
+2723,R.Mostert,SF,9,Other,-2,-2,1,0.0,,,,
+2724,R.Mostert,SF,10,Other,28,8,6,0.0,14.0,0.0,2.0,2.0
+2725,R.Mostert,SF,11,Other,13,6,6,0.0,28.0,0.0,4.0,6.0
+2726,R.Mostert,SF,12,Other,30,15,5,0.0,44.0,0.0,2.0,6.0
+2727,R.Mostert,SF,12,Red Zone,15,15,1,1.0,,,,
+2728,R.Mostert,SF,13,Other,146,40,19,1.0,6.0,0.0,2.0,2.0
+2729,R.Mostert,SF,14,Other,56,19,8,0.0,80.0,2.0,4.0,4.0
+2730,R.Mostert,SF,14,Red Zone,13,10,2,1.0,,,,
+2731,R.Mostert,SF,15,Inside the 5,2,2,1,1.0,,,,
+2732,R.Mostert,SF,15,Other,46,8,12,0.0,10.0,0.0,2.0,4.0
+2733,R.Mostert,SF,15,Red Zone,6,6,1,0.0,,,,
+2734,R.Mostert,SF,16,Other,37,13,10,0.0,0.0,0.0,0.0,2.0
+2735,R.Mostert,SF,16,Red Zone,16,16,1,1.0,,,,
+2736,R.Mostert,SF,17,Inside the 5,1,2,2,1.0,,,,
+2737,R.Mostert,SF,17,Other,43,17,7,0.0,32.0,0.0,2.0,2.0
+2738,R.Mostert,SF,17,Red Zone,13,13,1,1.0,0.0,0.0,0.0,2.0
+2739,R.Nall,CHI,17,Other,8,7,2,0.0,,,,
+2740,R.Penny,SEA,1,Other,18,5,6,0.0,,,,
+2741,R.Penny,SEA,2,Other,62,37,10,1.0,6.0,0.0,2.0,2.0
+2742,R.Penny,SEA,5,Other,16,8,5,0.0,62.0,0.0,4.0,4.0
+2743,R.Penny,SEA,5,Red Zone,2,2,1,0.0,,,,
+2744,R.Penny,SEA,8,Inside the 5,3,3,1,0.0,,,,
+2745,R.Penny,SEA,8,Other,40,17,6,0.0,,,,
+2746,R.Penny,SEA,8,Red Zone,12,12,1,0.0,,,,
+2747,R.Penny,SEA,9,Other,12,6,4,0.0,0.0,0.0,0.0,2.0
+2748,R.Penny,SEA,10,Other,2,2,2,0.0,,,,
+2749,R.Penny,SEA,12,Other,127,58,13,1.0,0.0,0.0,0.0,2.0
+2750,R.Penny,SEA,12,Red Zone,2,2,1,0.0,,,,
+2751,R.Penny,SEA,13,Inside the 5,5,4,2,1.0,,,,
+2752,R.Penny,SEA,13,Other,64,13,11,0.0,40.0,0.0,6.0,6.0
+2753,R.Penny,SEA,13,Red Zone,5,3,2,0.0,26.0,2.0,2.0,4.0
+2754,R.Tannehill,TEN,6,Red Zone,6,6,1,0.0,,,,
+2755,R.Tannehill,TEN,7,Other,8,6,4,0.0,,,,
+2756,R.Tannehill,TEN,8,Other,-1,1,2,0.0,,,,
+2757,R.Tannehill,TEN,9,Other,28,25,3,0.0,,,,
+2758,R.Tannehill,TEN,9,Red Zone,10,10,1,1.0,,,,
+2759,R.Tannehill,TEN,10,Inside the 5,2,2,1,0.0,,,,
+2760,R.Tannehill,TEN,10,Other,37,18,3,0.0,,,,
+2761,R.Tannehill,TEN,12,Inside the 5,3,3,1,1.0,,,,
+2762,R.Tannehill,TEN,12,Other,41,21,2,1.0,,,,
+2763,R.Tannehill,TEN,13,Other,8,8,1,0.0,,,,
+2764,R.Tannehill,TEN,14,Other,20,10,3,0.0,,,,
+2765,R.Tannehill,TEN,15,Inside the 5,1,1,1,1.0,,,,
+2766,R.Tannehill,TEN,15,Other,10,10,1,0.0,,,,
+2767,R.Tannehill,TEN,16,Other,8,8,1,0.0,,,,
+2768,R.Tannehill,TEN,17,Other,22,19,2,0.0,,,,
+2769,R.Wilson,SEA,1,Other,10,5,2,0.0,,,,
+2770,R.Wilson,SEA,2,Other,25,15,3,0.0,,,,
+2771,R.Wilson,SEA,3,Inside the 5,2,2,1,1.0,,,,
+2772,R.Wilson,SEA,3,Other,41,18,5,0.0,,,,
+2773,R.Wilson,SEA,3,Red Zone,8,8,1,1.0,,,,
+2774,R.Wilson,SEA,4,Other,5,5,1,0.0,,,,
+2775,R.Wilson,SEA,4,Red Zone,2,2,1,0.0,,,,
+2776,R.Wilson,SEA,5,Other,33,12,5,0.0,,,,
+2777,R.Wilson,SEA,5,Red Zone,1,1,1,0.0,,,,
+2778,R.Wilson,SEA,6,Inside the 5,2,2,1,0.0,,,,
+2779,R.Wilson,SEA,6,Other,22,11,4,0.0,,,,
+2780,R.Wilson,SEA,6,Red Zone,9,16,2,1.0,,,,
+2781,R.Wilson,SEA,7,Other,20,11,2,0.0,,,,
+2782,R.Wilson,SEA,7,Red Zone,7,7,1,0.0,,,,
+2783,R.Wilson,SEA,8,Other,6,5,2,0.0,,,,
+2784,R.Wilson,SEA,9,Other,21,21,1,0.0,,,,
+2785,R.Wilson,SEA,10,Other,39,18,5,0.0,,,,
+2786,R.Wilson,SEA,10,Red Zone,14,14,1,0.0,,,,
+2787,R.Wilson,SEA,12,Other,16,16,2,0.0,,,,
+2788,R.Wilson,SEA,13,Other,14,7,3,0.0,,,,
+2789,R.Wilson,SEA,14,Other,21,17,4,0.0,,,,
+2790,R.Wilson,SEA,14,Red Zone,7,7,1,0.0,,,,
+2791,R.Wilson,SEA,15,Other,1,1,1,0.0,,,,
+2792,R.Wilson,SEA,16,Other,2,6,2,0.0,,,,
+2793,R.Wilson,SEA,17,Other,27,5,7,0.0,,,,
+2794,R.Wilson,SEA,17,Red Zone,2,2,1,0.0,,,,
+2795,R.Woods,LA,1,Other,16,20,2,0.0,118.0,0.0,14.0,24.0
+2796,R.Woods,LA,2,Other,9,9,1,0.0,66.0,0.0,4.0,4.0
+2797,R.Woods,LA,3,Other,1,1,1,0.0,80.0,0.0,6.0,16.0
+2798,R.Woods,LA,3,Red Zone,17,17,1,0.0,,,,
+2799,R.Woods,LA,6,Other,8,8,1,0.0,0.0,0.0,0.0,8.0
+2800,R.Woods,LA,6,Red Zone,8,8,1,1.0,,,,
+2801,R.Woods,LA,7,Other,6,6,1,0.0,132.0,0.0,8.0,12.0
+2802,R.Woods,LA,8,Inside the 5,0,0,1,0.0,,,,
+2803,R.Woods,LA,8,Other,6,6,3,0.0,72.0,0.0,4.0,4.0
+2804,R.Woods,LA,14,Other,16,16,1,0.0,192.0,0.0,12.0,16.0
+2805,R.Woods,LA,14,Red Zone,13,13,1,0.0,,,,
+2806,R.Woods,LA,16,Other,6,6,2,0.0,234.0,0.0,16.0,22.0
+2807,R.Woods,LA,17,Other,9,9,1,0.0,110.0,0.0,10.0,20.0
+2808,Ro.Anderson,NYJ,14,Other,4,4,1,0.0,234.0,2.0,14.0,22.0
+2809,S.Barkley,NYG,1,Inside the 5,-2,-2,1,0.0,,,,
+2810,S.Barkley,NYG,1,Other,110,59,7,0.0,38.0,0.0,8.0,12.0
+2811,S.Barkley,NYG,1,Red Zone,12,7,3,0.0,,,,
+2812,S.Barkley,NYG,2,Other,103,27,16,1.0,56.0,0.0,6.0,14.0
+2813,S.Barkley,NYG,2,Red Zone,4,2,2,0.0,,,,
+2814,S.Barkley,NYG,3,Other,11,6,7,0.0,54.0,0.0,8.0,8.0
+2815,S.Barkley,NYG,3,Red Zone,-1,-1,1,0.0,0.0,0.0,0.0,2.0
+2816,S.Barkley,NYG,7,Other,65,20,17,0.0,16.0,0.0,4.0,10.0
+2817,S.Barkley,NYG,7,Red Zone,7,7,1,1.0,,,,
+2818,S.Barkley,NYG,8,Inside the 5,3,2,2,0.0,8.0,2.0,2.0,4.0
+2819,S.Barkley,NYG,8,Other,62,13,15,0.0,148.0,0.0,12.0,14.0
+2820,S.Barkley,NYG,8,Red Zone,-1,1,2,0.0,2.0,0.0,2.0,2.0
+2821,S.Barkley,NYG,9,Inside the 5,-1,1,2,0.0,,,,
+2822,S.Barkley,NYG,9,Other,18,8,7,0.0,130.0,0.0,10.0,14.0
+2823,S.Barkley,NYG,9,Red Zone,11,7,5,0.0,4.0,0.0,2.0,2.0
+2824,S.Barkley,NYG,10,Other,1,3,13,0.0,60.0,0.0,10.0,10.0
+2825,S.Barkley,NYG,12,Inside the 5,0,0,1,0.0,,,,
+2826,S.Barkley,NYG,12,Other,56,22,14,0.0,2.0,0.0,4.0,6.0
+2827,S.Barkley,NYG,12,Red Zone,3,2,2,0.0,,,,
+2828,S.Barkley,NYG,13,Other,82,16,18,0.0,64.0,0.0,6.0,12.0
+2829,S.Barkley,NYG,13,Red Zone,1,1,1,0.0,0.0,0.0,0.0,2.0
+2830,S.Barkley,NYG,14,Other,62,11,16,0.0,2.0,0.0,6.0,8.0
+2831,S.Barkley,NYG,14,Red Zone,4,4,1,0.0,,,,
+2832,S.Barkley,NYG,15,Inside the 5,1,1,1,1.0,,,,
+2833,S.Barkley,NYG,15,Other,88,12,20,0.0,62.0,0.0,8.0,10.0
+2834,S.Barkley,NYG,15,Red Zone,23,10,3,1.0,,,,
+2835,S.Barkley,NYG,16,Inside the 5,-1,-1,1,0.0,,,,
+2836,S.Barkley,NYG,16,Other,172,67,19,1.0,180.0,2.0,8.0,8.0
+2837,S.Barkley,NYG,16,Red Zone,18,12,2,0.0,,,,
+2838,S.Barkley,NYG,17,Other,91,68,16,1.0,50.0,0.0,6.0,6.0
+2839,S.Barkley,NYG,17,Red Zone,1,1,1,0.0,0.0,0.0,0.0,2.0
+2840,S.Darnold,NYJ,1,Other,0,0,1,0.0,,,,
+2841,S.Darnold,NYJ,6,Red Zone,5,3,2,0.0,,,,
+2842,S.Darnold,NYJ,7,Other,0,0,1,0.0,,,,
+2843,S.Darnold,NYJ,9,Other,1,1,2,0.0,,,,
+2844,S.Darnold,NYJ,10,Inside the 5,2,2,1,1.0,,,,
+2845,S.Darnold,NYJ,10,Other,24,24,1,0.0,,,,
+2846,S.Darnold,NYJ,12,Inside the 5,4,4,1,1.0,,,,
+2847,S.Darnold,NYJ,12,Other,5,5,1,0.0,,,,
+2848,S.Darnold,NYJ,12,Red Zone,8,8,1,0.0,,,,
+2849,S.Darnold,NYJ,13,Other,9,7,2,0.0,,,,
+2850,S.Darnold,NYJ,14,Other,4,4,2,0.0,,,,
+2851,S.Darnold,NYJ,15,Other,11,11,1,0.0,,,,
+2852,S.Darnold,NYJ,16,Other,4,4,3,0.0,,,,
+2853,S.Darnold,NYJ,17,Red Zone,0,0,1,0.0,,,,
+2854,S.Diggs,MIN,6,Other,18,10,2,0.0,312.0,4.0,10.0,20.0
+2855,S.Diggs,MIN,9,Other,12,12,1,0.0,8.0,0.0,2.0,8.0
+2856,S.Diggs,MIN,13,Other,27,27,1,0.0,50.0,0.0,8.0,18.0
+2857,S.Diggs,MIN,15,Other,4,4,1,0.0,152.0,0.0,8.0,12.0
+2858,S.Mannion,MIN,17,Red Zone,0,0,1,0.0,,,,
+2859,S.Michel,NE,1,Other,12,5,13,0.0,,,,
+2860,S.Michel,NE,1,Red Zone,2,1,2,0.0,,,,
+2861,S.Michel,NE,2,Inside the 5,4,3,2,1.0,,,,
+2862,S.Michel,NE,2,Other,68,12,15,0.0,,,,
+2863,S.Michel,NE,2,Red Zone,11,4,4,0.0,,,,
+2864,S.Michel,NE,3,Inside the 5,7,5,2,1.0,0.0,0.0,0.0,2.0
+2865,S.Michel,NE,3,Other,4,4,7,0.0,,,,
+2866,S.Michel,NE,4,Inside the 5,1,1,1,0.0,,,,
+2867,S.Michel,NE,4,Other,56,15,14,0.0,,,,
+2868,S.Michel,NE,4,Red Zone,6,5,2,0.0,,,,
+2869,S.Michel,NE,5,Other,68,25,12,0.0,64.0,0.0,6.0,6.0
+2870,S.Michel,NE,5,Red Zone,23,14,4,1.0,,,,
+2871,S.Michel,NE,6,Other,86,26,20,0.0,54.0,0.0,4.0,6.0
+2872,S.Michel,NE,6,Red Zone,0,0,2,0.0,,,,
+2873,S.Michel,NE,7,Inside the 5,3,3,6,3.0,,,,
+2874,S.Michel,NE,7,Other,39,11,13,0.0,-16.0,0.0,2.0,2.0
+2875,S.Michel,NE,8,Inside the 5,0,0,1,0.0,,,,
+2876,S.Michel,NE,8,Other,68,16,16,0.0,,,,
+2877,S.Michel,NE,8,Red Zone,6,2,4,0.0,,,,
+2878,S.Michel,NE,9,Other,18,10,4,0.0,24.0,0.0,0.0,4.0
+2879,S.Michel,NE,11,Other,33,12,10,0.0,24.0,0.0,2.0,4.0
+2880,S.Michel,NE,12,Other,78,17,15,0.0,,,,
+2881,S.Michel,NE,12,Red Zone,7,12,5,0.0,,,,
+2882,S.Michel,NE,13,Other,43,17,9,0.0,,,,
+2883,S.Michel,NE,13,Red Zone,2,2,1,0.0,,,,
+2884,S.Michel,NE,14,Other,8,3,5,0.0,2.0,0.0,2.0,2.0
+2885,S.Michel,NE,15,Other,89,12,19,0.0,28.0,0.0,2.0,2.0
+2886,S.Michel,NE,16,Inside the 5,0,0,1,0.0,,,,
+2887,S.Michel,NE,16,Other,95,25,17,0.0,10.0,0.0,2.0,4.0
+2888,S.Michel,NE,16,Red Zone,1,6,3,0.0,,,,
+2889,S.Michel,NE,17,Inside the 5,4,4,1,1.0,,,,
+2890,S.Michel,NE,17,Other,66,9,14,0.0,,,,
+2891,S.Michel,NE,17,Red Zone,4,2,3,0.0,,,,
+2892,S.Miller,TB,5,Other,18,18,1,0.0,0.0,0.0,0.0,4.0
+2893,S.Miller,TB,12,Other,-2,-2,1,0.0,,,,
+2894,S.Perine,MIA,17,Other,16,9,5,0.0,,,,
+2895,S.Perry,BUF,17,Other,4,6,2,0.0,,,,
+2896,S.Perry,BUF,17,Red Zone,-1,-1,1,0.0,2.0,0.0,2.0,2.0
+2897,S.Shepard,NYG,3,Other,21,19,2,0.0,186.0,0.0,12.0,16.0
+2898,S.Shepard,NYG,4,Other,23,23,1,0.0,126.0,0.0,12.0,16.0
+2899,S.Shepard,NYG,5,Red Zone,-2,-2,1,0.0,0.0,0.0,0.0,2.0
+2900,S.Shepard,NYG,12,Other,22,22,1,0.0,36.0,0.0,8.0,16.0
+2901,S.Shepard,NYG,14,Other,8,8,1,0.0,42.0,0.0,6.0,10.0
+2902,S.Sims,WAS,2,Other,12,8,2,0.0,6.0,0.0,2.0,2.0
+2903,S.Sims,WAS,2,Red Zone,4,4,1,0.0,,,,
+2904,S.Sims,WAS,5,Other,65,65,1,1.0,2.0,0.0,2.0,6.0
+2905,S.Sims,WAS,6,Other,1,1,1,0.0,,,,
+2906,S.Sims,WAS,7,Other,0,0,1,0.0,16.0,0.0,4.0,4.0
+2907,S.Sims,WAS,16,Other,9,14,2,0.0,94.0,0.0,8.0,14.0
+2908,S.Sims,WAS,17,Other,-6,-6,1,0.0,132.0,0.0,4.0,10.0
+2909,S.Ware,KC,14,Other,11,6,5,0.0,-18.0,0.0,0.0,2.0
+2910,S.Ware,KC,15,Other,25,5,6,0.0,12.0,0.0,2.0,2.0
+2911,S.Ware,KC,15,Red Zone,1,1,1,0.0,6.0,0.0,2.0,2.0
+2912,S.Ware,KC,16,Other,9,5,4,0.0,44.0,0.0,4.0,6.0
+2913,S.Ware,KC,16,Red Zone,5,5,1,0.0,,,,
+2914,S.Watkins,KC,10,Other,12,11,2,0.0,78.0,0.0,10.0,18.0
+2915,T.Austin,DAL,4,Other,3,3,1,0.0,10.0,0.0,2.0,2.0
+2916,T.Austin,DAL,5,Other,14,14,1,0.0,26.0,0.0,2.0,2.0
+2917,T.Austin,DAL,7,Red Zone,20,20,1,1.0,,,,
+2918,T.Austin,DAL,10,Other,7,7,1,0.0,,,,
+2919,T.Austin,DAL,15,Other,1,1,1,0.0,118.0,2.0,2.0,2.0
+2920,T.Austin,DAL,15,Red Zone,2,2,1,0.0,,,,
+2921,T.Boyd,CIN,1,Other,3,3,1,0.0,120.0,0.0,14.0,24.0
+2922,T.Boyd,CIN,8,Other,3,3,1,0.0,130.0,0.0,12.0,16.0
+2923,T.Boyd,CIN,11,Other,10,10,1,0.0,0.0,0.0,2.0,6.0
+2924,T.Boyd,CIN,14,Other,7,7,1,0.0,118.0,0.0,8.0,10.0
+2925,T.Brady,NE,2,Inside the 5,1,1,1,1.0,,,,
+2926,T.Brady,NE,6,Inside the 5,4,2,4,2.0,,,,
+2927,T.Brady,NE,6,Other,2,2,1,0.0,,,,
+2928,T.Brady,NE,13,Other,13,13,1,0.0,,,,
+2929,T.Brady,NE,14,Other,20,17,2,0.0,,,,
+2930,T.Brady,NE,16,Inside the 5,6,3,2,0.0,,,,
+2931,T.Bridgewater,NO,2,Other,5,4,2,0.0,,,,
+2932,T.Bridgewater,NO,3,Inside the 5,0,0,2,0.0,,,,
+2933,T.Bridgewater,NO,3,Other,12,11,2,0.0,,,,
+2934,T.Bridgewater,NO,4,Red Zone,8,5,3,0.0,,,,
+2935,T.Bridgewater,NO,5,Other,8,5,4,0.0,,,,
+2936,T.Bridgewater,NO,6,Red Zone,2,2,1,0.0,,,,
+2937,T.Bridgewater,NO,7,Other,9,6,2,0.0,,,,
+2938,T.Brooks-James,PIT,9,Other,0,0,1,0.0,,,,
+2939,T.Brooks-James,PIT,10,Other,9,8,5,0.0,,,,
+2940,T.Brooks-James,PIT,10,Red Zone,2,2,1,0.0,,,,
+2941,T.Brooks-James,PIT,11,Other,-4,-4,1,0.0,,,,
+2942,T.Carson,DET,8,Other,32,12,11,0.0,,,,
+2943,T.Carson,DET,8,Red Zone,2,2,1,0.0,,,,
+2944,T.Carson,GB,5,Other,14,7,6,0.0,36.0,0.0,8.0,8.0
+2945,T.Cohen,CHI,2,Other,18,9,4,0.0,14.0,0.0,2.0,10.0
+2946,T.Cohen,CHI,3,Other,-2,1,4,0.0,52.0,0.0,4.0,8.0
+2947,T.Cohen,CHI,4,Other,11,6,5,0.0,-6.0,0.0,0.0,4.0
+2948,T.Cohen,CHI,5,Other,10,4,4,0.0,78.0,0.0,12.0,14.0
+2949,T.Cohen,CHI,7,Other,10,9,3,0.0,38.0,0.0,16.0,22.0
+2950,T.Cohen,CHI,8,Other,1,1,1,0.0,74.0,0.0,6.0,6.0
+2951,T.Cohen,CHI,8,Red Zone,8,6,3,0.0,,,,
+2952,T.Cohen,CHI,9,Inside the 5,0,0,1,0.0,,,,
+2953,T.Cohen,CHI,9,Red Zone,7,7,1,0.0,,,,
+2954,T.Cohen,CHI,10,Other,14,8,3,0.0,28.0,0.0,6.0,6.0
+2955,T.Cohen,CHI,11,Other,39,12,9,0.0,42.0,0.0,8.0,10.0
+2956,T.Cohen,CHI,12,Other,25,13,6,0.0,60.0,0.0,12.0,16.0
+2957,T.Cohen,CHI,13,Other,9,5,3,0.0,52.0,0.0,8.0,8.0
+2958,T.Cohen,CHI,14,Other,7,6,3,0.0,42.0,0.0,10.0,10.0
+2959,T.Cohen,CHI,15,Other,21,8,6,0.0,114.0,0.0,14.0,20.0
+2960,T.Cohen,CHI,15,Red Zone,7,4,2,0.0,,,,
+2961,T.Cohen,CHI,16,Other,8,6,2,0.0,50.0,0.0,6.0,8.0
+2962,T.Cohen,CHI,17,Other,20,19,4,0.0,92.0,0.0,16.0,18.0
+2963,T.Coleman,SF,1,Other,18,12,5,0.0,66.0,0.0,4.0,6.0
+2964,T.Coleman,SF,1,Red Zone,5,5,1,0.0,,,,
+2965,T.Coleman,SF,5,Other,74,15,14,0.0,,,,
+2966,T.Coleman,SF,5,Red Zone,23,19,2,1.0,,,,
+2967,T.Coleman,SF,6,Inside the 5,4,2,4,1.0,0.0,0.0,0.0,2.0
+2968,T.Coleman,SF,6,Other,42,9,12,0.0,4.0,0.0,2.0,2.0
+2969,T.Coleman,SF,6,Red Zone,-1,0,2,0.0,28.0,0.0,2.0,2.0
+2970,T.Coleman,SF,7,Other,55,9,14,0.0,-2.0,0.0,4.0,4.0
+2971,T.Coleman,SF,7,Red Zone,7,6,6,0.0,,,,
+2972,T.Coleman,SF,8,Inside the 5,1,1,1,1.0,,,,
+2973,T.Coleman,SF,8,Other,84,48,8,1.0,,,,
+2974,T.Coleman,SF,8,Red Zone,20,19,2,1.0,26.0,2.0,4.0,4.0
+2975,T.Coleman,SF,9,Inside the 5,2,2,1,0.0,,,,
+2976,T.Coleman,SF,9,Other,18,8,9,0.0,26.0,0.0,4.0,8.0
+2977,T.Coleman,SF,9,Red Zone,3,3,2,0.0,,,,
+2978,T.Coleman,SF,10,Other,40,22,9,0.0,64.0,0.0,8.0,8.0
+2979,T.Coleman,SF,11,Inside the 5,-2,-2,1,0.0,0.0,0.0,0.0,2.0
+2980,T.Coleman,SF,11,Other,14,4,9,0.0,96.0,0.0,6.0,6.0
+2981,T.Coleman,SF,11,Red Zone,2,2,2,0.0,,,,
+2982,T.Coleman,SF,12,Inside the 5,2,2,1,1.0,,,,
+2983,T.Coleman,SF,12,Other,32,11,9,0.0,4.0,0.0,2.0,4.0
+2984,T.Coleman,SF,12,Red Zone,5,5,1,0.0,16.0,0.0,2.0,4.0
+2985,T.Coleman,SF,13,Other,6,2,5,0.0,18.0,0.0,2.0,2.0
+2986,T.Coleman,SF,14,Other,6,6,3,0.0,,,,
+2987,T.Coleman,SF,15,Inside the 5,-1,-1,1,0.0,,,,
+2988,T.Coleman,SF,15,Other,41,37,3,0.0,0.0,0.0,0.0,2.0
+2989,T.Coleman,SF,16,Other,31,12,4,0.0,,,,
+2990,T.Coleman,SF,16,Red Zone,2,2,1,0.0,,,,
+2991,T.Coleman,SF,17,Other,11,5,5,0.0,14.0,0.0,2.0,2.0
+2992,T.Davis,OAK,4,Other,74,60,2,1.0,,,,
+2993,T.Davis,OAK,8,Other,-1,-1,1,0.0,30.0,0.0,2.0,4.0
+2994,T.Davis,OAK,13,Other,0,0,1,0.0,,,,
+2995,T.Edmunds,PIT,8,Other,0,0,1,0.0,,,,
+2996,T.Edmunds,PIT,9,Inside the 5,-2,-2,1,0.0,,,,
+2997,T.Edmunds,PIT,9,Other,72,45,10,0.0,,,,
+2998,T.Edmunds,PIT,9,Red Zone,3,3,1,0.0,,,,
+2999,T.Edmunds,PIT,10,Other,2,3,3,0.0,28.0,0.0,4.0,6.0
+3000,T.Edmunds,PIT,10,Red Zone,-1,-1,1,0.0,,,,
+3001,T.Edmunds,PIT,11,Other,11,9,3,0.0,54.0,0.0,6.0,6.0
+3002,T.Ervin,GB,17,Other,10,10,1,0.0,10.0,0.0,2.0,6.0
+3003,T.Gabriel,CHI,2,Red Zone,14,14,1,0.0,,,,
+3004,T.Gabriel,CHI,3,Red Zone,7,7,1,0.0,,,,
+3005,T.Gabriel,CHI,10,Other,-1,-1,1,0.0,78.0,2.0,8.0,12.0
+3006,T.Ginn,NO,5,Other,1,1,1,0.0,66.0,2.0,2.0,2.0
+3007,T.Ginn,NO,6,Other,12,12,1,0.0,72.0,0.0,4.0,12.0
+3008,T.Ginn,NO,10,Red Zone,5,5,1,0.0,,,,
+3009,T.Gurley,LA,1,Other,97,25,14,0.0,8.0,0.0,2.0,2.0
+3010,T.Gurley,LA,2,Inside the 5,4,4,1,1.0,,,,
+3011,T.Gurley,LA,2,Other,52,20,12,0.0,8.0,0.0,6.0,8.0
+3012,T.Gurley,LA,2,Red Zone,7,4,3,0.0,,,,
+3013,T.Gurley,LA,3,Inside the 5,2,2,1,0.0,,,,
+3014,T.Gurley,LA,3,Other,45,9,12,0.0,,,,
+3015,T.Gurley,LA,3,Red Zone,-4,-4,1,0.0,0.0,0.0,0.0,2.0
+3016,T.Gurley,LA,4,Inside the 5,5,5,1,1.0,,,,
+3017,T.Gurley,LA,4,Other,0,1,2,0.0,108.0,0.0,14.0,20.0
+3018,T.Gurley,LA,4,Red Zone,11,13,2,1.0,0.0,0.0,0.0,2.0
+3019,T.Gurley,LA,5,Inside the 5,1,1,1,1.0,,,,
+3020,T.Gurley,LA,5,Other,39,12,12,0.0,12.0,0.0,6.0,10.0
+3021,T.Gurley,LA,5,Red Zone,11,8,2,1.0,,,,
+3022,T.Gurley,LA,7,Inside the 5,-2,2,2,0.0,,,,
+3023,T.Gurley,LA,7,Other,27,10,9,0.0,,,,
+3024,T.Gurley,LA,7,Red Zone,16,8,7,0.0,26.0,2.0,2.0,2.0
+3025,T.Gurley,LA,8,Inside the 5,5,3,2,1.0,,,,
+3026,T.Gurley,LA,8,Other,26,20,5,0.0,0.0,0.0,0.0,2.0
+3027,T.Gurley,LA,8,Red Zone,13,9,3,0.0,,,,
+3028,T.Gurley,LA,10,Other,71,22,10,0.0,0.0,0.0,0.0,8.0
+3029,T.Gurley,LA,10,Red Zone,2,6,2,0.0,,,,
+3030,T.Gurley,LA,11,Inside the 5,1,1,1,1.0,,,,
+3031,T.Gurley,LA,11,Other,89,13,22,0.0,72.0,0.0,6.0,6.0
+3032,T.Gurley,LA,11,Red Zone,7,4,2,0.0,,,,
+3033,T.Gurley,LA,12,Other,23,15,5,0.0,8.0,0.0,4.0,4.0
+3034,T.Gurley,LA,12,Red Zone,-1,-1,1,0.0,-14.0,0.0,2.0,2.0
+3035,T.Gurley,LA,13,Inside the 5,1,1,2,1.0,,,,
+3036,T.Gurley,LA,13,Other,66,10,13,0.0,40.0,0.0,2.0,2.0
+3037,T.Gurley,LA,13,Red Zone,28,11,4,0.0,,,,
+3038,T.Gurley,LA,14,Inside the 5,1,1,1,0.0,,,,
+3039,T.Gurley,LA,14,Other,65,23,17,0.0,68.0,0.0,8.0,8.0
+3040,T.Gurley,LA,14,Red Zone,13,7,5,1.0,,,,
+3041,T.Gurley,LA,15,Inside the 5,2,2,1,0.0,4.0,2.0,2.0,2.0
+3042,T.Gurley,LA,15,Other,11,8,9,0.0,32.0,0.0,4.0,10.0
+3043,T.Gurley,LA,15,Red Zone,9,7,2,1.0,,,,
+3044,T.Gurley,LA,16,Inside the 5,6,5,2,2.0,,,,
+3045,T.Gurley,LA,16,Other,38,8,11,0.0,0.0,0.0,0.0,4.0
+3046,T.Gurley,LA,16,Red Zone,4,3,2,0.0,,,,
+3047,T.Gurley,LA,17,Inside the 5,0,0,1,0.0,,,,
+3048,T.Gurley,LA,17,Other,44,14,14,0.0,42.0,0.0,4.0,4.0
+3049,T.Gurley,LA,17,Red Zone,24,8,5,0.0,,,,
+3050,T.Hill,KC,1,Red Zone,5,5,1,0.0,,,,
+3051,T.Hill,KC,8,Other,5,5,1,0.0,152.0,0.0,12.0,16.0
+3052,T.Hill,KC,9,Red Zone,5,5,1,0.0,,,,
+3053,T.Hill,KC,10,Other,3,3,1,0.0,288.0,0.0,16.0,34.0
+3054,T.Hill,KC,13,Other,-4,-4,1,0.0,110.0,0.0,10.0,16.0
+3055,T.Hill,KC,14,Other,8,5,2,0.0,124.0,0.0,12.0,14.0
+3056,T.Hill,KC,15,Other,1,1,1,0.0,124.0,2.0,8.0,10.0
+3057,T.Hill,NO,1,Other,2,2,1,0.0,0.0,0.0,0.0,2.0
+3058,T.Hill,NO,1,Red Zone,6,6,1,0.0,18.0,2.0,2.0,2.0
+3059,T.Hill,NO,3,Other,5,5,1,0.0,10.0,0.0,2.0,2.0
+3060,T.Hill,NO,4,Other,18,18,1,0.0,,,,
+3061,T.Hill,NO,4,Red Zone,-2,-2,1,0.0,,,,
+3062,T.Hill,NO,5,Other,14,11,2,0.0,,,,
+3063,T.Hill,NO,6,Other,19,19,1,0.0,,,,
+3064,T.Hill,NO,6,Red Zone,-2,3,2,0.0,,,,
+3065,T.Hill,NO,7,Other,23,23,1,0.0,0.0,0.0,0.0,2.0
+3066,T.Hill,NO,7,Red Zone,-2,-2,1,0.0,,,,
+3067,T.Hill,NO,10,Other,11,11,1,0.0,,,,
+3068,T.Hill,NO,11,Other,2,2,1,0.0,4.0,0.0,2.0,2.0
+3069,T.Hill,NO,13,Other,33,30,2,1.0,18.0,0.0,2.0,2.0
+3070,T.Hill,NO,14,Inside the 5,0,0,1,0.0,,,,
+3071,T.Hill,NO,14,Other,12,7,4,0.0,24.0,0.0,2.0,2.0
+3072,T.Hill,NO,14,Red Zone,1,1,1,0.0,,,,
+3073,T.Hill,NO,15,Other,1,5,2,0.0,56.0,2.0,2.0,2.0
+3074,T.Hill,NO,16,Other,11,7,2,0.0,42.0,0.0,4.0,4.0
+3075,T.Hill,NO,17,Other,4,2,2,0.0,90.0,2.0,2.0,2.0
+3076,T.Homer,SEA,13,Other,29,29,1,0.0,,,,
+3077,T.Homer,SEA,15,Red Zone,7,5,2,0.0,,,,
+3078,T.Homer,SEA,16,Other,22,17,3,0.0,32.0,0.0,10.0,14.0
+3079,T.Homer,SEA,16,Red Zone,-6,-3,2,0.0,20.0,0.0,2.0,2.0
+3080,T.Homer,SEA,17,Other,62,13,10,0.0,60.0,0.0,10.0,10.0
+3081,T.Johnson,DET,1,Other,6,6,1,0.0,,,,
+3082,T.Johnson,DET,2,Other,30,17,5,0.0,12.0,0.0,4.0,4.0
+3083,T.Johnson,DET,3,Other,5,3,4,0.0,0.0,0.0,2.0,4.0
+3084,T.Johnson,DET,4,Other,13,6,3,0.0,2.0,0.0,2.0,2.0
+3085,T.Johnson,DET,7,Other,20,6,7,0.0,56.0,0.0,8.0,8.0
+3086,T.Johnson,DET,7,Red Zone,9,4,3,0.0,,,,
+3087,T.Johnson,DET,8,Other,25,14,7,0.0,26.0,0.0,2.0,8.0
+3088,T.Johnson,DET,9,Inside the 5,1,1,1,0.0,,,,
+3089,T.Johnson,DET,9,Other,28,10,8,0.0,14.0,0.0,6.0,6.0
+3090,T.Johnson,DET,10,Other,16,10,4,0.0,6.0,0.0,2.0,2.0
+3091,T.Johnson,DET,10,Red Zone,0,0,1,0.0,,,,
+3092,T.Johnson,DET,11,Other,6,5,2,0.0,0.0,0.0,2.0,2.0
+3093,T.Johnson,DET,12,Other,7,5,3,0.0,20.0,0.0,4.0,4.0
+3094,T.Johnson,DET,12,Red Zone,4,4,1,0.0,,,,
+3095,T.Johnson,DET,13,Other,10,5,2,0.0,32.0,0.0,4.0,4.0
+3096,T.Johnson,DET,13,Red Zone,2,2,1,0.0,2.0,0.0,2.0,2.0
+3097,T.Johnson,DET,14,Other,3,5,2,0.0,14.0,0.0,2.0,2.0
+3098,T.Johnson,DET,15,Other,3,2,2,0.0,34.0,0.0,8.0,10.0
+3099,T.Johnson,DET,16,Other,20,8,3,0.0,,,,
+3100,T.Johnson,DET,17,Other,65,40,3,0.0,0.0,0.0,0.0,4.0
+3101,T.Jones,HOU,17,Other,29,9,8,0.0,18.0,0.0,2.0,2.0
+3102,T.Jones,HOU,17,Red Zone,11,11,1,0.0,,,,
+3103,T.Kelce,KC,14,Inside the 5,4,4,1,1.0,,,,
+3104,T.Lockett,SEA,5,Other,-8,-8,1,0.0,76.0,0.0,6.0,6.0
+3105,T.Lockett,SEA,6,Other,3,3,1,0.0,120.0,0.0,8.0,8.0
+3106,T.Lockett,SEA,7,Other,-3,-3,1,0.0,106.0,0.0,8.0,8.0
+3107,T.Lockett,SEA,10,Other,3,3,1,0.0,52.0,0.0,6.0,8.0
+3108,T.Logan,TB,10,Other,6,6,1,0.0,0.0,0.0,0.0,2.0
+3109,T.Logan,TB,12,Inside the 5,2,2,1,0.0,,,,
+3110,T.Logan,TB,13,Other,2,2,1,0.0,,,,
+3111,T.McSorley,BAL,17,Other,1,1,1,0.0,,,,
+3112,T.Montgomery,NYJ,1,Other,4,2,2,0.0,,,,
+3113,T.Montgomery,NYJ,2,Other,25,15,3,0.0,22.0,0.0,4.0,4.0
+3114,T.Montgomery,NYJ,3,Other,1,3,2,0.0,0.0,0.0,0.0,2.0
+3115,T.Montgomery,NYJ,5,Other,1,4,2,0.0,,,,
+3116,T.Montgomery,NYJ,7,Other,9,6,2,0.0,0.0,0.0,0.0,2.0
+3117,T.Montgomery,NYJ,11,Other,11,9,2,0.0,0.0,0.0,0.0,2.0
+3118,T.Montgomery,NYJ,12,Other,2,4,5,0.0,42.0,0.0,2.0,4.0
+3119,T.Montgomery,NYJ,13,Other,7,7,1,0.0,2.0,0.0,2.0,2.0
+3120,T.Montgomery,NYJ,14,Other,31,9,8,0.0,60.0,0.0,6.0,6.0
+3121,T.Montgomery,NYJ,14,Red Zone,0,0,1,0.0,,,,
+3122,T.Montgomery,NYJ,15,Other,5,4,2,0.0,10.0,0.0,2.0,2.0
+3123,T.Montgomery,NYJ,16,Other,7,7,2,0.0,2.0,0.0,2.0,2.0
+3124,T.Pollard,DAL,1,Other,24,6,13,0.0,,,,
+3125,T.Pollard,DAL,2,Other,12,9,3,0.0,,,,
+3126,T.Pollard,DAL,2,Red Zone,10,10,1,0.0,6.0,0.0,2.0,2.0
+3127,T.Pollard,DAL,3,Other,87,28,12,0.0,50.0,0.0,6.0,6.0
+3128,T.Pollard,DAL,3,Red Zone,16,16,1,1.0,,,,
+3129,T.Pollard,DAL,5,Other,19,7,4,0.0,,,,
+3130,T.Pollard,DAL,6,Other,13,10,3,0.0,,,,
+3131,T.Pollard,DAL,7,Other,28,11,8,0.0,,,,
+3132,T.Pollard,DAL,9,Other,21,10,3,0.0,18.0,0.0,2.0,2.0
+3133,T.Pollard,DAL,10,Other,-4,-4,1,0.0,,,,
+3134,T.Pollard,DAL,11,Inside the 5,2,2,1,0.0,,,,
+3135,T.Pollard,DAL,11,Other,12,7,2,0.0,84.0,2.0,6.0,6.0
+3136,T.Pollard,DAL,12,Other,19,8,4,0.0,14.0,0.0,4.0,4.0
+3137,T.Pollard,DAL,13,Other,7,4,3,0.0,0.0,0.0,0.0,2.0
+3138,T.Pollard,DAL,15,Other,131,44,12,1.0,24.0,0.0,4.0,4.0
+3139,T.Pollard,DAL,16,Other,0,1,2,0.0,,,,
+3140,T.Pollard,DAL,17,Other,60,11,14,0.0,10.0,0.0,2.0,4.0
+3141,T.Pope,LAC,4,Other,21,8,8,0.0,2.0,0.0,2.0,2.0
+3142,T.Pope,LAC,4,Red Zone,-1,2,2,0.0,26.0,2.0,2.0,2.0
+3143,T.Taylor,LAC,4,Other,2,2,1,0.0,,,,
+3144,T.Taylor,LAC,14,Other,12,9,2,0.0,,,,
+3145,T.Taylor,LAC,16,Other,-1,-1,1,0.0,,,,
+3146,T.Wesco,NYJ,10,Other,2,2,1,0.0,30.0,0.0,2.0,2.0
+3147,T.Yeldon,BUF,3,Other,28,10,6,0.0,38.0,0.0,4.0,4.0
+3148,T.Yeldon,BUF,3,Red Zone,2,2,2,0.0,0.0,0.0,0.0,2.0
+3149,T.Yeldon,BUF,5,Other,15,11,2,0.0,26.0,0.0,8.0,8.0
+3150,T.Yeldon,BUF,17,Other,18,12,7,0.0,48.0,0.0,6.0,8.0
+3151,Tr.Edmunds,PIT,12,Other,5,5,1,0.0,,,,
+3152,Tr.Edmunds,PIT,12,Red Zone,2,2,1,0.0,,,,
+3153,V.McDonald,PIT,10,Other,2,2,1,0.0,22.0,0.0,6.0,14.0
+3154,V.Smith,NYJ,5,Red Zone,19,19,1,1.0,,,,
+3155,V.Smith,NYJ,8,Other,13,13,1,0.0,20.0,0.0,4.0,8.0
+3156,V.Smith,NYJ,17,Other,20,20,1,0.0,72.0,0.0,6.0,8.0
+3157,W.Dissly,SEA,5,Other,7,7,1,0.0,162.0,0.0,8.0,8.0
+3158,W.Gallman Jr,NYG,1,Inside the 5,2,2,1,1.0,,,,
+3159,W.Gallman Jr,NYG,1,Other,15,15,1,0.0,22.0,0.0,4.0,4.0
+3160,W.Gallman Jr,NYG,3,Inside the 5,1,1,1,0.0,,,,
+3161,W.Gallman Jr,NYG,3,Other,12,6,4,0.0,,,,
+3162,W.Gallman Jr,NYG,4,Inside the 5,1,1,2,1.0,,,,
+3163,W.Gallman Jr,NYG,4,Other,58,22,15,0.0,98.0,0.0,8.0,12.0
+3164,W.Gallman Jr,NYG,4,Red Zone,4,4,1,0.0,12.0,2.0,2.0,2.0
+3165,W.Gallman Jr,NYG,5,Other,14,11,2,0.0,,,,
+3166,W.Gallman Jr,NYG,10,Red Zone,2,2,1,0.0,6.0,0.0,2.0,2.0
+3167,W.Gallman Jr,NYG,12,Other,1,1,1,0.0,,,,
+3168,W.Grier,CAR,16,Other,17,11,3,0.0,,,,
+3169,W.Grier,CAR,16,Red Zone,0,0,1,0.0,,,,
+3170,W.Grier,CAR,17,Other,5,3,3,0.0,,,,
+3171,W.Hills,DET,15,Inside the 5,5,3,3,2.0,,,,
+3172,W.Hills,DET,15,Other,16,15,7,0.0,2.0,0.0,4.0,4.0
+3173,W.Smallwood,WAS,2,Other,4,4,1,0.0,,,,
+3174,W.Smallwood,WAS,5,Other,27,12,6,0.0,,,,
+3175,W.Smallwood,WAS,6,Other,4,4,1,0.0,,,,
+3176,W.Smallwood,WAS,7,Other,23,17,5,0.0,36.0,0.0,2.0,2.0
+3177,W.Smallwood,WAS,8,Other,11,11,1,0.0,22.0,0.0,2.0,2.0
+3178,W.Smallwood,WAS,8,Red Zone,-2,-2,1,0.0,0.0,0.0,0.0,2.0
+3179,W.Smallwood,WAS,9,Other,3,3,1,0.0,-4.0,0.0,4.0,6.0
+3180,W.Smallwood,WAS,9,Red Zone,2,2,1,0.0,,,,
+3181,W.Smallwood,WAS,14,Other,4,4,2,0.0,,,,
+3182,W.Smallwood,WAS,17,Other,5,6,3,0.0,,,,
+3183,W.Snead,BAL,7,Red Zone,2,2,1,0.0,,,,
+3184,W.Snead IV,BAL,17,Other,0,0,1,0.0,44.0,0.0,6.0,10.0
+3185,Z.Jones,OAK,9,Other,3,3,1,0.0,36.0,0.0,2.0,6.0
+3186,Z.Line,NO,3,Inside the 5,0,0,1,0.0,,,,
+3187,Z.Line,NO,7,Other,3,3,1,0.0,24.0,0.0,2.0,6.0
+3188,Z.Line,NO,8,Other,8,4,2,0.0,22.0,0.0,2.0,4.0
+3189,Z.Line,NO,11,Other,5,5,1,0.0,10.0,0.0,2.0,2.0
+3190,Z.Line,NO,15,Other,4,3,2,0.0,,,,
+3191,Z.Pascal,IND,5,Other,12,12,1,0.0,16.0,0.0,2.0,4.0
+3192,Z.Pascal,IND,17,Other,4,4,1,0.0,20.0,0.0,2.0,6.0
+3193,Z.Zenner,ARI,8,Other,0,0,1,0.0,26.0,0.0,2.0,2.0
+3194,Z.Zenner,ARI,9,Other,-3,-3,1,0.0,,,,
+3195,Z.Zenner,NO,7,Red Zone,1,1,1,0.0,,,,
